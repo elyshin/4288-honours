@@ -1,0 +1,852 @@
+[
+  {
+    "text": "Về lý thuyết, một cặp đôi có thể mở bốn tài khoản Tesco và kiếm được 3% trên £12,000 – £360.",
+    "entities": [
+      {
+        "entity": "Tesco",
+        "label": "ORG"
+      }
+    ],
+    "id": 201
+  },
+  {
+    "text": "Trong khi đó, khách hàng của Ngân hàng Scotland kiếm được 3% trên số dư từ £3,000-£5,000 khi họ thêm tùy chọn Vantage miễn phí vào tài khoản của mình.",
+    "entities": [
+      {
+        "entity": "Ngân hàng Scotland",
+        "label": "ORG"
+      }
+    ],
+    "id": 202
+  },
+  {
+    "text": "Với điều này, về lý thuyết, bạn có thể truy cập tiền của mình bất cứ khi nào bạn muốn.",
+    "entities": [],
+    "id": 203
+  },
+  {
+    "text": "Mức lãi suất 3% đó cũng áp dụng cho những người sở hữu thẻ Nectar muốn vay từ £15,001-£19,999 trong khoảng thời gian từ hai đến ba năm.",
+    "entities": [
+      {
+        "entity": "Nectar",
+        "label": "ORG"
+      }
+    ],
+    "id": 204
+  },
+  {
+    "text": "Lưu huỳnh là một chất dinh dưỡng quan trọng cho cây trồng, cần thiết cho sự phát triển khỏe mạnh, nhưng đất ở Vương Quốc Anh tự nhiên thiếu hụt khoáng chất thiết yếu này.",
+    "entities": [
+      {
+        "entity": "Vương Quốc Anh",
+        "label": "LOC"
+      }
+    ],
+    "id": 205
+  },
+  {
+    "text": "Chuyển nhanh đến năm 2016 và điều này ngày càng đáng chú ý.",
+    "entities": [],
+    "id": 206
+  },
+  {
+    "text": "Ngạc nhiên như có thể, ngay cả những đám mây mưa axit cũng có thể có một mặt tích cực.",
+    "entities": [],
+    "id": 207
+  },
+  {
+    "text": "Thế giới có thể đang giận dữ và vô lý - nhưng ít nhất có ai đó có lòng tự trọng để tiếp tục phản đối sự thật đó.",
+    "entities": [],
+    "id": 208
+  },
+  {
+    "text": "Bạn kết thúc bằng việc lắng nghe một cách sắc bén hơn cho tiếng ồn tiếp theo và trở nên khó chịu hơn khi nó đến.",
+    "entities": [],
+    "id": 209
+  },
+  {
+    "text": "Điều đó thực sự kinh khủng.",
+    "entities": [],
+    "id": 210
+  },
+  {
+    "text": "Có thể nói rằng Rocco Catalano làm việc, sống và thở với phong cách cổ điển.",
+    "entities": [
+      {
+        "entity": "Rocco Catalano",
+        "label": "PER"
+      }
+    ],
+    "id": 211
+  },
+  {
+    "text": "Tôi nghĩ đó là lý do tại sao họ đắm mình vào hoa văn và màu sắc.",
+    "entities": [],
+    "id": 212
+  },
+  {
+    "text": "Catalano đã chuyển về khu vực này sau khi sống ở London và sau đó là Glasgow, nơi anh đã học thiết kế trang sức tại Trường Nghệ thuật Glasgow.",
+    "entities": [
+      {
+        "entity": "Catalano",
+        "label": "PER"
+      },
+      {
+        "entity": "London",
+        "label": "LOC"
+      },
+      {
+        "entity": "Glasgow",
+        "label": "LOC"
+      },
+      {
+        "entity": "Trường Nghệ thuật Glasgow",
+        "label": "ORG"
+      }
+    ],
+    "id": 213
+  },
+  {
+    "text": "\"Tôi yêu thích những màu sắc nhiệt đới,\" anh ấy nói.",
+    "entities": [],
+    "id": 214
+  },
+  {
+    "text": "\"Tôi đến thăm các buổi triển lãm bằng cấp tại Đại học Northampton để tìm kiếm tài năng mới,\" anh ấy nói.",
+    "entities": [
+      {
+        "entity": "Đại học Northampton",
+        "label": "LOC"
+      }
+    ],
+    "id": 215
+  },
+  {
+    "text": "Nhưng, khi tôi đề nghị cô ấy nhờ Frank làm người mẫu cho cô ấy, cô ấy cười.",
+    "entities": [
+      {
+        "entity": "Frank",
+        "label": "PER"
+      }
+    ],
+    "id": 216
+  },
+  {
+    "text": "Tự nhiên, cảnh quan văn phòng có nhiều quần áo và ít thực phẩm.",
+    "entities": [],
+    "id": 217
+  },
+  {
+    "text": "Chính Wintour xuất hiện ngắn gọn, và được quay phim khi đang đeo kính râm trước khi được phỏng vấn.",
+    "entities": [
+      {
+        "entity": "Wintour",
+        "label": "PER"
+      }
+    ],
+    "id": 218
+  },
+  {
+    "text": "Tôi đã nhìn vào môn motocross và càng nhìn, khuôn mặt của một người phụ nữ này cứ xuất hiện, trong những bức ảnh trông như thể chúng đến từ những năm 1970.",
+    "entities": [],
+    "id": 219
+  },
+  {
+    "text": "Tôi thích chơi với điều đó và tôi luôn tìm kiếm những nguồn cảm hứng phù hợp vì thật thú vị khi tạo ra một bộ sưu tập khi tôi tìm thấy một cái.",
+    "entities": [],
+    "id": 220
+  },
+  {
+    "text": "Tốt nhất thì điều này là ngây thơ và tệ nhất thì nó sẽ lại một lần nữa để cho nhóm vận động bắn súng thoát khỏi trách nhiệm.",
+    "entities": [],
+    "id": 221
+  },
+  {
+    "text": "Người đứng đầu chính sách về thiên nhiên của họ, Jeff Knott, đã tuyên bố: \"Tôi sẽ rất ngạc nhiên nếu lệnh cấm hoặc cấp phép được đưa ra sau đó.\"",
+    "entities": [
+      {
+        "entity": "Jeff Knott",
+        "label": "PER"
+      }
+    ],
+    "id": 222
+  },
+  {
+    "text": "Lập trường của RSPB cũng đã đưa nó vào xung đột với nhiều nhà bảo tồn hàng đầu, từ tác giả của bản kiến nghị, Mark Avery, đến người dẫn chương trình truyền hình Chris Packham.",
+    "entities": [
+      {
+        "entity": "RSPB",
+        "label": "ORG"
+      },
+      {
+        "entity": "Mark Avery",
+        "label": "PER"
+      },
+      {
+        "entity": "Chris Packham",
+        "label": "PER"
+      }
+    ],
+    "id": 223
+  },
+  {
+    "text": "Hãy cứ nói rằng anh ấy sai.",
+    "entities": [],
+    "id": 224
+  },
+  {
+    "text": "Vậy còn vị trí của Úc thì sao?",
+    "entities": [
+      {
+        "entity": "Úc",
+        "label": "ORG"
+      }
+    ],
+    "id": 225
+  },
+  {
+    "text": "Về điều này, một điểm nhật ký ở Ma-rốc sẽ là thứ Bảy giữa, khi các nước phát triển có cơ hội công khai chất vấn lẫn nhau về kế hoạch và tham vọng của họ.",
+    "entities": [
+      {
+        "entity": "Ma-rốc",
+        "label": "LOC"
+      }
+    ],
+    "id": 226
+  },
+  {
+    "text": "\"Chúng tôi đang tích cực suy nghĩ về những cách có thể để giới hạn phạm vi kiện tụng chỉ cho những người có quyền lợi thực sự trong một dự án,\" ông được trích dẫn nói.",
+    "entities": [],
+    "id": 227
+  },
+  {
+    "text": "\"Cá tuyết ở Biển Celtic có thể sụp đổ,\" nếu không có các giới hạn được đề xuất, một quan chức EU cho biết.",
+    "entities": [
+      {
+        "entity": "Biển Celtic",
+        "label": "LOC"
+      },
+      {
+        "entity": "EU",
+        "label": "ORG"
+      }
+    ],
+    "id": 228
+  },
+  {
+    "text": "Nhưng những sự cắt giảm lớn cũng đã được dự kiến cho cá tuyết, cá bơn, cá bơn sao, cá megrim và cá pollack ở biển Celtic và biển Ireland.",
+    "entities": [
+      {
+        "entity": "biển Celtic",
+        "label": "LOC"
+      },
+      {
+        "entity": "biển Ireland",
+        "label": "LOC"
+      }
+    ],
+    "id": 229
+  },
+  {
+    "text": "Các nhà bảo tồn đã hoan nghênh thông báo của ủy ban.",
+    "entities": [],
+    "id": 230
+  },
+  {
+    "text": "Chỉ có 50 là chợ.",
+    "entities": [],
+    "id": 231
+  },
+  {
+    "text": "\"Agora chỉ dành cho những người được mời nhưng nhiều chợ trong số này dễ dàng truy cập nếu bạn biết cách tìm kiếm,\" Tiến sĩ Lee bổ sung.",
+    "entities": [
+      {
+        "entity": "Agora",
+        "label": "ORG"
+      },
+      {
+        "entity": "Lee",
+        "label": "PER"
+      }
+    ],
+    "id": 232
+  },
+  {
+    "text": "Họ không có chúng vào thời của chúng tôi, và những người không có con thể hiện sự không tán thành của họ qua tất cả sự căm ghét của họ đối với việc nuôi dạy con cái hiện đại.",
+    "entities": [],
+    "id": 233
+  },
+  {
+    "text": "Tôi không gọi nó là quái thú một cách nhẹ nhàng.",
+    "entities": [],
+    "id": 234
+  },
+  {
+    "text": "Ngày thứ ba, tôi đã trở lại trên EMicro.",
+    "entities": [],
+    "id": 235
+  },
+  {
+    "text": "Thế giới – và mở rộng ra là Vương quốc Anh – đang đối mặt với tình trạng thiếu hụt những người có kỹ năng cần thiết để xây dựng một hệ thống phòng thủ hiệu quả.",
+    "entities": [
+      {
+        "entity": "Vương quốc Anh",
+        "label": "LOC"
+      }
+    ],
+    "id": 236
+  },
+  {
+    "text": "Các công ty có thể cố gắng thiết lập một tường lửa giữa các hệ thống nhạy cảm và các cường quốc nước ngoài, nhưng nó không phải lúc nào cũng hiệu quả.",
+    "entities": [],
+    "id": 237
+  },
+  {
+    "text": "Nhưng ít nhất họ có thể đặt bẫy để gây nhầm lẫn và ngăn chặn - một khái niệm được gọi là \"phòng thủ chủ động\".",
+    "entities": [],
+    "id": 238
+  },
+  {
+    "text": "Sau khi tôi phát hiện ra một mạch thảo luận phong phú trên internet về chủ đề này, danh sách của tôi đã trở nên dài quá mức và bao phủ gần như mọi tiểu bang trong liên bang.",
+    "entities": [],
+    "id": 239
+  },
+  {
+    "text": "Tôi đã nhìn thấy một vài cái.",
+    "entities": [],
+    "id": 240
+  },
+  {
+    "text": "Điểm dừng chân tiếp theo của tôi là Bellingham, ngay gần biên giới Canada.",
+    "entities": [
+      {
+        "entity": "Bellingham",
+        "label": "LOC"
+      },
+      {
+        "entity": "Canada",
+        "label": "LOC"
+      }
+    ],
+    "id": 241
+  },
+  {
+    "text": "Trở lại trên tàu, chúng tôi tiếp tục đi về phía nam.",
+    "entities": [],
+    "id": 242
+  },
+  {
+    "text": "Một thị trấn nhỏ với hai tháp minaret lướt qua.",
+    "entities": [],
+    "id": 243
+  },
+  {
+    "text": "Tại mỗi nhà ga, một người bảo vệ đội mũ đỏ giám sát sân ga và một người gõ bánh xe đi dọc theo tàu với một cái búa, nhẹ nhàng gõ vào gầm xe.",
+    "entities": [],
+    "id": 244
+  },
+  {
+    "text": "Sau đó, dạo quanh chợ sáng (6.30-10 giờ sáng): kẹo mút gạo, kén ong (nhộng được coi là một món ngon), phổi trâu, vỏ và lá trầu không, cóc sống và cá trê.",
+    "entities": [],
+    "id": 245
+  },
+  {
+    "text": "Sự can thiệp này có thể là sâu rộng nhất của Bắc Kinh kể từ khi Hồng Kông được trao trả từ Vương quốc Anh vào năm 1997.",
+    "entities": [
+      {
+        "entity": "Bắc Kinh",
+        "label": "ORG"
+      },
+      {
+        "entity": "Hồng Kông",
+        "label": "LOC"
+      },
+      {
+        "entity": "Vương quốc Anh",
+        "label": "ORG"
+      }
+    ],
+    "id": 246
+  },
+  {
+    "text": "Lời tuyên thệ liên quan đến việc các nhà lập pháp thề trung thành với Hồng Kông như một phần của Cộng hòa Nhân dân Trung Hoa.",
+    "entities": [
+      {
+        "entity": "Hồng Kông",
+        "label": "LOC"
+      },
+      {
+        "entity": "Cộng hòa Nhân dân Trung Hoa",
+        "label": "LOC"
+      }
+    ],
+    "id": 247
+  },
+  {
+    "text": "Chính phủ Hồng Kông, do các nhà lập pháp ủng hộ Bắc Kinh lãnh đạo, đã lập luận rằng cặp đôi này không nên nhậm chức.",
+    "entities": [
+      {
+        "entity": "Hồng Kông",
+        "label": "ORG"
+      }
+    ],
+    "id": 248
+  },
+  {
+    "text": "\"Bắc Kinh tin rằng sự can thiệp của mình là cần thiết để ngăn chặn tình trạng tê liệt lập pháp tiếp tục trong thành phố,\" ông nói.",
+    "entities": [
+      {
+        "entity": "Bắc Kinh",
+        "label": "ORG"
+      }
+    ],
+    "id": 249
+  },
+  {
+    "text": "Trong khi đó, Hồng Kông dường như đang chuẩn bị cho một làn sóng biểu tình.",
+    "entities": [
+      {
+        "entity": "Hồng Kông",
+        "label": "LOC"
+      }
+    ],
+    "id": 250
+  },
+  {
+    "text": "Ông nói với chương trình Andrew Marr của BBC: \"Một cuộc tổng tuyển cử thực sự là điều cuối cùng mà Chính phủ muốn.\"",
+    "entities": [
+      {
+        "entity": "BBC",
+        "label": "ORG"
+      },
+      {
+        "entity": "Andrew Marr",
+        "label": "PERSON"
+      }
+    ],
+    "id": 251
+  },
+  {
+    "text": "Đó là giấc mơ của anh ấy để kết thúc sự nghiệp của mình ở đây.",
+    "entities": [],
+    "id": 252
+  },
+  {
+    "text": "Hòa một trận đấu mà bạn đã chiếm ưu thế thì dễ dàng bỏ qua, nhưng làm như vậy ba lần liên tiếp cho thấy một điểm yếu.",
+    "entities": [],
+    "id": 253
+  },
+  {
+    "text": "Chúng tôi rất thất vọng vì chúng tôi đã mất sáu điểm khi chơi trên sân nhà.",
+    "entities": [],
+    "id": 254
+  },
+  {
+    "text": "Đó chắc chắn là trường hợp của Andy khi anh ấy đấu với Benoît Paire ở Monte Carlo vào tháng Tư.",
+    "entities": [
+      {
+        "entity": "Andy",
+        "label": "PER"
+      },
+      {
+        "entity": "Benoît Paire",
+        "label": "PER"
+      },
+      {
+        "entity": "Monte Carlo",
+        "label": "LOC"
+      }
+    ],
+    "id": 255
+  },
+  {
+    "text": "Nhưng ngay bây giờ mọi thứ đều không ổn và anh ấy dường như luôn tìm kiếm câu trả lời.",
+    "entities": [],
+    "id": 256
+  },
+  {
+    "text": "Tôi cũng tự hỏi liệu Davis Cup có đóng vai trò nào không.",
+    "entities": [
+      {
+        "entity": "Davis Cup",
+        "type": "Event",
+        "original": "Davis Cup"
+      }
+    ],
+    "id": 257
+  },
+  {
+    "text": "Cuộc khảo sát hàng năm cũng tiết lộ rằng lo ngại về việc gánh thêm gánh nặng tài chính mới đã tăng vọt.",
+    "entities": [],
+    "id": 258
+  },
+  {
+    "text": "Bà Hopley nói thêm: \"Sự gia tăng rủi ro chính trị không nên bị bỏ qua.\"",
+    "entities": [
+      {
+        "entity": "Hopley",
+        "label": "PER"
+      }
+    ],
+    "id": 259
+  },
+  {
+    "text": "Tin tức về sự lừa dối của công ty - đã diễn ra trong nhiều năm - đã xóa hàng chục tỷ euro khỏi giá trị của VW và khiến giám đốc điều hành Martin Winterkorn mất việc.",
+    "entities": [
+      {
+        "entity": "VW",
+        "label": "ORG"
+      },
+      {
+        "entity": "Martin Winterkorn",
+        "label": "PER"
+      }
+    ],
+    "id": 260
+  },
+  {
+    "text": "Nó cũng đã mở ra cho VW các yêu cầu bồi thường lớn, hành động pháp lý và đã thấy nó phải trích lập hơn 16 tỷ euro dự phòng.",
+    "entities": [
+      {
+        "entity": "VW",
+        "label": "ORG"
+      }
+    ],
+    "id": 261
+  },
+  {
+    "text": "Cuộc điều tra bắt đầu vào tháng Sáu, tập trung vào ông Winterkorn và giám đốc thương hiệu Herbert Diess, người vẫn ở lại nhà sản xuất ô tô.",
+    "entities": [
+      {
+        "entity": "Winterkorn",
+        "label": "PER"
+      },
+      {
+        "entity": "Herbert Diess",
+        "label": "PER"
+      }
+    ],
+    "id": 262
+  },
+  {
+    "text": "Ông ấy được thăng chức lên chủ tịch vào tháng Mười năm 2015, tháng sau khi vụ bê bối bị phát hiện.",
+    "entities": [
+      {
+        "entity": "October 2015",
+        "translation": "tháng Mười năm 2015"
+      }
+    ],
+    "id": 263
+  },
+  {
+    "text": "Các doanh nghiệp đã dự kiến bắt đầu thu hẹp vào tháng Bảy, ngay sau cuộc bỏ phiếu Brexit, nhưng thay vào đó đã xoay sở để tiếp tục phát triển ổn định.",
+    "entities": [
+      {
+        "name": "July",
+        "translation": "tháng Bảy"
+      },
+      {
+        "name": "Brexit",
+        "translation": "Brexit"
+      }
+    ],
+    "id": 264
+  },
+  {
+    "text": "Các doanh nghiệp bán lẻ và bán buôn đã mở rộng khi người mua sắm vẫn lạc quan, và các công ty dịch vụ tiêu dùng cũng phát triển.",
+    "entities": [],
+    "id": 265
+  },
+  {
+    "text": "Sẽ có giới hạn đối với khả năng chi tiêu của ông ấy, tuy nhiên, vì Chính phủ vẫn đang thâm hụt ngân sách đáng kể.",
+    "entities": [
+      {
+        "entity": "Government",
+        "translation": "Chính phủ"
+      }
+    ],
+    "id": 266
+  },
+  {
+    "text": "Chi phí sẽ thay đổi hàng tháng và giá dự kiến sẽ tăng vào mùa đông khi mức sử dụng tăng.",
+    "entities": [],
+    "id": 267
+  },
+  {
+    "text": "Biểu giá cố định của Eon có giá 760 bảng Anh và khách hàng của Avro Energy sẽ phải trả khoảng 760 bảng Anh cho biểu giá Simple and Select của họ.",
+    "entities": [
+      {
+        "entity": "Eon",
+        "label": "ORG"
+      },
+      {
+        "entity": "Avro Energy",
+        "label": "ORG"
+      },
+      {
+        "entity": "Simple and Select",
+        "label": "PRODUCT"
+      }
+    ],
+    "id": 268
+  },
+  {
+    "text": "Hoặc đó là một tiêu chuẩn đắt đỏ hay một biểu giá trả trước?",
+    "entities": [],
+    "id": 269
+  },
+  {
+    "text": "Một nhà đầu tư với vận may trung bình và 10.000 bảng Anh trong trái phiếu có thể mong đợi nhận được 125 bảng Anh tiền thưởng mỗi năm.",
+    "entities": [],
+    "id": 270
+  },
+  {
+    "text": "Nếu họ làm vậy, Trái phiếu Premium sẽ không thể phân biệt được với các tài khoản tiết kiệm thông thường.",
+    "entities": [],
+    "id": 271
+  },
+  {
+    "text": "Số tiền đầu tư vào Trái phiếu Premium, và trong các tài khoản Tiết kiệm & Đầu tư Quốc gia khác, được sử dụng để giúp tài trợ cho chi tiêu của Chính phủ.",
+    "entities": [
+      {
+        "entity": "Premium Bonds",
+        "translation": "Trái phiếu Premium"
+      },
+      {
+        "entity": "National Savings & Investments",
+        "translation": "Tiết kiệm & Đầu tư Quốc gia"
+      },
+      {
+        "entity": "Government",
+        "translation": "Chính phủ"
+      }
+    ],
+    "id": 272
+  },
+  {
+    "text": "Điều này không ngăn cản các nhà đầu tư đổ xô bỏ tiền vào các quỹ.",
+    "entities": [],
+    "id": 273
+  },
+  {
+    "text": "Nó được tiếp nối bởi các quỹ Aviva Investors Multi Strategy Target Return và Income, vào đó các nhà đầu tư đã đầu tư lần lượt 2 tỷ bảng Anh và 1,4 tỷ bảng Anh.",
+    "entities": [
+      {
+        "name": "Aviva Investors Multi Strategy Target Return",
+        "type": "Organization"
+      },
+      {
+        "name": "Income",
+        "type": "Organization"
+      },
+      {
+        "name": "2 tỷ bảng Anh",
+        "type": "Money"
+      },
+      {
+        "name": "1,4 tỷ bảng Anh",
+        "type": "Money"
+      }
+    ],
+    "id": 274
+  },
+  {
+    "text": "Điều này có nghĩa là họ đã không được hưởng lợi từ sự gia tăng mà sự sụt giảm của đồng bảng Anh đã mang lại cho các tài sản ở nước ngoài.",
+    "entities": [],
+    "id": 275
+  },
+  {
+    "text": "Adidas đang giúp làm sạch các đại dương của Trái Đất bằng cách sử dụng rác thải trôi nổi khắp thế giới để làm giày.",
+    "entities": [
+      {
+        "entity": "Adidas",
+        "label": "ORG"
+      },
+      {
+        "entity": "Trái Đất",
+        "label": "LOC"
+      }
+    ],
+    "id": 276
+  },
+  {
+    "text": "Người tiêu dùng có thể thúc đẩy nhu cầu thay đổi.",
+    "entities": [],
+    "id": 277
+  },
+  {
+    "text": "Một báo cáo quan trọng vào tháng Một cho biết các đại dương sẽ chứa nhiều nhựa hơn cá vào năm 2050 trừ khi thế giới thực hiện hành động quyết liệt để ngăn chặn rác thải rò rỉ vào biển.",
+    "entities": [
+      {
+        "entity": "January",
+        "translation": "tháng Một"
+      },
+      {
+        "entity": "2050",
+        "translation": "năm 2050"
+      }
+    ],
+    "id": 278
+  },
+  {
+    "text": "Sau một số ca phẫu thuật thiên tài và rất nhiều phục hồi chức năng khó khăn, tôi đã hồi phục hoàn toàn.",
+    "entities": [],
+    "id": 279
+  },
+  {
+    "text": "Cảnh báo rằng NHS hiện đang chịu \"áp lực rất lớn,\" ông kêu gọi công chúng chịu trách nhiệm nhiều hơn cho sức khỏe của chính họ.",
+    "entities": [
+      {
+        "entity": "NHS",
+        "label": "ORG"
+      }
+    ],
+    "id": 280
+  },
+  {
+    "text": "Bốn trong 10 người lớn đã bị thương do thời tiết xấu trong khi chín trong 10 người đánh giá thấp mức độ lạnh của nước Anh vào mùa đông.",
+    "entities": [
+      {
+        "entity": "nước Anh",
+        "label": "LOC"
+      }
+    ],
+    "id": 281
+  },
+  {
+    "text": "Họ sẽ chơi vào thứ Bảy, ngày 10 tháng Sáu.",
+    "entities": [
+      {
+        "entity": "Saturday, 10 June",
+        "translation": "thứ Bảy, ngày 10 tháng Sáu"
+      }
+    ],
+    "id": 282
+  },
+  {
+    "text": "Năm ngoái là một năm tuyệt vời và tôi đã sẵn sàng để chúng ta trở lại thậm chí tốt hơn vào năm 2017.",
+    "entities": [
+      {
+        "entity": "2017",
+        "type": "DATE",
+        "text": "2017"
+      }
+    ],
+    "id": 283
+  },
+  {
+    "text": "Cô ấy bắt đầu tại RSC vào giữa thập niên 60, đóng vai một bệnh nhân tâm thần trong Marat/Sade.",
+    "entities": [
+      {
+        "entity": "RSC",
+        "label": "ORG"
+      }
+    ],
+    "id": 284
+  },
+  {
+    "text": "Chiếc váy mang phong cách đương đại.",
+    "entities": [],
+    "id": 285
+  },
+  {
+    "text": "Năng lượng của cô ấy đến từ đâu? Hoặc giọng nói đó, có thể phát ra với một lực đủ để gây ra sóng xung kích?",
+    "entities": [],
+    "id": 286
+  },
+  {
+    "text": "Cổ của cô ấy đẩy về phía trước trong cuộc đối đầu làm nổi bật tĩnh mạch, tay cô ấy run rẩy.",
+    "entities": [],
+    "id": 287
+  },
+  {
+    "text": "Nhưng đã để Glenda ghi một bàn thắng tuyệt vời như vậy, ai có thể trách được?",
+    "entities": [
+      {
+        "entity": "Glenda",
+        "label": "PER"
+      }
+    ],
+    "id": 288
+  },
+  {
+    "text": "Ông ấy đã làm việc trong lĩnh vực tin tức và thời sự của đài phát thanh và truyền hình trong nhiều thập kỷ.",
+    "entities": [],
+    "id": 289
+  },
+  {
+    "text": "Về lý thuyết, nếu thực hiện đúng, nó không thể bị phát hiện.",
+    "entities": [],
+    "id": 290
+  },
+  {
+    "text": "Thả micro.",
+    "entities": [],
+    "id": 291
+  },
+  {
+    "text": "Theo như chính giám đốc đếm, đến nay ông đã làm tám bộ phim truyện.",
+    "entities": [],
+    "id": 292
+  },
+  {
+    "text": "\"Điện ảnh đã thay đổi một cách đáng kể đến mức Hollywood đã làm xa lánh khán giả gia đình.\"",
+    "entities": [
+      {
+        "entity": "Hollywood",
+        "label": "ORG"
+      }
+    ],
+    "id": 293
+  },
+  {
+    "text": "Từ góc nhìn của đạo diễn, bộ phim là một hành động cân bằng bấp bênh, giữa những trò vui nhộn của gia đình và kịch tính xã hội mạnh mẽ.",
+    "entities": [],
+    "id": 294
+  },
+  {
+    "text": "Ở một mức độ nào đó, nó hoạt động như một bộ phim ấm áp, dễ chịu và không phô trương dường như được làm riêng cho việc xem vào chiều Chủ Nhật.",
+    "entities": [],
+    "id": 295
+  },
+  {
+    "text": "Và, tất nhiên, có Bob, một nguồn giải trí không ngừng.",
+    "entities": [
+      {
+        "entity": "Bob",
+        "label": "PER"
+      }
+    ],
+    "id": 296
+  },
+  {
+    "text": "Kết quả, sau đó, khó có thể là điều tuyệt vời nhất.",
+    "entities": [],
+    "id": 297
+  },
+  {
+    "text": "Đối với khán giả hiện đại, hầu hết trong số họ sẽ có ít kinh nghiệm về xung đột tiền tuyến, những kỳ tích của Doss thuộc về lĩnh vực không thể tưởng tượng được.",
+    "entities": [
+      {
+        "entity": "Doss",
+        "label": "PER"
+      }
+    ],
+    "id": 298
+  },
+  {
+    "text": "Câu chuyện của Doss cũng có một phẩm chất không ngờ tới khiến nó càng trở nên hấp dẫn hơn.",
+    "entities": [
+      {
+        "entity": "Doss",
+        "label": "PER"
+      }
+    ],
+    "id": 299
+  },
+  {
+    "text": "Tất cả các nhân viên y tế đều được trang bị vũ khí, trừ tôi.",
+    "entities": [],
+    "id": 300
+  }
+]

@@ -1,0 +1,408 @@
+[
+  {
+    "text": "Sau khi đạt đỉnh cao sự nghiệp tại quê nhà ở Úc, Geyer trở về sống ở Los Angeles vào năm 1984 để tập trung vào việc thâm nhập vào làng nhạc ở đó.",
+    "entities": [
+      {
+        "entity": "Úc",
+        "label": "LOC"
+      },
+      {
+        "entity": "Geyer",
+        "label": "PER"
+      },
+      {
+        "entity": "Los Angeles",
+        "label": "LOC"
+      }
+    ],
+    "id": 801
+  },
+  {
+    "text": "Sau khi tiến trình của nó bị đình trệ ở vị trí số 96 trên Billboard 200, Thought 'Ya Knew đã leo lên vị trí số 31 tại Vương quốc Anh, nhưng album chỉ xếp hạng trong hai tuần tại Vương quốc Anh.",
+    "entities": [
+      {
+        "entity": "Vương quốc Anh",
+        "label": "LOC"
+      },
+      {
+        "entity": "Vương quốc Anh",
+        "label": "LOC"
+      }
+    ],
+    "id": 802
+  },
+  {
+    "text": "Sau khi bị sa thải, Peniston đã đảm nhận vai Glinda the Good Witch trong một vở kịch nhạc kịch The Wiz.",
+    "entities": [
+      {
+        "entity": "Peniston",
+        "label": "PER"
+      },
+      {
+        "entity": "Glinda the Good Witch",
+        "label": "PER"
+      }
+    ],
+    "id": 803
+  },
+  {
+    "text": "Wilkes đã được bầu lại và bị trục xuất hai lần nữa, trước khi Hạ viện quyết định rằng ứng cử của ông không hợp lệ và tuyên bố người về nhì là người chiến thắng.",
+    "entities": [
+      {
+        "entity": "Wilkes",
+        "label": "PER"
+      },
+      {
+        "entity": "Hạ viện",
+        "label": "ORG"
+      }
+    ],
+    "id": 804
+  },
+  {
+    "text": "Chính phủ của Grafton tan rã vào năm 1770, cho phép đảng Bảo thủ do Lord North lãnh đạo trở lại nắm quyền.",
+    "entities": [
+      {
+        "entity": "Grafton",
+        "label": "PER"
+      },
+      {
+        "entity": "đảng Bảo thủ",
+        "label": "ORG"
+      },
+      {
+        "entity": "North",
+        "label": "PER"
+      }
+    ],
+    "id": 805
+  },
+  {
+    "text": "George rất mộ đạo và dành hàng giờ để cầu nguyện, nhưng lòng mộ đạo của anh không được chia sẻ bởi các anh em của anh.",
+    "entities": [
+      {
+        "entity": "George",
+        "label": "PER"
+      }
+    ],
+    "id": 806
+  },
+  {
+    "text": "George đã kinh hoàng bởi những gì anh thấy là đạo đức lỏng lẻo của họ.",
+    "entities": [
+      {
+        "entity": "George",
+        "label": "PER"
+      }
+    ],
+    "id": 807
+  },
+  {
+    "text": "Vào năm 1770, anh trai của ông là Hoàng tử Henry, Công tước xứ Cumberland và Strathearn, bị phát hiện là một kẻ ngoại tình, và năm sau đó Cumberland kết hôn với một góa phụ trẻ, Anne Horton.",
+    "entities": [
+      {
+        "entity": "Henry",
+        "label": "PER"
+      },
+      {
+        "entity": "Cumberland",
+        "label": "LOC"
+      },
+      {
+        "entity": "Strathearn",
+        "label": "LOC"
+      },
+      {
+        "entity": "Cumberland",
+        "label": "PER"
+      },
+      {
+        "entity": "Anne Horton",
+        "label": "PER"
+      }
+    ],
+    "id": 808
+  },
+  {
+    "text": "Album năm 1981 của cô ấy, Wild West, là một trong những album bán chạy nhất của cô.",
+    "entities": [
+      {
+        "entity": "1981",
+        "type": "DATE"
+      },
+      {
+        "entity": "Wild West",
+        "type": "ALBUM"
+      }
+    ],
+    "id": 809
+  },
+  {
+    "text": "Vào thời điểm này, việc chi tiêu hoang phí và một loạt các khoản đầu tư tồi tệ của các nhà đầu tư đã khiến cô gần như phá sản.",
+    "entities": [],
+    "id": 810
+  },
+  {
+    "text": "Vào tháng 6 năm 2012, ban nhạc Iceland Sigur Rós đã phát hành một video cho bài hát \"Fjögur Píanó\", với sự tham gia của LaBeouf, trong đó anh xuất hiện khỏa thân.",
+    "entities": [
+      {
+        "entity": "Sigur Rós",
+        "label": "ORG"
+      },
+      {
+        "entity": "LaBeouf",
+        "label": "PER"
+      }
+    ],
+    "id": 811
+  },
+  {
+    "text": "Louis Post Dispatch gọi đó là một trong những màn trình diễn hay nhất của LaBeouf.",
+    "entities": [
+      {
+        "entity": "Louis Post Dispatch",
+        "label": "ORG"
+      },
+      {
+        "entity": "LaBeouf",
+        "label": "PER"
+      }
+    ],
+    "id": 812
+  },
+  {
+    "text": "Chiếc xe bốc cháy, và Kenseth đã bước ra an toàn.",
+    "entities": [
+      {
+        "entity": "Kenseth",
+        "label": "PER"
+      }
+    ],
+    "id": 813
+  },
+  {
+    "text": "Elliott đã tham dự đám tang của cha mình vào ngày diễn ra cuộc đua.",
+    "entities": [
+      {
+        "entity": "Elliott",
+        "label": "PER"
+      }
+    ],
+    "id": 814
+  },
+  {
+    "text": "Năm 2003, anh ấy thống trị bảng xếp hạng điểm số và dẫn đầu 33 trong số 36 cuộc đua cuối cùng và trở thành nhà vô địch NASCAR Winston Cup năm 2003, là tay đua cuối cùng từng giữ danh hiệu đó.",
+    "entities": [
+      {
+        "entity": "NASCAR",
+        "label": "ORG"
+      }
+    ],
+    "id": 815
+  },
+  {
+    "text": "Rafferty đã phát hành hai album nữa vào những năm 1990 trong những gì nhạc sĩ Tom Robinson sau này mô tả là \"một sự trở lại đáng kể về phong độ\".",
+    "entities": [
+      {
+        "entity": "Rafferty",
+        "label": "PER"
+      },
+      {
+        "entity": "Tom Robinson",
+        "label": "PER"
+      }
+    ],
+    "id": 816
+  },
+  {
+    "text": "On a Wing and a Prayer (1992) tái hợp anh ấy với đối tác Stealers Wheel của mình, Egan, trong một số bài hát.",
+    "entities": [
+      {
+        "entity": "Stealers Wheel",
+        "label": "ORG"
+      },
+      {
+        "entity": "Egan",
+        "label": "PER"
+      }
+    ],
+    "id": 817
+  },
+  {
+    "text": "Nó bao gồm ba bản nhạc được đồng sáng tác với anh trai của Rafferty là Jim, cũng là một ca sĩ kiêm nhạc sĩ, người đã ký hợp đồng với Decca Records vào những năm 1970.",
+    "entities": [
+      {
+        "entity": "Rafferty",
+        "label": "PER"
+      },
+      {
+        "entity": "Jim",
+        "label": "PER"
+      },
+      {
+        "entity": "Decca Records",
+        "label": "ORG"
+      }
+    ],
+    "id": 818
+  },
+  {
+    "text": "Rafferty đã thu âm một phiên bản mới của bài hát Humblebums \"Her Father Didn't Like Me Anyway\" trong album Over My Head (1994).",
+    "entities": [
+      {
+        "entity": "Rafferty",
+        "label": "PER"
+      },
+      {
+        "entity": "Humblebums",
+        "label": "ORG"
+      }
+    ],
+    "id": 819
+  },
+  {
+    "text": "Đây là hai bản thu âm cuối cùng mà Rafferty sản xuất với Hugh Murphy, người đã qua đời vào năm 1998.",
+    "entities": [
+      {
+        "entity": "Rafferty",
+        "label": "PER"
+      },
+      {
+        "entity": "Hugh Murphy",
+        "label": "PER"
+      }
+    ],
+    "id": 820
+  },
+  {
+    "text": "Ít nhất 330.000 người, bao gồm 10.000 kỹ thuật viên, đã tham gia.",
+    "entities": [],
+    "id": 821
+  },
+  {
+    "text": "Stalin đã bắt đầu khuyến khích Abakumov thành lập mạng lưới riêng của mình bên trong MGB để chống lại sự thống trị của Beria đối với các bộ quyền lực.",
+    "entities": [
+      {
+        "entity": "Stalin",
+        "label": "PER"
+      },
+      {
+        "entity": "Abakumov",
+        "label": "PER"
+      },
+      {
+        "entity": "MGB",
+        "label": "ORG"
+      },
+      {
+        "entity": "Beria",
+        "label": "PER"
+      }
+    ],
+    "id": 822
+  },
+  {
+    "text": "Các mô hình được trình bày bởi dữ liệu từ khu vực Petén và Uaxactun cho phép các địa điểm này phù hợp với sự phát triển văn hóa của vùng đất thấp Maya.",
+    "entities": [
+      {
+        "entity": "Petén",
+        "label": "LOC"
+      },
+      {
+        "entity": "Uaxactun",
+        "label": "LOC"
+      },
+      {
+        "entity": "Maya",
+        "label": "LOC"
+      }
+    ],
+    "id": 823
+  },
+  {
+    "text": "Bài báo của Thompson cho rằng người Maya cuối cùng là những người \"hòa bình\" vì họ thiếu các biện pháp phòng thủ rõ ràng.",
+    "entities": [
+      {
+        "entity": "Thompson",
+        "label": "PER"
+      },
+      {
+        "entity": "Maya",
+        "label": "LOC"
+      }
+    ],
+    "id": 824
+  },
+  {
+    "text": "Buồm không được thể hiện trong biểu tượng hoặc văn bản thời tiền sử Mesoamerica, thay vào đó, người ta cho rằng thuyền độc mộc đã được sử dụng như một phương tiện vận chuyển chính trên nước của người Maya cổ đại.",
+    "entities": [
+      {
+        "name": "Mesoamerica",
+        "type": "Location"
+      },
+      {
+        "name": "Maya",
+        "type": "People"
+      }
+    ],
+    "id": 825
+  },
+  {
+    "text": "Starlin đảm nhận vai trò người viết cốt truyện trong số tiếp theo, và bắt đầu phát triển một cốt truyện phức tạp xoay quanh nhân vật phản diện Thanos, và trải dài qua một số đầu truyện của Marvel.",
+    "entities": [
+      {
+        "entity": "Starlin",
+        "label": "PER"
+      },
+      {
+        "entity": "Thanos",
+        "label": "PER"
+      }
+    ],
+    "id": 826
+  },
+  {
+    "text": "Đồng thời vào giữa những năm 1970, Starlin đã đóng góp một loạt các câu chuyện cho tuyển tập khoa học viễn tưởng được xuất bản độc lập Star Reach.",
+    "entities": [
+      {
+        "entity": "Starlin",
+        "label": "PER"
+      }
+    ],
+    "id": 827
+  },
+  {
+    "text": "Thông qua bà của mình, Mishima là hậu duệ trực tiếp của Tokugawa Ieyasu.",
+    "entities": [
+      {
+        "entity": "Mishima",
+        "label": "PER"
+      },
+      {
+        "entity": "Tokugawa Ieyasu",
+        "label": "PER"
+      }
+    ],
+    "id": 828
+  },
+  {
+    "text": "Vào năm 1955, Mishima bắt đầu tập luyện thể hình và chế độ tập luyện của ông với ba buổi mỗi tuần không bị gián đoạn trong 15 năm cuối đời.",
+    "entities": [
+      {
+        "entity": "Mishima",
+        "label": "PER"
+      }
+    ],
+    "id": 829
+  },
+  {
+    "text": "Mishima đã ủng hộ một kiểu chủ nghĩa dân tộc rất cá nhân vào cuối đời mình.",
+    "entities": [
+      {
+        "entity": "Mishima",
+        "label": "PER"
+      }
+    ],
+    "id": 830
+  }
+]

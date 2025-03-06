@@ -1,0 +1,585 @@
+[
+  {
+    "text": "Năm 1856, Chiến tranh Nha phiến lần thứ hai bùng nổ; người Trung Quốc lại bị đánh bại và buộc phải chấp nhận các điều khoản của Hiệp ước Thiên Tân năm 1858 và Công ước Bắc Kinh năm 1860.",
+    "entities": [
+      {
+        "entity": "Second Opium War",
+        "translation": "Chiến tranh Nha phiến lần thứ hai"
+      },
+      {
+        "entity": "Chinese",
+        "translation": "người Trung Quốc"
+      },
+      {
+        "entity": "1858 Treaty of Tientsin",
+        "translation": "Hiệp ước Thiên Tân năm 1858"
+      },
+      {
+        "entity": "1860 Convention of Peking",
+        "translation": "Công ước Bắc Kinh năm 1860"
+      }
+    ],
+    "id": 751
+  },
+  {
+    "text": "Hiệp ước đã mở các cảng mới để buôn bán và cho phép người nước ngoài đi lại trong nội địa.",
+    "entities": [],
+    "id": 752
+  },
+  {
+    "text": "Lamarr đã đi cùng Mandl đến các cuộc họp kinh doanh nơi ông hội đàm với các nhà khoa học và các chuyên gia khác tham gia vào công nghệ quân sự.",
+    "entities": [
+      {
+        "entity": "Lamarr",
+        "label": "PER"
+      },
+      {
+        "entity": "Mandl",
+        "label": "PER"
+      }
+    ],
+    "id": 753
+  },
+  {
+    "text": "Những phát minh sớm nhất của Lamarr bao gồm một đèn giao thông cải tiến và một viên nén có thể hòa tan trong nước để tạo ra một loại đồ uống có ga.",
+    "entities": [
+      {
+        "entity": "Lamarr",
+        "label": "PER"
+      }
+    ],
+    "id": 754
+  },
+  {
+    "text": "Cô ấy đã được đề nghị một số kịch bản, quảng cáo truyền hình và dự án sân khấu, nhưng không có gì khiến cô ấy hứng thú.",
+    "entities": [],
+    "id": 755
+  },
+  {
+    "text": "Joseph Darnand, người trở thành sĩ quan SS và lãnh đạo lực lượng bán quân sự Milice săn lùng các thành viên của Resistance, đã bị xử tử vào tháng 10 năm 1945.",
+    "entities": [
+      {
+        "entity": "Joseph Darnand",
+        "label": "PER"
+      },
+      {
+        "entity": "SS",
+        "label": "ORG"
+      },
+      {
+        "entity": "Milice",
+        "label": "ORG"
+      },
+      {
+        "entity": "Resistance",
+        "label": "ORG"
+      }
+    ],
+    "id": 756
+  },
+  {
+    "text": "De Gaulle đã chỉ thị rằng không được thể hiện tình cảm công khai quá mức đối với Churchill và không có giải thưởng chính thức nào mà không có sự đồng ý trước của ông.",
+    "entities": [
+      {
+        "entity": "De Gaulle",
+        "label": "PER"
+      },
+      {
+        "entity": "Churchill",
+        "label": "PER"
+      }
+    ],
+    "id": 757
+  },
+  {
+    "text": "Bộ phim ghi lại sự hủy hoại cuộc sống và sự nghiệp của Carangi do nghiện heroin, và sự suy sụp và cái chết của cô ấy vì AIDS vào giữa những năm 1980.",
+    "entities": [
+      {
+        "entity": "Carangi",
+        "label": "PER"
+      }
+    ],
+    "id": 758
+  },
+  {
+    "text": "Nó đã được hoàn thành khá muộn trong chiến tranh; mặc dù một số chiếc B-29 đã được trang bị Eagle và nó hoạt động tốt, nhưng nó đến quá muộn để tạo ra nhiều khác biệt.",
+    "entities": [],
+    "id": 759
+  },
+  {
+    "text": "Hệ thống radar mà Alvarez được biết đến nhiều nhất và đã đóng vai trò quan trọng trong ngành hàng không, đặc biệt là trong cầu hàng không Berlin sau chiến tranh, là Hệ thống Tiếp cận Điều khiển Mặt đất (GCA).",
+    "entities": [
+      {
+        "entity": "Alvarez",
+        "label": "PER"
+      },
+      {
+        "entity": "Berlin",
+        "label": "LOC"
+      }
+    ],
+    "id": 760
+  },
+  {
+    "text": "Sử dụng ăng-ten lưỡng cực của Alvarez để đạt được độ phân giải góc rất cao, GCA cho phép các nhà điều hành radar mặt đất theo dõi các màn hình hiển thị độ chính xác đặc biệt để hướng dẫn một máy bay hạ cánh xuống đường băng bằng cách truyền các lệnh bằng lời nói cho phi công.",
+    "entities": [
+      {
+        "entity": "Alvarez",
+        "label": "PER"
+      }
+    ],
+    "id": 761
+  },
+  {
+    "text": "Hệ thống rất đơn giản, trực tiếp và hoạt động tốt, ngay cả với những phi công chưa được đào tạo trước đó.",
+    "entities": [],
+    "id": 762
+  },
+  {
+    "text": "Nó đã thành công đến mức quân đội tiếp tục sử dụng nó trong nhiều năm sau chiến tranh, và nó vẫn được sử dụng ở một số quốc gia vào những năm 1980.",
+    "entities": [],
+    "id": 763
+  },
+  {
+    "text": "Với sự gia tăng dân số, các khu vực bản địa mới đã được tạo ra.",
+    "entities": [],
+    "id": 764
+  },
+  {
+    "text": "Liên minh Lực lượng Dân chủ Giải phóng Congo nổi dậy đã chiếm được Lubumbashi vào tháng 4 năm 1997.",
+    "entities": [
+      {
+        "entity": "Liên minh Lực lượng Dân chủ Giải phóng Congo",
+        "label": "ORG"
+      },
+      {
+        "entity": "Lubumbashi",
+        "label": "LOC"
+      }
+    ],
+    "id": 765
+  },
+  {
+    "text": "Độ cao lớn giúp làm mát khí hậu, nếu không thì sẽ rất nóng.",
+    "entities": [],
+    "id": 766
+  },
+  {
+    "text": "Sức khỏe giảm sút đã làm giảm sản lượng của Hitchcock trong hai thập kỷ cuối đời của ông.",
+    "entities": [
+      {
+        "entity": "Hitchcock",
+        "label": "PER"
+      }
+    ],
+    "id": 767
+  },
+  {
+    "text": "Các bộ phim của Hitchcock đôi khi có các nhân vật gặp khó khăn trong mối quan hệ với mẹ của họ.",
+    "entities": [
+      {
+        "entity": "Hitchcock",
+        "label": "PER"
+      }
+    ],
+    "id": 768
+  },
+  {
+    "text": "Hitchcock thích làm việc với những tài năng xuất sắc nhất trong thời của ông—các nhà thiết kế áp phích phim như Bill Gold và Saul Bass—những người sẽ tạo ra các áp phích thể hiện chính xác các bộ phim của ông.",
+    "entities": [
+      {
+        "entity": "Hitchcock",
+        "label": "PER"
+      },
+      {
+        "entity": "Bill Gold",
+        "label": "PER"
+      },
+      {
+        "entity": "Saul Bass",
+        "label": "PER"
+      }
+    ],
+    "id": 769
+  },
+  {
+    "text": "Một cuộc xung đột tinh thần đã chiếm lấy Herzl, giữa khao khát thành công văn học và mong muốn hành động như một nhân vật công chúng.",
+    "entities": [
+      {
+        "entity": "Herzl",
+        "label": "PER"
+      }
+    ],
+    "id": 770
+  },
+  {
+    "text": "Vào ngày 10 tháng 3 năm 1896, Herzl đã được Reverend William Hechler, mục sư Anh giáo tại Đại sứ quán Anh, đến thăm.",
+    "entities": [
+      {
+        "entity": "Herzl",
+        "label": "PER"
+      },
+      {
+        "entity": "William Hechler",
+        "label": "PER"
+      },
+      {
+        "entity": "Đại sứ quán Anh",
+        "label": "ORG"
+      }
+    ],
+    "id": 771
+  },
+  {
+    "text": "Trong một tập phim, anh ấy được cho thấy là một người chơi guitar thành thạo.",
+    "entities": [],
+    "id": 772
+  },
+  {
+    "text": "Lenny là một người đàn ông độc thân kiên trì nhưng không may mắn với phụ nữ.",
+    "entities": [
+      {
+        "entity": "Lenny",
+        "label": "PER"
+      }
+    ],
+    "id": 773
+  },
+  {
+    "text": "Trong một dịp, có ngụ ý rằng anh ta là một đặc vụ bí mật có mục tiêu là Homer.",
+    "entities": [
+      {
+        "entity": "Homer",
+        "label": "PER"
+      }
+    ],
+    "id": 774
+  },
+  {
+    "text": "Quyết định theo đuổi kịch nghệ, Winstone đã ghi danh vào Học viện Sân khấu Corona ở Hammersmith.",
+    "entities": [
+      {
+        "entity": "Winstone",
+        "label": "PER"
+      },
+      {
+        "entity": "Học viện Sân khấu Corona",
+        "label": "ORG"
+      },
+      {
+        "entity": "Hammersmith",
+        "label": "LOC"
+      }
+    ],
+    "id": 775
+  },
+  {
+    "text": "Winstone gặp vợ của mình, Elaine, khi đang quay phim That Summer vào năm 1979.",
+    "entities": [
+      {
+        "entity": "Winstone",
+        "label": "PER"
+      },
+      {
+        "entity": "Elaine",
+        "label": "PER"
+      }
+    ],
+    "id": 776
+  },
+  {
+    "text": "Winstone bị tuyên bố phá sản vào ngày 4 tháng 10 năm 1988 và một lần nữa vào ngày 19 tháng 3 năm 1993.",
+    "entities": [
+      {
+        "entity": "Winstone",
+        "label": "PER"
+      },
+      {
+        "entity": "4 October 1988",
+        "label": "DATE"
+      },
+      {
+        "entity": "19 March 1993",
+        "label": "DATE"
+      }
+    ],
+    "id": 777
+  },
+  {
+    "text": "Disney cũng phát hiện ra rằng Universal sở hữu quyền sở hữu trí tuệ đối với Oswald.",
+    "entities": [
+      {
+        "entity": "Disney",
+        "label": "PER"
+      },
+      {
+        "entity": "Universal",
+        "label": "ORG"
+      }
+    ],
+    "id": 778
+  },
+  {
+    "text": "Disney đã giành được một Giải Oscar Danh Dự khác, bao gồm một tượng Oscar kích thước đầy đủ và bảy tượng Oscar thu nhỏ.",
+    "entities": [
+      {
+        "entity": "Disney",
+        "label": "PER"
+      }
+    ],
+    "id": 779
+  },
+  {
+    "text": "Thẻ này cung cấp một khoản trợ cấp có thể rút từ các máy ATM để mua các nhu cầu học tập như sách và đồng phục.",
+    "entities": [],
+    "id": 780
+  },
+  {
+    "text": "Ông cũng đã xây dựng và cải tạo năm chợ truyền thống vào năm 2013 và bốn chợ truyền thống vào năm 2014.",
+    "entities": [
+      {
+        "entity": "2013",
+        "type": "DATE",
+        "start": 58,
+        "end": 62
+      },
+      {
+        "entity": "2014",
+        "type": "DATE",
+        "start": 88,
+        "end": 92
+      }
+    ],
+    "id": 781
+  },
+  {
+    "text": "Tuy nhiên, đối thủ của ông là Prabowo Subianto cũng tuyên bố chiến thắng, khiến công dân Indonesia bối rối.",
+    "entities": [
+      {
+        "entity": "Prabowo Subianto",
+        "label": "PER"
+      },
+      {
+        "entity": "Indonesia",
+        "label": "LOC"
+      }
+    ],
+    "id": 782
+  },
+  {
+    "text": "Trước khi nhậm chức, Jokowi đã tìm cách để Tổng thống sắp mãn nhiệm Yudhoyono chịu trách nhiệm cho quyết định tăng giá nhiên liệu bằng cách tiếp tục cắt giảm trợ cấp.",
+    "entities": [
+      {
+        "entity": "Jokowi",
+        "label": "PER"
+      },
+      {
+        "entity": "Yudhoyono",
+        "label": "PER"
+      }
+    ],
+    "id": 783
+  },
+  {
+    "text": "Tiểu sử chính thức của ông cũng tuyên bố rằng Kim đã sáng tác sáu vở opera và thích dàn dựng các vở nhạc kịch công phu.",
+    "entities": [
+      {
+        "entity": "Kim",
+        "label": "PER"
+      }
+    ],
+    "id": 784
+  },
+  {
+    "text": "Với lời khuyên từ Alexander, anh ấy đã có thể tìm ra một thỏa hiệp: anh ấy sẽ theo học một trường đại học, nhưng sẽ học văn học.",
+    "entities": [
+      {
+        "entity": "Alexander",
+        "label": "PER"
+      }
+    ],
+    "id": 785
+  },
+  {
+    "text": "Barrie đã ghi danh vào Đại học Edinburgh nơi ông viết các bài đánh giá kịch cho tờ Edinburgh Evening Courant.",
+    "entities": [
+      {
+        "entity": "Barrie",
+        "label": "PER"
+      },
+      {
+        "entity": "Đại học Edinburgh",
+        "label": "ORG"
+      },
+      {
+        "entity": "Edinburgh Evening Courant",
+        "label": "ORG"
+      }
+    ],
+    "id": 786
+  },
+  {
+    "text": "Anh ấy tốt nghiệp và nhận bằng Thạc sĩ vào ngày 21 tháng 4 năm 1882.",
+    "entities": [
+      {
+        "entity": "M.A.",
+        "translation": "Thạc sĩ"
+      },
+      {
+        "entity": "21 April 1882",
+        "translation": "ngày 21 tháng 4 năm 1882"
+      }
+    ],
+    "id": 787
+  },
+  {
+    "text": "Theo một quảng cáo việc làm được chị gái của anh ấy tìm thấy trên The Scotsman, anh ấy đã làm việc trong một năm rưỡi với tư cách là một nhà báo nhân viên tại Nottingham Journal.",
+    "entities": [
+      {
+        "entity": "Nottingham Journal",
+        "label": "ORG"
+      }
+    ],
+    "id": 788
+  },
+  {
+    "text": "Sau đó, anh ấy trở về Kirriemuir.",
+    "entities": [
+      {
+        "entity": "Kirriemuir",
+        "label": "LOC"
+      }
+    ],
+    "id": 789
+  },
+  {
+    "text": "Chỉ có 3000 bản được xuất bản trong lần xuất bản đầu tiên.",
+    "entities": [],
+    "id": 790
+  },
+  {
+    "text": "Đến năm 2009, tổng doanh số của The Power of Now và A New Earth ở Bắc Mỹ đã được ước tính lần lượt là ba triệu và năm triệu bản.",
+    "entities": [
+      {
+        "entity": "2009",
+        "type": "DATE"
+      },
+      {
+        "entity": "The Power of Now",
+        "type": "WORK_OF_ART"
+      },
+      {
+        "entity": "A New Earth",
+        "type": "WORK_OF_ART"
+      },
+      {
+        "entity": "North America",
+        "type": "LOCATION"
+      }
+    ],
+    "id": 791
+  },
+  {
+    "text": "Một số học giả Cơ đốc giáo chỉ trích các giáo lý của Tolle, trong khi những người khác ca ngợi chúng.",
+    "entities": [
+      {
+        "entity": "Tolle",
+        "label": "PER"
+      }
+    ],
+    "id": 792
+  },
+  {
+    "text": "Từ năm 1991 đến năm 1997, cô ấy điều hành một trường học cho trẻ em có khuyết tật học tập.",
+    "entities": [
+      {
+        "entity": "1991",
+        "type": "DATE",
+        "text": "1991"
+      },
+      {
+        "entity": "1997",
+        "type": "DATE",
+        "text": "1997"
+      }
+    ],
+    "id": 793
+  },
+  {
+    "text": "Tác phẩm phi hư cấu mới nhất của cô ấy là về Margaret Douglas, Nữ bá tước của Lennox.",
+    "entities": [
+      {
+        "entity": "Margaret Douglas",
+        "label": "PER"
+      },
+      {
+        "entity": "Lennox",
+        "label": "LOC"
+      }
+    ],
+    "id": 794
+  },
+  {
+    "text": "Cô ấy thấy việc chuyển sang viết tiểu thuyết dễ dàng, giải thích rằng, \"Mỗi cuốn sách là một đường cong học tập, và bạn phải giữ một tâm trí cởi mở.\"",
+    "entities": [],
+    "id": 795
+  },
+  {
+    "text": "Để tránh gặp phải tình huống khó xử tương tự với Jasmine, các nhà làm phim cuối cùng đã quyết định để công chúa được hoạt hình hoàn toàn tại một studio.",
+    "entities": [
+      {
+        "entity": "Jasmine",
+        "label": "PER"
+      }
+    ],
+    "id": 796
+  },
+  {
+    "text": "Với diện mạo của cô ấy đã được hoàn thiện, Jasmine trở thành công chúa không phải người da trắng đầu tiên của Disney thay vì có nguồn gốc châu Âu.",
+    "entities": [
+      {
+        "entity": "Jasmine",
+        "label": "PER"
+      },
+      {
+        "entity": "Disney",
+        "label": "ORG"
+      }
+    ],
+    "id": 797
+  },
+  {
+    "text": "Về mặt chủ đề, Jasmine cũng đại diện cho quyền dân sự, sự khoan dung chủng tộc, hệ thống phân cấp xã hội, cũng như cuộc sống, tự do và mưu cầu hạnh phúc.",
+    "entities": [
+      {
+        "entity": "Jasmine",
+        "label": "PER"
+      }
+    ],
+    "id": 798
+  },
+  {
+    "text": "Tuy nhiên, không có sự công nhận công khai nào thêm về sự kháng chiến và công việc nhân đạo của bà trong thời chiến cho đến sau khi chế độ cộng sản kết thúc ở Ba Lan.",
+    "entities": [
+      {
+        "entity": "Ba Lan",
+        "label": "LOC"
+      }
+    ],
+    "id": 799
+  },
+  {
+    "text": "\"Really Really Love You\" được phát hành vào tháng Tám và đạt top 50; \"Shaky Ground\", đĩa đơn liên quan, xuất hiện vào tháng Chín nhưng Geyer đã ở Mỹ.",
+    "entities": [
+      {
+        "entity": "Geyer",
+        "label": "PER"
+      },
+      {
+        "entity": "Mỹ",
+        "label": "LOC"
+      }
+    ],
+    "id": 800
+  }
+]

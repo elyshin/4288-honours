@@ -1,0 +1,479 @@
+[
+  {
+    "text": "Vào năm 2011, Blunt được bổ nhiệm làm đại sứ của hương thơm mới Yves Saint Laurent, Opium.",
+    "entities": [
+      {
+        "entity": "Blunt",
+        "label": "PER"
+      },
+      {
+        "entity": "2011",
+        "label": "DATE"
+      },
+      {
+        "entity": "Yves Saint Laurent",
+        "label": "ORG"
+      },
+      {
+        "entity": "Opium",
+        "label": "PRODUCT"
+      }
+    ],
+    "id": 831
+  },
+  {
+    "text": "Blunt đóng vai chính trong bộ phim hài Anh năm 2011 Salmon Fishing in the Yemen, do Lasse Hallström đạo diễn và có sự tham gia của Ewan McGregor và Kristin Scott Thomas.",
+    "entities": [
+      {
+        "entity": "Blunt",
+        "label": "PER"
+      },
+      {
+        "entity": "Lasse Hallström",
+        "label": "PER"
+      },
+      {
+        "entity": "Ewan McGregor",
+        "label": "PER"
+      },
+      {
+        "entity": "Kristin Scott Thomas",
+        "label": "PER"
+      }
+    ],
+    "id": 832
+  },
+  {
+    "text": "Cũng trong năm đó, cô xuất hiện ngắn gọn trong bộ phim The Muppets của Disney, với vai trò là lễ tân của Miss Piggy.",
+    "entities": [
+      {
+        "entity": "Disney",
+        "label": "ORG"
+      },
+      {
+        "entity": "Piggy",
+        "label": "PER"
+      }
+    ],
+    "id": 833
+  },
+  {
+    "text": "Cô ấy đóng vai chính trong bộ phim năm 2012 The Five-Year Engagement, do Nicholas Stoller đạo diễn và Jason Segel đồng diễn.",
+    "entities": [
+      {
+        "entity": "Nicholas Stoller",
+        "label": "PER"
+      },
+      {
+        "entity": "Jason Segel",
+        "label": "PER"
+      }
+    ],
+    "id": 834
+  },
+  {
+    "text": "Vào tháng 1 năm 2011, Blunt bắt đầu quay một bộ phim khoa học viễn tưởng của Mỹ, Looper, do Rian Johnson đạo diễn và có sự tham gia của Bruce Willis và Joseph Gordon-Levitt; bộ phim được phát hành vào tháng 9 năm 2012.",
+    "entities": [
+      {
+        "entity": "Blunt",
+        "label": "PER"
+      },
+      {
+        "entity": "Rian Johnson",
+        "label": "PER"
+      },
+      {
+        "entity": "Bruce Willis",
+        "label": "PER"
+      },
+      {
+        "entity": "Joseph Gordon-Levitt",
+        "label": "PER"
+      }
+    ],
+    "id": 835
+  },
+  {
+    "text": "Valentino đã cố gắng tách biệt nhân vật khỏi một hình ảnh khuôn mẫu của một người đàn ông Ả Rập.",
+    "entities": [
+      {
+        "entity": "Valentino",
+        "label": "PER"
+      }
+    ],
+    "id": 836
+  },
+  {
+    "text": "Joseph Schenck đã quan tâm đến việc chọn vợ mình, Norma Talmadge, đóng cặp với Valentino trong một phiên bản của Romeo và Juliet.",
+    "entities": [
+      {
+        "entity": "Joseph Schenck",
+        "label": "PER"
+      },
+      {
+        "entity": "Norma Talmadge",
+        "label": "PER"
+      },
+      {
+        "entity": "Valentino",
+        "label": "PER"
+      },
+      {
+        "entity": "Romeo",
+        "label": "PER"
+      },
+      {
+        "entity": "Juliet",
+        "label": "PER"
+      }
+    ],
+    "id": 837
+  },
+  {
+    "text": "Ngài Halifax, Chủ tịch Hội đồng, đã đến thăm Đức một cách riêng tư vào tháng 11 và gặp Hitler cùng các quan chức Đức khác.",
+    "entities": [
+      {
+        "entity": "Halifax",
+        "label": "PER"
+      },
+      {
+        "entity": "Đức",
+        "label": "LOC"
+      },
+      {
+        "entity": "Hitler",
+        "label": "PER"
+      }
+    ],
+    "id": 838
+  },
+  {
+    "text": "Trong khi phát biểu trước Nội các ngay sau khi lực lượng Đức vượt qua biên giới, Chamberlain đã đổ lỗi cho cả Đức và Áo.",
+    "entities": [
+      {
+        "entity": "Chamberlain",
+        "label": "PER"
+      },
+      {
+        "entity": "Đức",
+        "label": "ORG"
+      },
+      {
+        "entity": "Áo",
+        "label": "ORG"
+      }
+    ],
+    "id": 839
+  },
+  {
+    "text": "Vào tháng Năm, lính biên phòng Séc đã bắn hai nông dân người Đức Sudeten đang cố gắng vượt biên vào Tiệp Khắc mà không dừng lại để kiểm tra biên giới.",
+    "entities": [
+      {
+        "entity": "Tiệp Khắc",
+        "label": "LOC"
+      }
+    ],
+    "id": 840
+  },
+  {
+    "text": "Trong thời gian này, Marcelle thường bị bỏ lại một mình trong phòng trong khi Piaf và Mômone ra ngoài đường hoặc ở câu lạc bộ hát.",
+    "entities": [
+      {
+        "entity": "Marcelle",
+        "label": "PER"
+      },
+      {
+        "entity": "Piaf",
+        "label": "PER"
+      },
+      {
+        "entity": "Mômone",
+        "label": "PER"
+      }
+    ],
+    "id": 841
+  },
+  {
+    "text": "Những điều này gần như hoàn toàn bị lãng quên cho đến sau khi Smith qua đời.",
+    "entities": [
+      {
+        "entity": "Smith",
+        "label": "PER"
+      }
+    ],
+    "id": 842
+  },
+  {
+    "text": "Một chủ đề khác của tiểu thuyết Skylark liên quan đến những tiền thân của công nghệ thông tin hiện đại.",
+    "entities": [
+      {
+        "entity": "Skylark",
+        "type": "Organization"
+      }
+    ],
+    "id": 843
+  },
+  {
+    "text": "Ngay từ năm 1926, Meyer đã viết thư cho Irène Joliot-Curie đề nghị rằng Rona làm việc với bà để học cách phòng thí nghiệm của ông có thể tự tạo ra các mẫu polonium.",
+    "entities": [
+      {
+        "entity": "Meyer",
+        "label": "PER"
+      },
+      {
+        "entity": "Irène Joliot-Curie",
+        "label": "PER"
+      },
+      {
+        "entity": "Rona",
+        "label": "PER"
+      }
+    ],
+    "id": 844
+  },
+  {
+    "text": "Khi Hans Pettersson có thể đảm bảo kinh phí để chi trả cho các chi phí của Rona, Joliot-Curie đã cho phép cô ấy đến và nghiên cứu sự tách polonium tại Viện Curie ở Paris.",
+    "entities": [
+      {
+        "entity": "Hans Pettersson",
+        "label": "PER"
+      },
+      {
+        "entity": "Rona",
+        "label": "PER"
+      },
+      {
+        "entity": "Joliot",
+        "label": "PER"
+      },
+      {
+        "entity": "Curie",
+        "label": "PER"
+      },
+      {
+        "entity": "Viện Curie",
+        "label": "ORG"
+      },
+      {
+        "entity": "Paris",
+        "label": "LOC"
+      }
+    ],
+    "id": 845
+  },
+  {
+    "text": "Rona đã phát triển một phương pháp nâng cao để chuẩn bị các nguồn poloni và tạo ra các phát xạ alpha.",
+    "entities": [
+      {
+        "entity": "Rona",
+        "label": "PER"
+      }
+    ],
+    "id": 846
+  },
+  {
+    "text": "Được công nhận là một chuyên gia trong lĩnh vực này, cô ấy đã mang những kỹ năng đó trở lại Viện Radium cùng với một đĩa nhỏ polonium.",
+    "entities": [
+      {
+        "entity": "Viện Radium",
+        "label": "ORG"
+      }
+    ],
+    "id": 847
+  },
+  {
+    "text": "Đĩa này cho phép Rona tạo ra các mẫu vật trong phòng thí nghiệm của polonium, được sử dụng trong nhiều nghiên cứu tiếp theo của Viện.",
+    "entities": [
+      {
+        "entity": "Rona",
+        "label": "PER"
+      },
+      {
+        "entity": "Viện",
+        "label": "ORG"
+      }
+    ],
+    "id": 848
+  },
+  {
+    "text": "Trong mùa giải 2013, cô xuất hiện trên CTV Montreal với tư cách là người dẫn chương trình thời tiết khách mời.",
+    "entities": [
+      {
+        "entity": "2013",
+        "type": "DATE",
+        "text": "2013"
+      },
+      {
+        "entity": "CTV Montreal",
+        "type": "ORGANIZATION",
+        "text": "CTV Montreal"
+      }
+    ],
+    "id": 849
+  },
+  {
+    "text": "Cô ấy sau đó đối mặt với nhà vô địch bảo vệ và hạt giống hàng đầu Sara Errani, nhưng đã bị đánh bại.",
+    "entities": [
+      {
+        "entity": "Sara Errani",
+        "label": "PER"
+      }
+    ],
+    "id": 850
+  },
+  {
+    "text": "Bouchard đã chịu một thất bại gây sốc trong ba set.",
+    "entities": [
+      {
+        "entity": "Bouchard",
+        "label": "PER"
+      }
+    ],
+    "id": 851
+  },
+  {
+    "text": "Khi con gái của họ là Cecily kết hôn với Richard Plantagenet, Công tước thứ 3 của York, và có nhiều con cái, bao gồm Edward IV và Richard III, Joan trở thành bà của hai vị vua York của Anh.",
+    "entities": [
+      {
+        "entity": "Cecily",
+        "label": "PER"
+      },
+      {
+        "entity": "Richard Plantagenet",
+        "label": "PER"
+      },
+      {
+        "entity": "York",
+        "label": "LOC"
+      },
+      {
+        "entity": "Edward IV",
+        "label": "PER"
+      },
+      {
+        "entity": "Richard III",
+        "label": "PER"
+      },
+      {
+        "entity": "Joan",
+        "label": "PER"
+      },
+      {
+        "entity": "York",
+        "label": "PER"
+      },
+      {
+        "entity": "Anh",
+        "label": "LOC"
+      }
+    ],
+    "id": 852
+  },
+  {
+    "text": "John xứ Gaunt qua đời vào năm 1399.",
+    "entities": [
+      {
+        "entity": "John",
+        "label": "PER"
+      },
+      {
+        "entity": "xứ Gaunt",
+        "label": "LOC"
+      }
+    ],
+    "id": 853
+  },
+  {
+    "text": "Hiệp sĩ Lyvet đã được thả và người theo dõi của ông bị ném vào Tháp.",
+    "entities": [
+      {
+        "entity": "Lyvet",
+        "label": "PER"
+      },
+      {
+        "entity": "Tháp",
+        "label": "LOC"
+      }
+    ],
+    "id": 854
+  },
+  {
+    "text": "Không lâu trước đây, anh ấy đã ly hôn với nữ diễn viên, Gloria Holden, nhưng vẫn còn tình cảm sau sự rạn nứt hôn nhân.",
+    "entities": [
+      {
+        "entity": "Gloria Holden",
+        "label": "PER"
+      }
+    ],
+    "id": 855
+  },
+  {
+    "text": "Anh ấy đóng vai em trai của Humphrey Bogart, một tay chơi vô tư, trong Sabrina (1954), do Audrey Hepburn thủ vai.",
+    "entities": [
+      {
+        "entity": "Humphrey Bogart",
+        "label": "PER"
+      },
+      {
+        "entity": "Audrey Hepburn",
+        "label": "PER"
+      }
+    ],
+    "id": 856
+  },
+  {
+    "text": "Ông ấy đã chọn không tìm kiếm nhiệm kỳ thứ ba trong chu kỳ bầu cử tiếp theo.",
+    "entities": [],
+    "id": 857
+  },
+  {
+    "text": "Chiến dịch tranh cử tổng thống năm 1980 giữa Reagan và đương kim Tổng thống Jimmy Carter đã được tiến hành trong bối cảnh lo ngại trong nước và cuộc khủng hoảng con tin Iran đang diễn ra.",
+    "entities": [
+      {
+        "entity": "Reagan",
+        "label": "PER"
+      },
+      {
+        "entity": "Jimmy Carter",
+        "label": "PER"
+      },
+      {
+        "entity": "Iran",
+        "label": "LOC"
+      }
+    ],
+    "id": 858
+  },
+  {
+    "text": "Đảng Cộng hòa chiếm được Thượng viện lần đầu tiên kể từ năm 1952, và giành được 34 ghế Hạ viện, nhưng Đảng Dân chủ vẫn giữ được đa số.",
+    "entities": [
+      {
+        "entity": "Đảng Cộng hòa",
+        "label": "ORG"
+      },
+      {
+        "entity": "Thượng viện",
+        "label": "ORG"
+      },
+      {
+        "entity": "Hạ viện",
+        "label": "ORG"
+      },
+      {
+        "entity": "Đảng Dân chủ",
+        "label": "ORG"
+      }
+    ],
+    "id": 859
+  },
+  {
+    "text": "Ông đã hồi phục và được xuất viện vào ngày 11 tháng 4, trở thành tổng thống đương nhiệm đầu tiên của Hoa Kỳ sống sót sau khi bị bắn trong một vụ ám sát.",
+    "entities": [
+      {
+        "entity": "Hoa Kỳ",
+        "label": "LOC"
+      }
+    ],
+    "id": 860
+  }
+]
