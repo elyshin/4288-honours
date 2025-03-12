@@ -1,0 +1,4906 @@
+[
+    {
+        "id": 787,
+        "text": "Anh ấy tốt nghiệp và nhận bằng Thạc sĩ vào ngày 21 tháng 4 năm 1882.",
+        "entities": []
+    },
+    {
+        "id": 500,
+        "text": "May đã nhận được nhiều chỉ trích vì tránh né và không phản hồi công khai với truyền thông sau phán quyết tư pháp về Brexit.",
+        "entities": [
+            {
+                "entity": "May",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 931,
+        "text": "Trong cuộc thám hiểm Endurance năm 1914, con tàu Anh Endurance, do thuyền trưởng Sir Ernest Shackleton chỉ huy, đã ra khơi với hai mươi tám người để vượt qua Nam Cực.",
+        "entities": [
+            {
+                "entity": "Ernest Shackleton",
+                "label": "PER"
+            },
+            {
+                "entity": "Nam Cực",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 218,
+        "text": "Chính Wintour xuất hiện ngắn gọn, và được quay phim khi đang đeo kính râm trước khi được phỏng vấn.",
+        "entities": [
+            {
+                "entity": "Wintour",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 804,
+        "text": "Wilkes đã được bầu lại và bị trục xuất hai lần nữa, trước khi Hạ viện quyết định rằng ứng cử của ông không hợp lệ và tuyên bố người về nhì là người chiến thắng.",
+        "entities": [
+            {
+                "entity": "Wilkes",
+                "label": "PER"
+            },
+            {
+                "entity": "Hạ viện",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "text": "Là một tay guitar nhiệt tình, anh ấy đã biểu diễn một buổi hòa nhạc ở đó cùng năm.",
+        "entities": []
+    },
+    {
+        "id": 811,
+        "text": "Vào tháng 6 năm 2012, ban nhạc Iceland Sigur Rós đã phát hành một video cho bài hát \"Fjögur Píanó\", với sự tham gia của LaBeouf, trong đó anh xuất hiện khỏa thân.",
+        "entities": [
+            {
+                "entity": "Sigur Rós",
+                "label": "ORG"
+            },
+            {
+                "entity": "LaBeouf",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "text": "Các học sinh như Rai đã gặp gỡ các cố vấn tại trường để nói về những gì đã xảy ra, nhưng cô ấy nói rằng sự an ủi lớn nhất đến từ việc gặp gỡ bạn bè của mình.",
+        "entities": [
+            {
+                "entity": "Rai",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 984,
+        "text": "Đó là phần từ ranh giới thứ hai này đến ranh giới ngoài, đường tưởng tượng nối cột mốc hải đăng tại Punta del Este với cột mốc hải đăng tại Punta Rasa.",
+        "entities": [
+            {
+                "entity": "Punta del Este",
+                "label": "LOC"
+            },
+            {
+                "entity": "Punta Rasa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "text": "Các nhà nghiên cứu cho biết phân tích DNA khối u có thể giúp giải thích các nguyên nhân cơ bản của các loại ung thư khác.",
+        "entities": []
+    },
+    {
+        "id": 776,
+        "text": "Winstone gặp vợ của mình, Elaine, khi đang quay phim That Summer vào năm 1979.",
+        "entities": [
+            {
+                "entity": "Winstone",
+                "label": "PER"
+            },
+            {
+                "entity": "Elaine",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 359,
+        "text": "Đây là một sự kiện mà Mexico hy vọng cuối cùng sẽ sánh ngang với Lễ hội Carnival của Brazil.",
+        "entities": [
+            {
+                "entity": "Mexico",
+                "label": "LOC"
+            },
+            {
+                "entity": "Brazil",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 621,
+        "text": "Vào những năm 1350, Vua Gongmin cuối cùng đã được tự do cải cách chính phủ Goryeo khi triều đại Yuan bắt đầu sụp đổ.",
+        "entities": [
+            {
+                "entity": "Gongmin",
+                "label": "PER"
+            },
+            {
+                "entity": "Goryeo",
+                "label": "ORG"
+            },
+            {
+                "entity": "Yuan",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 925,
+        "text": "Vào năm sau, 1977, ông nhận được huy chương Hữu nghị Mỹ vì lập trường thân thiện của báo chí ông đối với Hoa Kỳ.",
+        "entities": [
+            {
+                "entity": "Hoa Kỳ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 870,
+        "text": "Wright là bạn của đồng nghiệp đạo diễn Garth Jennings, và đã xuất hiện trong các bộ phim của ông ấy The Hitchhiker's Guide to the Galaxy và Son of Rambow.",
+        "entities": [
+            {
+                "entity": "Wright",
+                "label": "PER"
+            },
+            {
+                "entity": "Garth Jennings",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 169,
+        "text": "Anh ấy hoàn toàn lịch sự và chấp nhận nó như một người đàn ông, tôi vô cùng tức giận.",
+        "entities": []
+    },
+    {
+        "id": 294,
+        "text": "Từ góc nhìn của đạo diễn, bộ phim là một hành động cân bằng bấp bênh, giữa những trò vui nhộn của gia đình và kịch tính xã hội mạnh mẽ.",
+        "entities": []
+    },
+    {
+        "id": 447,
+        "text": "Ông cũng nhận xét rằng \"sự tồn tại của một tài liệu như vậy có thể dẫn đến những hậu quả có khả năng xảy ra như chúng không thể chấp nhận được\".",
+        "entities": []
+    },
+    {
+        "id": 576,
+        "text": "Dòng magma này có xu hướng rất nhớt do hàm lượng silica cao, vì vậy nó thường không đạt đến bề mặt mà nguội đi ở độ sâu.",
+        "entities": []
+    },
+    {
+        "id": 445,
+        "text": "Thời gian làm việc trong giờ đầu tiên này nhiều hay ít cũng bằng 45 phút.",
+        "entities": []
+    },
+    {
+        "id": 608,
+        "text": "Trong khi đó, các biện pháp kiểm soát bổ sung của sông Nile đã thúc đẩy sự phát triển trong Đảo Gezira và dọc theo bờ sông của thành phố.",
+        "entities": [
+            {
+                "entity": "sông Nile",
+                "label": "LOC"
+            },
+            {
+                "entity": "Đảo Gezira",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 686,
+        "text": "Đến thế kỷ thứ 3, hoàng đế Caracalla đã thực hiện một sự phân chia mới nhưng chỉ tồn tại trong một thời gian ngắn.",
+        "entities": [
+            {
+                "entity": "Caracalla",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 514,
+        "text": "Năm 1912, công ty điện ảnh đầu tiên (Athina Film) được thành lập và năm 1916 là Asty Film.",
+        "entities": [
+            {
+                "entity": "Athina Film",
+                "label": "ORG"
+            },
+            {
+                "entity": "Asty Film",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 798,
+        "text": "Về mặt chủ đề, Jasmine cũng đại diện cho quyền dân sự, sự khoan dung chủng tộc, hệ thống phân cấp xã hội, cũng như cuộc sống, tự do và mưu cầu hạnh phúc.",
+        "entities": [
+            {
+                "entity": "Jasmine",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 927,
+        "text": "Lịch sử của Carcassonne gắn liền trực tiếp với lịch sử của thành phố được củng cố của nó.",
+        "entities": [
+            {
+                "entity": "Carcassonne",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 466,
+        "text": "Đây là những gì đã được viết trong một ghi chú gửi đến Mps sau quyết định của cựu bộ trưởng rời khỏi đảng.",
+        "entities": []
+    },
+    {
+        "id": 428,
+        "text": "\"Nếu ai đó không thể xử lý một tài khoản Twitter, họ không thể xử lý mã hạt nhân,\" Obama chế giễu.",
+        "entities": [
+            {
+                "entity": "Obama",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "text": "Trong một cuộc phỏng vấn gần đây, Zay và Zayion đã mô tả việc thu âm phiên bản của họ của “Knuck If You Buck” trên một chiếc laptop ở nhà.",
+        "entities": [
+            {
+                "entity": "Zay",
+                "label": "PER"
+            },
+            {
+                "entity": "Zayion",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 237,
+        "text": "Các công ty có thể cố gắng thiết lập một tường lửa giữa các hệ thống nhạy cảm và các cường quốc nước ngoài, nhưng nó không phải lúc nào cũng hiệu quả.",
+        "entities": []
+    },
+    {
+        "id": 328,
+        "text": "Một phát ngôn viên của Harley-Davidson cho biết các mốc thời gian đã được đưa ra trên phương tiện truyền thông -- 2017 hoặc 2020 -- không chính xác.",
+        "entities": [
+            {
+                "entity": "Harley-Davidson",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 722,
+        "text": "Đến năm 1563, dân số của Venice đã giảm xuống còn khoảng 168,000 người.",
+        "entities": [
+            {
+                "entity": "Venice",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 567,
+        "text": "Về màu sắc, lá cây thể hiện một sự đa dạng tuyệt vời của các sắc xanh, từ xanh vàng đến xanh lam.",
+        "entities": []
+    },
+    {
+        "id": 549,
+        "text": "Blindleia là một tuyến đường thủy được bảo vệ bởi các đảo nhỏ bắt đầu gần Kristiansand ở miền nam Na Uy, và tiếp tục qua Lillesand.",
+        "entities": [
+            {
+                "entity": "Blindleia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Kristiansand",
+                "label": "LOC"
+            },
+            {
+                "entity": "Na Uy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Lillesand",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 670,
+        "text": "Vào ngày 9 tháng 9 năm 2002, Aldrin đã bị dụ đến một khách sạn ở Beverly Hills với lý do là được phỏng vấn cho một chương trình truyền hình thiếu nhi của Nhật Bản về chủ đề không gian.",
+        "entities": [
+            {
+                "entity": "Aldrin",
+                "label": "PER"
+            },
+            {
+                "entity": "Beverly Hills",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 710,
+        "text": "Catherine của Nga cũng rất hài lòng.",
+        "entities": [
+            {
+                "entity": "Catherine",
+                "label": "PER"
+            },
+            {
+                "entity": "Nga",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "text": "\"Tôi không biết mức tăng trưởng GDP trong thời kỳ Chính quyền Washington và Lincoln là bao nhiêu, nhưng sự phát triển về mặt thể chế theo những điều khoản đó đã có những tác động lớn và lâu dài.\"",
+        "entities": [
+            {
+                "entity": "thời kỳ Chính quyền Washington",
+                "label": "ORG"
+            },
+            {
+                "entity": "Lincoln",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 172,
+        "text": "Người ta đã bị giết ở đó.",
+        "entities": []
+    },
+    {
+        "id": 397,
+        "text": "Đó là vì mỗi phép màu và mỗi khu vực chuyên biệt chiếm toàn bộ một lĩnh vực.",
+        "entities": []
+    },
+    {
+        "id": 856,
+        "text": "Anh ấy đóng vai em trai của Humphrey Bogart, một tay chơi vô tư, trong Sabrina (1954), do Audrey Hepburn thủ vai.",
+        "entities": [
+            {
+                "entity": "Humphrey Bogart",
+                "label": "PER"
+            },
+            {
+                "entity": "Audrey Hepburn",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 204,
+        "text": "Mức lãi suất 3% đó cũng áp dụng cho những người sở hữu thẻ Nectar muốn vay từ £15,001-£19,999 trong khoảng thời gian từ hai đến ba năm.",
+        "entities": [
+            {
+                "entity": "Nectar",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 393,
+        "text": "Tờ báo \"Die ZEIT\" lần đầu tiên hỏi thăm doanh nghiệp bất động sản về dòng tiền đáng ngờ của nó và mối đe dọa phá sản vào tháng Bảy.",
+        "entities": [
+            {
+                "entity": "Die ZEIT",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "text": "Anh ấy có thể nhận thấy tác động của cuộc bầu cử xung quanh mình, trong những bùng nổ của xung đột và sự giao thoa tò mò của những ý tưởng mới với những ý tưởng cũ.",
+        "entities": []
+    },
+    {
+        "id": 583,
+        "text": "Trong những năm gia đình sống ở Kentucky và Indiana, Thomas Lincoln làm nông dân, thợ đóng tủ và thợ mộc.",
+        "entities": [
+            {
+                "entity": "Kentucky",
+                "label": "LOC"
+            },
+            {
+                "entity": "Indiana",
+                "label": "LOC"
+            },
+            {
+                "entity": "Thomas Lincoln",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 648,
+        "text": "Shen Kuo sớm gây ấn tượng với Wang Anshi bằng kỹ năng và khả năng của mình như một nhà quản lý và nhân viên chính phủ.",
+        "entities": [
+            {
+                "entity": "Shen Kuo",
+                "label": "PER"
+            },
+            {
+                "entity": "Wang Anshi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 564,
+        "text": "Đầu tiên và quan trọng nhất là sông Ohio, nơi chảy vào sông Mississippi.",
+        "entities": [
+            {
+                "entity": "sông Ohio",
+                "label": "LOC"
+            },
+            {
+                "entity": "sông Mississippi",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 429,
+        "text": "Theo chương trình, cô ấy sẽ phát biểu vào lúc 23.45.",
+        "entities": []
+    },
+    {
+        "id": 854,
+        "text": "Hiệp sĩ Lyvet đã được thả và người theo dõi của ông bị ném vào Tháp.",
+        "entities": [
+            {
+                "entity": "Lyvet",
+                "label": "PER"
+            },
+            {
+                "entity": "Tháp",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 735,
+        "text": "Quy ước này chỉ được nới lỏng một chút trong thời hiện đại và bây giờ vẫn không được khuyến khích giữa bạn bè khi sử dụng tên riêng, nhưng việc sử dụng họ vẫn còn phổ biến.",
+        "entities": []
+    },
+    {
+        "id": 684,
+        "text": "Nhưng tác động của Hispania đối với những người mới đến cũng rất lớn.",
+        "entities": [
+            {
+                "entity": "Hispania",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 985,
+        "text": "Mọi thứ bắt đầu thay đổi vào tháng 10 năm 1777 khi lực lượng Anh dưới sự chỉ huy của Tướng John Burgoyne đầu hàng tại Saratoga ở phía bắc bang New York.",
+        "entities": [
+            {
+                "entity": "John Burgoyne",
+                "label": "PER"
+            },
+            {
+                "entity": "Saratoga",
+                "label": "LOC"
+            },
+            {
+                "entity": "New York",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 452,
+        "text": "Luôn luôn gần gũi với Liên đoàn Công giáo, Tina Anselmi đặc biệt chú ý đến quyền của công nhân dệt may và giáo viên.",
+        "entities": [
+            {
+                "entity": "Liên đoàn Công giáo",
+                "label": "ORG"
+            },
+            {
+                "entity": "Tina Anselmi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 841,
+        "text": "Trong thời gian này, Marcelle thường bị bỏ lại một mình trong phòng trong khi Piaf và Mômone ra ngoài đường hoặc ở câu lạc bộ hát.",
+        "entities": [
+            {
+                "entity": "Marcelle",
+                "label": "PER"
+            },
+            {
+                "entity": "Piaf",
+                "label": "PER"
+            },
+            {
+                "entity": "Mômone",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "text": "Một nhân chứng nói với cảnh sát rằng nạn nhân đã tấn công nghi phạm vào tháng Tư.",
+        "entities": []
+    },
+    {
+        "id": 315,
+        "text": "Trước tiên, chúng ta phải giáo dục mọi người về cách bảo vệ bản thân tốt hơn trên mạng.",
+        "entities": []
+    },
+    {
+        "id": 840,
+        "text": "Vào tháng Năm, lính biên phòng Séc đã bắn hai nông dân người Đức Sudeten đang cố gắng vượt biên vào Tiệp Khắc mà không dừng lại để kiểm tra biên giới.",
+        "entities": [
+            {
+                "entity": "Tiệp Khắc",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 750,
+        "text": "Đảo Hồng Kông đã được nhượng lại cho Anh, và một số cảng, bao gồm Thượng Hải và Quảng Châu, đã được mở cửa cho thương mại và cư trú của người Anh.",
+        "entities": [
+            {
+                "entity": "Đảo Hồng Kông",
+                "label": "LOC"
+            },
+            {
+                "entity": "Anh",
+                "label": "ORG"
+            },
+            {
+                "entity": "Thượng Hải",
+                "label": "LOC"
+            },
+            {
+                "entity": "Quảng Châu",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "text": "Các giám đốc điều hành cũng nhận được cái gọi là \"lương hiệu suất\" khi thành công hoặc vượt qua kỳ vọng, chia sẻ một khoản tiền 1,5 triệu đô la Mỹ giữa họ, hoặc trung bình ước tính 15.000 đô la Mỹ mỗi người.",
+        "entities": []
+    },
+    {
+        "id": 193,
+        "text": "Các nghệ sĩ chạm đến trái tim của mọi người; đó là lần duy nhất chúng ta gặp nhau ở một nơi và gạt bỏ những khác biệt sang một bên.",
+        "entities": []
+    },
+    {
+        "id": 916,
+        "text": "Các nữ tu bị di dời đã được chuyển đến tu viện Eibingen.",
+        "entities": [
+            {
+                "entity": "Eibingen",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 694,
+        "text": "Cụ thể, tỷ lệ nhập học trung học của nam giới cao hơn 10% so với mức trung bình đã giảm khả năng xảy ra xung đột khoảng 3%, trong khi tốc độ tăng trưởng cao hơn 1% so với mức trung bình của nghiên cứu dẫn đến giảm khả năng xảy ra nội chiến khoảng 1%.",
+        "entities": []
+    },
+    {
+        "id": 217,
+        "text": "Tự nhiên, cảnh quan văn phòng có nhiều quần áo và ít thực phẩm.",
+        "entities": []
+    },
+    {
+        "id": 124,
+        "text": "U quái cùng cụt là một khối u phát triển trước khi sinh và phát triển từ xương cụt của em bé.",
+        "entities": []
+    },
+    {
+        "id": 879,
+        "text": "Vào năm 1992, khu đất của nhà hát múa rối cũ, đã được giao cho xã, đã bị chiếm bởi các cầu thủ và nhân viên.",
+        "entities": []
+    },
+    {
+        "id": 792,
+        "text": "Một số học giả Cơ đốc giáo chỉ trích các giáo lý của Tolle, trong khi những người khác ca ngợi chúng.",
+        "entities": [
+            {
+                "entity": "Tolle",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "text": "Nó được thực hiện ngay ngoài khơi bờ biển Mexico từ tháng Tư đến tháng Sáu.",
+        "entities": []
+    },
+    {
+        "id": 115,
+        "text": "Đó chính là lý do khiến chúng tôi muốn quay lại nhiều lần nữa.",
+        "entities": []
+    },
+    {
+        "id": 112,
+        "text": "Điện thoại di động của chúng ta ngày nay còn hơn cả điện thoại.",
+        "entities": []
+    },
+    {
+        "id": 311,
+        "text": "Tôi không biết tại sao tôi đã chọn cô ấy ...",
+        "entities": []
+    },
+    {
+        "id": 484,
+        "text": "Các nguồn tham khảo đã nói rằng đó là \"100% Cospedal\".",
+        "entities": [
+            {
+                "entity": "Cospedal",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "text": "Ông ấy nói thêm: \"Đây là một bước trong hành trình dài tìm kiếm sự kết hợp đúng đắn cho biện pháp tránh thai nội tiết tố nam.\"",
+        "entities": []
+    },
+    {
+        "id": 200,
+        "text": "Trong bối cảnh này, việc phản đối thương mại có lý.",
+        "entities": []
+    },
+    {
+        "id": 858,
+        "text": "Chiến dịch tranh cử tổng thống năm 1980 giữa Reagan và đương kim Tổng thống Jimmy Carter đã được tiến hành trong bối cảnh lo ngại trong nước và cuộc khủng hoảng con tin Iran đang diễn ra.",
+        "entities": [
+            {
+                "entity": "Reagan",
+                "label": "PER"
+            },
+            {
+                "entity": "Jimmy Carter",
+                "label": "PER"
+            },
+            {
+                "entity": "Iran",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 1000,
+        "text": "Vào ngày 1 tháng 1 năm 49 trước Công nguyên, Marco Antonio đã đọc một tuyên bố từ Caesar trong đó vị tổng trấn tuyên bố mình là một người bạn của hòa bình.",
+        "entities": [
+            {
+                "entity": "Marco Antonio",
+                "label": "PER"
+            },
+            {
+                "entity": "Caesar",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 370,
+        "text": "Cô ấy đã nói chuyện với CNN Style về trải nghiệm đó.",
+        "entities": [
+            {
+                "entity": "CNN Style",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 458,
+        "text": "Một phiếu giảm giá được tạo ra có thể lưu trên điện thoại thông minh của bạn, hoặc trình bày tại quầy thanh toán.",
+        "entities": []
+    },
+    {
+        "id": 192,
+        "text": "Ở góc phòng là một cô gái đội khăn trùm đầu và mặc quần jeans trông rất khiêm tốn, tôi nghĩ đó là một trợ lý khác.",
+        "entities": []
+    },
+    {
+        "id": 503,
+        "text": "Bên ngoài vùng cực tây bắc, rừng taiga chiếm ưu thế, bao phủ một phần đáng kể của toàn bộ Siberia.",
+        "entities": [
+            {
+                "entity": "Siberia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 909,
+        "text": "Sau khi Đảng Quốc xã nắm quyền vào năm 1933, đã có những nỗ lực rải rác nhằm giành lại các thuộc địa cũ.",
+        "entities": [
+            {
+                "entity": "Đảng Quốc xã",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 614,
+        "text": "Biển Caribbean đã không được biết đến với các dân cư của Âu-Á cho đến năm 1492, khi Christopher Columbus lần đầu tiên đi thuyền vào vùng biển Caribbean trong một cuộc tìm kiếm tuyến đường biển đến châu Á.",
+        "entities": [
+            {
+                "entity": "Biển Caribbean",
+                "label": "LOC"
+            },
+            {
+                "entity": "Âu-Á",
+                "label": "LOC"
+            },
+            {
+                "entity": "Christopher Columbus",
+                "label": "PER"
+            },
+            {
+                "entity": "châu Á",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "text": "Đầu năm nay, Seagal đã được cấp quốc tịch Serbia sau khi đề nghị thành lập một trường võ thuật ở thủ đô Belgrade.",
+        "entities": [
+            {
+                "entity": "Seagal",
+                "label": "PER"
+            },
+            {
+                "entity": "Belgrade",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 409,
+        "text": "Lý do quảng cáo video ở Đức không rõ ràng.",
+        "entities": [
+            {
+                "entity": "Đức",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "text": "Nhiều nhà khoa học nói rằng công nghệ loại bỏ carbon khỏi không khí sẽ cần thiết để đạt được các mục tiêu của Paris.",
+        "entities": []
+    },
+    {
+        "id": 355,
+        "text": "Anh ấy cứ xuất hiện ở chuồng của tôi và tôi đùa với anh chàng rằng rõ ràng anh ấy không muốn bị bán.",
+        "entities": []
+    },
+    {
+        "id": 100,
+        "text": "\"Đây là một thảm họa cho các bệnh nhân đau,\" Mailis nói trong một cuộc phỏng vấn vào thứ Năm với CBC News.",
+        "entities": [
+            {
+                "entity": "Mailis",
+                "label": "PER"
+            },
+            {
+                "entity": "CBC News",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 426,
+        "text": "Không giống như bức thư ngày 28 tháng 10, bức thư của ông Comey hầu như không được bình luận.",
+        "entities": [
+            {
+                "entity": "Comey",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 847,
+        "text": "Được công nhận là một chuyên gia trong lĩnh vực này, cô ấy đã mang những kỹ năng đó trở lại Viện Radium cùng với một đĩa nhỏ polonium.",
+        "entities": [
+            {
+                "entity": "Viện Radium",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 337,
+        "text": "Các ngôi sao, người hâm mộ và thậm chí cả các phóng viên của CNN đang hóa trang thành các nhân vật trong \"Stranger Things\" trong kỳ nghỉ này.",
+        "entities": [
+            {
+                "entity": "CNN",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 737,
+        "text": "Kể từ thời Hoàng đế Minh Trị, đã trở thành thông lệ là mỗi Hoàng đế có một niên hiệu và đổi tên mỗi Hoàng đế sau khi qua đời bằng cách sử dụng tên của niên hiệu mà ông đã trị vì.",
+        "entities": [
+            {
+                "entity": "Minh Trị",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 887,
+        "text": "Nó phục vụ như một nơi nghỉ ngơi và thư giãn cho người dân San Francisco.",
+        "entities": []
+    },
+    {
+        "id": 631,
+        "text": "Trong sự vội vàng để chiếm Kadesh, Ramesses II đã phạm một sai lầm chiến thuật lớn.",
+        "entities": [
+            {
+                "entity": "Kadesh",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ramesses II",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 880,
+        "text": "Điều này liên quan đến một trong số ít tòa nhà ở trung tâm thành phố đã được bảo toàn khỏi sự phá hủy vào cuối Chiến tranh Thế giới thứ hai.",
+        "entities": []
+    },
+    {
+        "id": 506,
+        "text": "Các đảo đá granite bao gồm Seychelles và Tioman và các đảo núi lửa như Saint Helena.",
+        "entities": [
+            {
+                "entity": "Seychelles",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tioman",
+                "label": "LOC"
+            },
+            {
+                "entity": "Saint Helena",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 342,
+        "text": "\"Ở các thành phố nơi chúng tôi đã khởi công hoặc đang xây dựng, công việc của chúng tôi sẽ tiếp tục,\" Barratt nói.",
+        "entities": [
+            {
+                "entity": "Barratt",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 215,
+        "text": "\"Tôi đến thăm các buổi triển lãm bằng cấp tại Đại học Northampton để tìm kiếm tài năng mới,\" anh ấy nói.",
+        "entities": [
+            {
+                "entity": "Đại học Northampton",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 881,
+        "text": "Năm 1832, tu viện cũ đã được bán cho nhà sản xuất Georg Reichenbach bởi bang Württemberg với điều kiện thành lập một nhà máy bông ở đó.",
+        "entities": [
+            {
+                "entity": "Georg Reichenbach",
+                "label": "PER"
+            },
+            {
+                "entity": "Württemberg",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 866,
+        "text": "Tính đến tháng 8 năm 2015, Kesha đã phát hành rất ít thông tin về album phòng thu thứ ba sắp tới của cô.",
+        "entities": [
+            {
+                "entity": "Kesha",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 173,
+        "text": "Một nhà máy điện chạy bằng than ở Badarpur, phía đông nam Delhi, sẽ ngừng hoạt động trong 10 ngày, cùng với các máy phát điện diesel trong thành phố.",
+        "entities": [
+            {
+                "entity": "Badarpur",
+                "label": "LOC"
+            },
+            {
+                "entity": "Delhi",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 586,
+        "text": "Đất nông nghiệp thực sự có thể bị ảnh hưởng bởi sự phá hủy của cảnh quan xung quanh.",
+        "entities": []
+    },
+    {
+        "id": 353,
+        "text": "Hai người Úc, những người tự thừa nhận là những tay golf tệ hại, đã lừa gạt để tham gia vào một giải đấu golf hàng đầu ở Bắc Triều Tiên.",
+        "entities": [
+            {
+                "entity": "Bắc Triều Tiên",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 363,
+        "text": "Bằng cách hoàn thành tuyến đường maglev này, tôi nghĩ rằng chính phủ đang mong đợi sự phát triển kinh tế lớn hơn ở Nhật Bản.",
+        "entities": [
+            {
+                "entity": "Nhật Bản",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 212,
+        "text": "Tôi nghĩ đó là lý do tại sao họ đắm mình vào hoa văn và màu sắc.",
+        "entities": []
+    },
+    {
+        "id": 666,
+        "text": "Tết Nguyên Đán và các lễ hội khác được người Hoa Thái Lan tổ chức khác nhau tùy theo cả hai, vì chúng được tính theo lịch Trung Quốc.",
+        "entities": []
+    },
+    {
+        "id": 595,
+        "text": "Đây cũng là khu vực duy nhất ở Alaska mà nhiệt độ cao trung bình ban ngày trên mức đóng băng trong các tháng mùa đông.",
+        "entities": [
+            {
+                "entity": "Alaska",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 729,
+        "text": "Ngoài việc là nguồn cung cấp thực phẩm trực tiếp, một số loài động vật có thể cung cấp da, len, da thuộc và phân bón.",
+        "entities": []
+    },
+    {
+        "id": 327,
+        "text": "Các sinh viên Hà Lan vẫn chưa quyết định liệu họ có thương mại hóa chiếc xe máy điện của mình hay không.",
+        "entities": []
+    },
+    {
+        "id": 764,
+        "text": "Với sự gia tăng dân số, các khu vực bản địa mới đã được tạo ra.",
+        "entities": []
+    },
+    {
+        "id": 55,
+        "text": "Một dấu hiệu của vật liệu thiên thạch này có thể là mức độ cao của nguyên tố iridi.",
+        "entities": []
+    },
+    {
+        "id": 570,
+        "text": "Dãy Alps cung cấp cho vùng đồng bằng châu Âu nước uống, tưới tiêu và năng lượng thủy điện.",
+        "entities": [
+            {
+                "entity": "Dãy Alps",
+                "label": "LOC"
+            },
+            {
+                "entity": "châu Âu",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 189,
+        "text": "Tôi cũng gặp khó khăn với mật khẩu.",
+        "entities": []
+    },
+    {
+        "id": 947,
+        "text": "Khi trở về, họ đã nghĩ đến việc sống ở Nam Mỹ, cách xa những vấn đề của nước Bỉ sau chiến tranh.",
+        "entities": [
+            {
+                "entity": "Nam Mỹ",
+                "label": "LOC"
+            },
+            {
+                "entity": "nước Bỉ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 889,
+        "text": "Nó chứa một tượng đài cho Martin Luther King, Jr.",
+        "entities": [
+            {
+                "entity": "Martin Luther King, Jr.",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 848,
+        "text": "Đĩa này cho phép Rona tạo ra các mẫu vật trong phòng thí nghiệm của polonium, được sử dụng trong nhiều nghiên cứu tiếp theo của Viện.",
+        "entities": [
+            {
+                "entity": "Rona",
+                "label": "PER"
+            },
+            {
+                "entity": "Viện",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 949,
+        "text": "Vào mùa hè, Georges và vợ của anh ấy trở về Thụy Sĩ, đi cùng với Rosane, một cô gái 18 tuổi là con gái của một trong những người bạn của Germaine.",
+        "entities": [
+            {
+                "entity": "Georges",
+                "label": "PER"
+            },
+            {
+                "entity": "Thụy Sĩ",
+                "label": "LOC"
+            },
+            {
+                "entity": "Rosane",
+                "label": "PER"
+            },
+            {
+                "entity": "Germaine",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 740,
+        "text": "Tại châu Á và Thái Bình Dương, từ 3 triệu đến hơn 10 triệu dân thường, chủ yếu là người Trung Quốc (ước tính khoảng 7,5 triệu), đã bị giết bởi lực lượng chiếm đóng Nhật Bản.",
+        "entities": [
+            {
+                "entity": "châu Á",
+                "label": "LOC"
+            },
+            {
+                "entity": "Thái Bình Dương",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 493,
+        "text": "Anh ấy tin rằng không ai chờ đợi chúng ta chờ đợi chúng ta.",
+        "entities": []
+    },
+    {
+        "id": 962,
+        "text": "Trong thế kỷ thứ mười ba, tên gọi Apulia được một số tác giả sử dụng để chỉ phần phía nam của bán đảo Ý.",
+        "entities": []
+    },
+    {
+        "id": 726,
+        "text": "Vào thời điểm này, chỉ có khoảng bốn mươi gia đình sống ở đó với nhiều đất nông nghiệp tốt và đồng cỏ cho gia súc.",
+        "entities": []
+    },
+    {
+        "id": 742,
+        "text": "Chiến tranh trên bộ đã thay đổi từ các chiến tuyến tĩnh của Thế chiến I sang sự cơ động gia tăng và kết hợp vũ khí.",
+        "entities": []
+    },
+    {
+        "id": 262,
+        "text": "Cuộc điều tra bắt đầu vào tháng Sáu, tập trung vào ông Winterkorn và giám đốc thương hiệu Herbert Diess, người vẫn ở lại nhà sản xuất ô tô.",
+        "entities": [
+            {
+                "entity": "Winterkorn",
+                "label": "PER"
+            },
+            {
+                "entity": "Herbert Diess",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 599,
+        "text": "Năm 1987 được tuyên bố là \"Năm của Dòng Sông\" bởi Thị trưởng Brisbane lúc đó, Sallyanne Atkinson.",
+        "entities": [
+            {
+                "entity": "Brisbane",
+                "label": "LOC"
+            },
+            {
+                "entity": "Sallyanne Atkinson",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 423,
+        "text": "Do đó, các dấu hiệu khó chịu sẽ không hoàn toàn biến mất: Theo thông tin từ hãng tin dpa, chúng sẽ chỉ được kích hoạt nếu, chẳng hạn như, nghệ sĩ hoặc hãng thu âm không phải là thành viên của GEMA và không có thỏa thuận với YouTube.",
+        "entities": [
+            {
+                "entity": "dpa",
+                "label": "ORG"
+            },
+            {
+                "entity": "GEMA",
+                "label": "ORG"
+            },
+            {
+                "entity": "YouTube",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 634,
+        "text": "Do đó, pharaoh Ai Cập thấy mình ở phía bắc Amurru, xa hơn Kadesh, tại Tunip, nơi mà không có binh lính Ai Cập nào được nhìn thấy kể từ thời Thutmose III gần 120 năm trước.",
+        "entities": [
+            {
+                "entity": "Amurru",
+                "label": "LOC"
+            },
+            {
+                "entity": "Kadesh",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tunip",
+                "label": "LOC"
+            },
+            {
+                "entity": "Thutmose III",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 468,
+        "text": "Sinh viên tại Đại học LUISS đã được thông báo trong cuộc họp diễn ra ở Rome.",
+        "entities": [
+            {
+                "entity": "Đại học LUISS",
+                "label": "ORG"
+            },
+            {
+                "entity": "Rome",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 649,
+        "text": "Vào năm 1072, Shen được cử đi giám sát chương trình khảo sát việc xây dựng các bãi bồi của Wang ở Kênh Bian bên ngoài thành phố thủ đô.",
+        "entities": [
+            {
+                "entity": "Shen",
+                "label": "PER"
+            },
+            {
+                "entity": "Wang",
+                "label": "PER"
+            },
+            {
+                "entity": "Kênh Bian",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 835,
+        "text": "Vào tháng 1 năm 2011, Blunt bắt đầu quay một bộ phim khoa học viễn tưởng của Mỹ, Looper, do Rian Johnson đạo diễn và có sự tham gia của Bruce Willis và Joseph Gordon-Levitt; bộ phim được phát hành vào tháng 9 năm 2012.",
+        "entities": [
+            {
+                "entity": "Blunt",
+                "label": "PER"
+            },
+            {
+                "entity": "Rian Johnson",
+                "label": "PER"
+            },
+            {
+                "entity": "Bruce Willis",
+                "label": "PER"
+            },
+            {
+                "entity": "Joseph Gordon-Levitt",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 408,
+        "text": "Theo niềm tin của Cơ Đốc giáo, một ngôi mộ đã được chôn trong đá phấn là nơi an nghỉ cuối cùng của Chúa Giê-su.",
+        "entities": [
+            {
+                "entity": "Chúa Giê-su",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 420,
+        "text": "Những con số tốt ở châu Á đã nhanh chóng đẩy thị trường chứng khoán lên.",
+        "entities": [
+            {
+                "entity": "châu Á",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 768,
+        "text": "Các bộ phim của Hitchcock đôi khi có các nhân vật gặp khó khăn trong mối quan hệ với mẹ của họ.",
+        "entities": [
+            {
+                "entity": "Hitchcock",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 690,
+        "text": "Trở lại Lahore, khoảng ba mươi chín câu chuyện đã xuất hiện trên Gazette từ tháng 11 năm 1886 đến tháng 6 năm 1887.",
+        "entities": [
+            {
+                "entity": "Lahore",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 672,
+        "text": "Năm 1519, ông trở thành người cai trị đế chế Habsburg, và ông giành được danh hiệu Hoàng đế La Mã Thần thánh vào năm 1530.",
+        "entities": [
+            {
+                "entity": "Habsburg",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 208,
+        "text": "Thế giới có thể đang giận dữ và vô lý - nhưng ít nhất có ai đó có lòng tự trọng để tiếp tục phản đối sự thật đó.",
+        "entities": []
+    },
+    {
+        "id": 902,
+        "text": "Sự kiện này đã được biết đến ở Paris và gây ra nhiều xáo trộn hơn trong một tâm trạng vốn đã căng thẳng bởi giá bánh mì liên tục cao và thiếu thốn lương thực.",
+        "entities": [
+            {
+                "entity": "Paris",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 781,
+        "text": "Ông cũng đã xây dựng và cải tạo năm chợ truyền thống vào năm 2013 và bốn chợ truyền thống vào năm 2014.",
+        "entities": []
+    },
+    {
+        "id": 822,
+        "text": "Stalin đã bắt đầu khuyến khích Abakumov thành lập mạng lưới riêng của mình bên trong MGB để chống lại sự thống trị của Beria đối với các bộ quyền lực.",
+        "entities": [
+            {
+                "entity": "Stalin",
+                "label": "PER"
+            },
+            {
+                "entity": "Abakumov",
+                "label": "PER"
+            },
+            {
+                "entity": "MGB",
+                "label": "ORG"
+            },
+            {
+                "entity": "Beria",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 277,
+        "text": "Người tiêu dùng có thể thúc đẩy nhu cầu thay đổi.",
+        "entities": []
+    },
+    {
+        "id": 281,
+        "text": "Bốn trong 10 người lớn đã bị thương do thời tiết xấu trong khi chín trong 10 người đánh giá thấp mức độ lạnh của nước Anh vào mùa đông.",
+        "entities": [
+            {
+                "entity": "nước Anh",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 755,
+        "text": "Cô ấy đã được đề nghị một số kịch bản, quảng cáo truyền hình và dự án sân khấu, nhưng không có gì khiến cô ấy hứng thú.",
+        "entities": []
+    },
+    {
+        "id": 667,
+        "text": "Ngoài ra, ông đã củng cố phòng thủ giữa Ai Cập và Châu Á, xây dựng Tường của Người Cai Trị ở khu vực Đông Đồng Bằng.",
+        "entities": [
+            {
+                "entity": "Ai Cập",
+                "label": "LOC"
+            },
+            {
+                "entity": "Châu Á",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tường của Người Cai Trị",
+                "label": "LOC"
+            },
+            {
+                "entity": "Đông Đồng Bằng",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 929,
+        "text": "Tổ chức Ân xá Quốc tế trích dẫn các bài báo từ năm 2008 mô tả vụ giết hại năm mươi người bị buộc tội phù thủy.",
+        "entities": [
+            {
+                "entity": "Tổ chức Ân xá Quốc tế",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 754,
+        "text": "Những phát minh sớm nhất của Lamarr bao gồm một đèn giao thông cải tiến và một viên nén có thể hòa tan trong nước để tạo ra một loại đồ uống có ga.",
+        "entities": [
+            {
+                "entity": "Lamarr",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 414,
+        "text": "Việc trao đổi Barrosos đã gây ra một sự náo động lớn.",
+        "entities": [
+            {
+                "entity": "Barrosos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 211,
+        "text": "Có thể nói rằng Rocco Catalano làm việc, sống và thở với phong cách cổ điển.",
+        "entities": [
+            {
+                "entity": "Rocco Catalano",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "text": "Ông Osborne đã ký hợp đồng với một công ty diễn giả Mỹ sau khi bị sa thải vào tháng Bảy.",
+        "entities": [
+            {
+                "entity": "Osborne",
+                "label": "PER"
+            },
+            {
+                "entity": "Mỹ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 969,
+        "text": "Về các thực hành tôn giáo, Fiorello đã được giáo dục trong Giáo hội Episcopal, và vẫn là thành viên của Giáo hội Tin Lành suốt cuộc đời mình.",
+        "entities": [
+            {
+                "entity": "Fiorello",
+                "label": "PER"
+            },
+            {
+                "entity": "Giáo hội Episcopal",
+                "label": "ORG"
+            },
+            {
+                "entity": "Giáo hội Tin Lành",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 712,
+        "text": "Tầm nhìn lý tưởng hóa này về chế độ quân chủ Romanov đã làm ông mù quáng trước tình trạng thực tế của đất nước mình.",
+        "entities": []
+    },
+    {
+        "id": 443,
+        "text": "Hai tổ chức đã khởi động một kháng cáo bị Tòa án Tối cao bác bỏ vào ngày 12 tháng 10.",
+        "entities": [
+            {
+                "entity": "Tòa án Tối cao",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 403,
+        "text": "Đối với Kerber, trận chung kết mùa giải vẫn đánh dấu sự kết thúc của một năm không thể tin được.",
+        "entities": [
+            {
+                "entity": "Kerber",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 499,
+        "text": "Hàng chục người ủng hộ FSLN đã ăn mừng chiến thắng tại Plaza de las Victorias.",
+        "entities": [
+            {
+                "entity": "FSLN",
+                "label": "ORG"
+            },
+            {
+                "entity": "Plaza de las Victorias",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 190,
+        "text": "Sau đó, có những cái gọi là câu chuyện có thật được đăng trong một loạt các bức ảnh ý nghĩa với văn bản chạy bên dưới.",
+        "entities": []
+    },
+    {
+        "id": 857,
+        "text": "Ông ấy đã chọn không tìm kiếm nhiệm kỳ thứ ba trong chu kỳ bầu cử tiếp theo.",
+        "entities": []
+    },
+    {
+        "id": 301,
+        "text": "Khi Millican qua đời, chúng tôi cho rằng đó là lần cuối cùng chúng tôi thấy Odi bị lỗi và giật giật.",
+        "entities": [
+            {
+                "entity": "Millican",
+                "label": "PER"
+            },
+            {
+                "entity": "Odi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 757,
+        "text": "De Gaulle đã chỉ thị rằng không được thể hiện tình cảm công khai quá mức đối với Churchill và không có giải thưởng chính thức nào mà không có sự đồng ý trước của ông.",
+        "entities": [
+            {
+                "entity": "De Gaulle",
+                "label": "PER"
+            },
+            {
+                "entity": "Churchill",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 544,
+        "text": "Nhiều nền văn minh cổ đại đã được hình thành xung quanh bờ biển Địa Trung Hải, và chịu ảnh hưởng lớn từ sự gần gũi với biển.",
+        "entities": [
+            {
+                "entity": "Địa Trung Hải",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 872,
+        "text": "Vào đầu hội nghị London vào tháng 12 năm 1912, các đại sứ của cả sáu Cường quốc đã bác bỏ kế hoạch thành lập một Albania độc lập.",
+        "entities": [
+            {
+                "entity": "Cường quốc",
+                "label": "ORG"
+            },
+            {
+                "entity": "Albania",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 249,
+        "text": "\"Bắc Kinh tin rằng sự can thiệp của mình là cần thiết để ngăn chặn tình trạng tê liệt lập pháp tiếp tục trong thành phố,\" ông nói.",
+        "entities": [
+            {
+                "entity": "Bắc Kinh",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 605,
+        "text": "Tuy nhiên, ở Thái Lan, đô thị hóa cũng đã dẫn đến sự gia tăng lớn về các vấn đề như béo phì.",
+        "entities": [
+            {
+                "entity": "Thái Lan",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 464,
+        "text": "Corrado Passera rút lại đề nghị cho Mps do \"thái độ hoàn toàn đóng cửa mà Ngân hàng đã thể hiện với chúng tôi\".",
+        "entities": [
+            {
+                "entity": "Corrado Passera",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 918,
+        "text": "Sau những thành công này, anh ấy đã ký hợp đồng với Team Telekom và chuyển đến sống cùng bạn gái ở Merdingen tại Südbaden, nơi anh ấy sống cho đến năm 2002.",
+        "entities": [
+            {
+                "entity": "Team Telekom",
+                "label": "ORG"
+            },
+            {
+                "entity": "Merdingen",
+                "label": "LOC"
+            },
+            {
+                "entity": "Südbaden",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "text": "Phân tích tiết lộ rằng lượng dữ liệu lịch sử đã được sử dụng để gây ra sự gián đoạn.",
+        "entities": []
+    },
+    {
+        "id": 618,
+        "text": "Cô ấy cũng tận dụng các mối quan hệ cá nhân của mình với nhiều nhà khoa học chính phủ, những người đã cung cấp cho cô ấy thông tin mật.",
+        "entities": []
+    },
+    {
+        "id": 893,
+        "text": "Vào tháng 4 năm 2012, Thủ tướng Thổ Nhĩ Kỳ Erdogan đã công bố kế hoạch của chính phủ ông để giải phóng Bosphorus bằng cách xây dựng Kênh đào Istanbul song song với nó.",
+        "entities": [
+            {
+                "entity": "Erdogan",
+                "label": "PER"
+            },
+            {
+                "entity": "Bosphorus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Kênh đào Istanbul",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 534,
+        "text": "Bầu khí quyển là một hệ thống hỗn loạn, vì vậy những thay đổi nhỏ ở một phần của hệ thống có thể phát triển để có những tác động lớn đến toàn bộ hệ thống.",
+        "entities": []
+    },
+    {
+        "id": 974,
+        "text": "Tuy nhiên, tình bạn đã tan vỡ do các hợp tác không chính thức giữa hai bên, điều này đã dẫn đến các tranh chấp pháp lý.",
+        "entities": []
+    },
+    {
+        "id": 170,
+        "text": "Hơn 330 thủy thủ đoàn đang ở trên tàu.",
+        "entities": []
+    },
+    {
+        "id": 821,
+        "text": "Ít nhất 330.000 người, bao gồm 10.000 kỹ thuật viên, đã tham gia.",
+        "entities": []
+    },
+    {
+        "id": 34,
+        "text": "Nhưng một chuyên gia du lịch cảnh báo rằng internet trên chuyến bay thường không đáng tin cậy và khó có khả năng ảnh hưởng đến lựa chọn hãng hàng không của du khách.",
+        "entities": []
+    },
+    {
+        "id": 177,
+        "text": "Ai có thể ngăn chặn đội tuyển Australia này?",
+        "entities": [
+            {
+                "entity": "Australia",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 915,
+        "text": "Tu viện Rupertsberg đã bị phá hủy trong Chiến tranh Ba Mươi Năm vào năm 1632 bởi quân đội Thụy Điển.",
+        "entities": [
+            {
+                "entity": "Rupertsberg",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "text": "Khi sự cuồng loạn của cuộc bầu cử Tổng thống năm 2016 trở nên căng thẳng hơn, một mối đe dọa đáng lo ngại hơn là những điều vô nghĩa đang chiếm lấy tâm trí Karel.",
+        "entities": [
+            {
+                "entity": "Karel",
+                "label": "PER"
+            },
+            {
+                "entity": "cuộc bầu cử Tổng thống năm 2016",
+                "label": "EVENT"
+            }
+        ]
+    },
+    {
+        "id": 530,
+        "text": "Mặc dù Iceland nằm dưới sự kiểm soát chính trị của Đan Mạch cho đến một ngày sau đó (1918), rất ít ảnh hưởng và vay mượn từ tiếng Đan Mạch đã xảy ra trong ngôn ngữ Iceland.",
+        "entities": [
+            {
+                "entity": "Iceland",
+                "label": "LOC"
+            },
+            {
+                "entity": "Đan Mạch",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 557,
+        "text": "Tin tức về cuộc rút lui đã gây sốc lớn cho dư luận Đan Mạch, vốn đã coi Danevirke là bất khả xâm phạm, và Tướng de Meza đã ngay lập tức bị cách chức.",
+        "entities": [
+            {
+                "entity": "Danevirke",
+                "label": "LOC"
+            },
+            {
+                "entity": "de Meza",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 439,
+        "text": "Người lao động có được phép giữ các vật dụng tôn giáo trên bàn làm việc của họ không?",
+        "entities": []
+    },
+    {
+        "id": 435,
+        "text": "Người sau đang giám sát các cuộc bầu cử sơ bộ của Đảng Cộng hòa, trong đó Rachida Dati ủng hộ ứng cử của Nicolas Sarkozy.",
+        "entities": [
+            {
+                "entity": "Rachida Dati",
+                "label": "PER"
+            },
+            {
+                "entity": "Nicolas Sarkozy",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 626,
+        "text": "Với sự sụp đổ của triều đại nhà Thanh vào năm 1911, Mông Cổ dưới sự lãnh đạo của Bogd Khaan tuyên bố độc lập.",
+        "entities": [
+            {
+                "entity": "nhà Thanh",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mông Cổ",
+                "label": "LOC"
+            },
+            {
+                "entity": "Bogd",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 680,
+        "text": "Hai đo chiều dài của các tháng âm lịch.",
+        "entities": []
+    },
+    {
+        "id": 688,
+        "text": "Trong thời gian ở đó, Kipling cũng đã gặp và yêu Florence Garrard, người đang ở trọ với Trix tại Southsea (nơi Trix đã trở về).",
+        "entities": [
+            {
+                "entity": "Kipling",
+                "label": "PER"
+            },
+            {
+                "entity": "Florence Garrard",
+                "label": "PER"
+            },
+            {
+                "entity": "Trix",
+                "label": "PER"
+            },
+            {
+                "entity": "Southsea",
+                "label": "LOC"
+            },
+            {
+                "entity": "Trix",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 398,
+        "text": "Việc sản xuất mẫu điện thoại thông minh đã hoàn toàn bị ngừng lại.",
+        "entities": []
+    },
+    {
+        "id": 127,
+        "text": "Ông mô tả bà là một người phụ nữ \"đáng chú ý\" và \"yêu thương và tuyệt vời\" đã để lại dấu ấn của mình trong thế giới văn học với những câu chuyện của bà.",
+        "entities": []
+    },
+    {
+        "id": 201,
+        "text": "Về lý thuyết, một cặp đôi có thể mở bốn tài khoản Tesco và kiếm được 3% trên £12,000 – £360.",
+        "entities": [
+            {
+                "entity": "Tesco",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 780,
+        "text": "Thẻ này cung cấp một khoản trợ cấp có thể rút từ các máy ATM để mua các nhu cầu học tập như sách và đồng phục.",
+        "entities": []
+    },
+    {
+        "id": 807,
+        "text": "George đã kinh hoàng bởi những gì anh thấy là đạo đức lỏng lẻo của họ.",
+        "entities": [
+            {
+                "entity": "George",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 860,
+        "text": "Ông đã hồi phục và được xuất viện vào ngày 11 tháng 4, trở thành tổng thống đương nhiệm đầu tiên của Hoa Kỳ sống sót sau khi bị bắn trong một vụ ám sát.",
+        "entities": [
+            {
+                "entity": "Hoa Kỳ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 418,
+        "text": "Dündar cảnh báo Châu Âu về việc có quá nhiều sự thông cảm cho đường lối của Erdogan.",
+        "entities": [
+            {
+                "entity": "Dündar",
+                "label": "PER"
+            },
+            {
+                "entity": "Châu Âu",
+                "label": "LOC"
+            },
+            {
+                "entity": "Erdogan",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 863,
+        "text": "Do đó, một thần học đúng đắn sẽ phải được xây dựng dưới ánh sáng của mục tiêu tương lai của nó.",
+        "entities": []
+    },
+    {
+        "id": 578,
+        "text": "Sự nóng lên toàn cầu đã gây ra sự thay đổi trong mô hình của các mùa mưa.",
+        "entities": []
+    },
+    {
+        "id": 347,
+        "text": "Ngoài ra còn có tùy chọn gửi emoji, GIF, meme tùy chỉnh và nhãn dán qua nền tảng, và kết nối nguồn cấp dữ liệu Twitter của bạn.",
+        "entities": []
+    },
+    {
+        "id": 604,
+        "text": "Khi chúng hạ cánh, chúng va chạm với các hạt khác có thể bị bật lên không khí, bắt đầu một phản ứng dây chuyền.",
+        "entities": []
+    },
+    {
+        "id": 57,
+        "text": "Kết quả từ thí nghiệm này cung cấp thêm bằng chứng rằng hạt giống tên lửa có thể được bay và lưu trữ trên Trạm Vũ trụ Quốc tế trong sáu tháng mà không có bất kỳ tác động đáng kể nào đến khả năng nảy mầm và phát triển trên Trái Đất.",
+        "entities": [
+            {
+                "entity": "Trạm Vũ trụ Quốc tế",
+                "label": "LOC"
+            },
+            {
+                "entity": "Trái Đất",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "text": "Tuy nhiên, vẫn còn những câu hỏi chưa được trả lời.",
+        "entities": []
+    },
+    {
+        "id": 701,
+        "text": "Linh mục Dòng Đa Minh Heinrich Kramer là trợ lý cho Tổng Giám mục của Salzburg.",
+        "entities": [
+            {
+                "entity": "Heinrich Kramer",
+                "label": "PER"
+            },
+            {
+                "entity": "Salzburg",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 743,
+        "text": "Kỵ binh Anh cũng nhận được đào tạo xuất sắc về kỹ năng sử dụng kiếm khi cưỡi ngựa.",
+        "entities": []
+    },
+    {
+        "id": 772,
+        "text": "Trong một tập phim, anh ấy được cho thấy là một người chơi guitar thành thạo.",
+        "entities": []
+    },
+    {
+        "id": 465,
+        "text": "Như đã nêu, quyết định là đặc quyền của ECB và sẽ có vẻ không phù hợp khi Ngân hàng phát biểu thay mặt bằng cách loại trừ khả năng xem xét các lựa chọn khác.",
+        "entities": [
+            {
+                "entity": "ECB",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 474,
+        "text": "Amazon đã trở thành công ty Mỹ thứ tư có vốn hóa thị trường lớn nhất, vượt qua ExxonMobil.",
+        "entities": [
+            {
+                "entity": "Amazon",
+                "label": "ORG"
+            },
+            {
+                "entity": "ExxonMobil",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 451,
+        "text": "Tina Anselmi sinh ngày 25 tháng 3 năm 1927 tại Castelfranco Veneto; cô lớn lên trong một gia đình Công giáo chống phát xít, gia đình bị ảnh hưởng bởi sự đàn áp của người cha xã hội chủ nghĩa chiến đấu của cô.",
+        "entities": [
+            {
+                "entity": "Tina Anselmi",
+                "label": "PER"
+            },
+            {
+                "entity": "Castelfranco Veneto",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 965,
+        "text": "Trong Chiến tranh Liên minh thứ nhất, ánh sáng nhanh chóng bắt đầu chiếu rọi lên một sĩ quan pháo binh trẻ người Corse, sau Cách mạng Pháp: Napoleon Bonaparte.",
+        "entities": [
+            {
+                "entity": "Napoleon Bonaparte",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 924,
+        "text": "Ngôi nhà gỗ đã bị cháy rụi hoàn toàn.",
+        "entities": []
+    },
+    {
+        "id": 596,
+        "text": "Nhiều dân tộc bản địa đã sinh sống ở Alaska trong hàng ngàn năm trước khi người châu Âu đến khu vực này.",
+        "entities": [
+            {
+                "entity": "Alaska",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "text": "Ông cũng chỉ ra rằng Rogers gần đây đã giới thiệu một công cụ ứng dụng mới giúp khách hàng theo dõi việc sử dụng dữ liệu của họ.",
+        "entities": [
+            {
+                "entity": "Rogers",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 719,
+        "text": "Hoa Kỳ đã giải phóng Cuba (sau khi bị chiếm đóng bởi Quân đội Hoa Kỳ).",
+        "entities": [
+            {
+                "entity": "Hoa Kỳ",
+                "label": "ORG"
+            },
+            {
+                "entity": "Cuba",
+                "label": "LOC"
+            },
+            {
+                "entity": "Quân đội Hoa Kỳ",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 422,
+        "text": "Hai bức tranh của Lucas Cranach the Elder đang được trưng bày đặc biệt thu hút sự chú ý.",
+        "entities": [
+            {
+                "entity": "Lucas Cranach the Elder",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 166,
+        "text": "Christian Wolmar, người đã viết một số cuốn sách về lịch sử đường sắt, sẽ tham gia cuộc thi vào ngày 1 tháng 12.",
+        "entities": [
+            {
+                "entity": "Christian Wolmar",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 629,
+        "text": "Bogd Khaan nói rằng cả Mông Cổ và Trung Quốc đều đã được cai trị bởi nhà Mãn Châu trong thời kỳ nhà Thanh, và sau khi triều đại nhà Thanh sụp đổ vào năm 1911, hợp đồng phục tùng của Mông Cổ đối với nhà Mãn Châu đã trở nên vô hiệu.",
+        "entities": [
+            {
+                "entity": "Bogd",
+                "label": "PER"
+            },
+            {
+                "entity": "Mông Cổ",
+                "label": "LOC"
+            },
+            {
+                "entity": "Trung Quốc",
+                "label": "LOC"
+            },
+            {
+                "entity": "nhà Mãn Châu",
+                "label": "ORG"
+            },
+            {
+                "entity": "nhà Thanh",
+                "label": "ORG"
+            },
+            {
+                "entity": "nhà Thanh",
+                "label": "ORG"
+            },
+            {
+                "entity": "nhà Mãn Châu",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 786,
+        "text": "Barrie đã ghi danh vào Đại học Edinburgh nơi ông viết các bài đánh giá kịch cho tờ Edinburgh Evening Courant.",
+        "entities": [
+            {
+                "entity": "Barrie",
+                "label": "PER"
+            },
+            {
+                "entity": "Đại học Edinburgh",
+                "label": "ORG"
+            },
+            {
+                "entity": "Edinburgh Evening Courant",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 394,
+        "text": "Giờ phù thủy bắt đầu ít nhất là khi đàn organ đáng sợ được chơi, chẳng hạn như trong bài hit thập niên 60 Monster Mash.",
+        "entities": []
+    },
+    {
+        "id": 655,
+        "text": "Anh ấy dường như đã mong muốn Thượng viện và nhà nước hành động mà không có anh ấy và các mệnh lệnh trực tiếp của anh ấy khá mơ hồ, khơi dậy cuộc tranh luận nhiều hơn về ý nghĩa thực sự của anh ấy hơn là thông qua luật pháp của anh ấy.",
+        "entities": [
+            {
+                "entity": "Thượng viện",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 575,
+        "text": "Nghiên cứu về núi lửa được gọi là núi lửa học, đôi khi được viết là vulcanology.",
+        "entities": []
+    },
+    {
+        "id": 920,
+        "text": "Việc kiểm duyệt đã loại bỏ tất cả các ý kiến không mong muốn; việc tham gia vào đời sống công cộng đã trở nên hầu như không thể.",
+        "entities": []
+    },
+    {
+        "id": 885,
+        "text": "Có nhiều lý thuyết khác nhau về lý do rời khỏi nơi đó.",
+        "entities": []
+    },
+    {
+        "id": 527,
+        "text": "Vị vua đầu tiên của họ là Mojmír I (trị vì 830–846).",
+        "entities": [
+            {
+                "entity": "Mojmír I",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 791,
+        "text": "Đến năm 2009, tổng doanh số của The Power of Now và A New Earth ở Bắc Mỹ đã được ước tính lần lượt là ba triệu và năm triệu bản.",
+        "entities": []
+    },
+    {
+        "id": 890,
+        "text": "Kể từ những năm 1960, nền kinh tế của thành phố đã suy giảm mạnh.",
+        "entities": []
+    },
+    {
+        "id": 501,
+        "text": "Hiến chương cho phép thành lập một hội thương nhân, do các thị dân của thị trấn điều hành để đánh thuế những người đi qua khu vực.",
+        "entities": []
+    },
+    {
+        "id": 914,
+        "text": "Hôm nay, những tàn tích rộng lớn có thể được nhìn thấy ở đó.",
+        "entities": []
+    },
+    {
+        "id": 116,
+        "text": "\"Những ước tính này trùng khớp với tỷ lệ phần trăm của các căn hộ mới gia nhập thị trường cho thuê sau khi hoàn thành, cho thấy vai trò quan trọng mà các nhà đầu tư (trong nước) đóng trong thị trường nhà ở GTA.\"",
+        "entities": [
+            {
+                "entity": "GTA",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "text": "Điều đó rõ ràng nhất khi tên của một người nổi tiếng ban đầu khá hiếm.",
+        "entities": []
+    },
+    {
+        "id": 372,
+        "text": "\"Nhưng kiến trúc có thể xây dựng một cây cầu giữa người sống và người chết và, ở một mức độ nào đó, làm mờ ranh giới.\"",
+        "entities": []
+    },
+    {
+        "id": 344,
+        "text": "Hiện tại, các nhà phân tích do dự trong việc coi dịch vụ này đã chết.",
+        "entities": []
+    },
+    {
+        "id": 106,
+        "text": "Chính phủ liên bang chủ động báo cáo về mức lương hiệu suất tổng hợp và tiền thưởng cho từng bộ, nhưng bài đăng web mới nhất là cho năm 2013-2014 — hoặc đã lỗi thời hai năm.",
+        "entities": []
+    },
+    {
+        "id": 482,
+        "text": "Hơn nữa, Chính phủ sẽ phải đối phó với một \"khoai tây nóng\" khác.",
+        "entities": []
+    },
+    {
+        "id": 351,
+        "text": "\"Tôi phải chúc mừng Andy -- đạt được vị trí số 1 thế giới là một thành tựu đáng kinh ngạc,\" người Mỹ nói.",
+        "entities": [
+            {
+                "entity": "Andy",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 205,
+        "text": "Lưu huỳnh là một chất dinh dưỡng quan trọng cho cây trồng, cần thiết cho sự phát triển khỏe mạnh, nhưng đất ở Vương Quốc Anh tự nhiên thiếu hụt khoáng chất thiết yếu này.",
+        "entities": [
+            {
+                "entity": "Vương Quốc Anh",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "text": "Nghiên cứu khả thi ước tính rằng sẽ mất khoảng bốn phút để hành khách đi qua sông Potomac trên cáp treo.",
+        "entities": [
+            {
+                "entity": "sông Potomac",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 510,
+        "text": "Quân đội Achaemenid đã chinh phục Thrace, các thành phố Hy Lạp ven biển, và người Paeonians.",
+        "entities": [
+            {
+                "entity": "Thrace",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 553,
+        "text": "Dù quy tắc là gì, các trận đấu thường dẫn đến cái chết của một trong những con ngựa đực.",
+        "entities": []
+    },
+    {
+        "id": 837,
+        "text": "Joseph Schenck đã quan tâm đến việc chọn vợ mình, Norma Talmadge, đóng cặp với Valentino trong một phiên bản của Romeo và Juliet.",
+        "entities": [
+            {
+                "entity": "Joseph Schenck",
+                "label": "PER"
+            },
+            {
+                "entity": "Norma Talmadge",
+                "label": "PER"
+            },
+            {
+                "entity": "Valentino",
+                "label": "PER"
+            },
+            {
+                "entity": "Romeo",
+                "label": "PER"
+            },
+            {
+                "entity": "Juliet",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 346,
+        "text": "Microsoft đã công bố vào thứ Tư một công cụ trò chuyện nơi làm việc mới sẵn sàng cạnh tranh với Slack, một công ty được yêu thích trong ngành.",
+        "entities": [
+            {
+                "entity": "Microsoft",
+                "label": "ORG"
+            },
+            {
+                "entity": "Slack",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 843,
+        "text": "Một chủ đề khác của tiểu thuyết Skylark liên quan đến những tiền thân của công nghệ thông tin hiện đại.",
+        "entities": []
+    },
+    {
+        "id": 135,
+        "text": "Rốt cuộc, internet không phải là một thứ xa xỉ; nó là một công cụ thiết yếu.",
+        "entities": []
+    },
+    {
+        "id": 587,
+        "text": "Trong 50 năm qua, sự phá hủy môi trường sống xung quanh đất nông nghiệp đã làm suy thoái khoảng 40% đất nông nghiệp trên toàn thế giới thông qua xói mòn, nhiễm mặn, nén chặt, cạn kiệt dinh dưỡng, ô nhiễm và đô thị hóa.",
+        "entities": []
+    },
+    {
+        "id": 620,
+        "text": "Điều này đã đưa cuốn sách đến sự chú ý của ngành công nghiệp hóa chất và các nhà vận động hành lang của nó, cũng như một bộ phận rộng lớn của người dân Mỹ.",
+        "entities": []
+    },
+    {
+        "id": 54,
+        "text": "Điều này sẽ đặt ra những giới hạn mới về bản chất của những thay đổi môi trường đã vượt qua Trái Đất và đưa rất nhiều loài - không chỉ riêng khủng long - vào quên lãng.",
+        "entities": [
+            {
+                "entity": "Trái Đất",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "text": "\"Vẫn còn một yếu tố 'ghê tởm' đối với toàn bộ ý tưởng mua và mặc các bộ phận cơ thể của người khác,\" cô ấy nói.",
+        "entities": []
+    },
+    {
+        "id": 867,
+        "text": "Lần này nó đã đến với anh, nhưng anh từ chối tin rằng cô không còn muốn kết hôn với anh nữa.",
+        "entities": []
+    },
+    {
+        "id": 598,
+        "text": "Khi Brisbane phát triển, tình trạng của con sông trở nên tồi tệ hơn cho đến khi ở mức tồi tệ nhất, nó không khác gì một cống rãnh lộ thiên và bãi rác.",
+        "entities": [
+            {
+                "entity": "Brisbane",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 546,
+        "text": "Do có khí hậu, địa chất và tiếp cận biển chung, các nền văn hóa tập trung quanh Địa Trung Hải có xu hướng có một mức độ nào đó của văn hóa và lịch sử đan xen.",
+        "entities": [
+            {
+                "entity": "Địa Trung Hải",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 338,
+        "text": "Tôi đã không xem nhiều tập phim và sau đó điện thoại của tôi bắt đầu sáng lên.",
+        "entities": []
+    },
+    {
+        "id": 641,
+        "text": "Các pháo đài cũng được xây dựng ở những phần cũ hơn của Tân Pháp mà chưa được định cư.",
+        "entities": [
+            {
+                "entity": "Tân Pháp",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 612,
+        "text": "Trong suốt thế kỷ đầu tiên của sự phát triển, sự thống trị của người Tây Ban Nha trong khu vực vẫn không thể tranh cãi.",
+        "entities": []
+    },
+    {
+        "id": 275,
+        "text": "Điều này có nghĩa là họ đã không được hưởng lợi từ sự gia tăng mà sự sụt giảm của đồng bảng Anh đã mang lại cho các tài sản ở nước ngoài.",
+        "entities": []
+    },
+    {
+        "id": 358,
+        "text": "Không có cuộc diễu hành và chưa bao giờ có.",
+        "entities": []
+    },
+    {
+        "id": 963,
+        "text": "Nhà sử học David Crouch gợi ý rằng Stephen đã từ bỏ thử thách vào khoảng thời gian này để tập trung vào các vấn đề khác.",
+        "entities": [
+            {
+                "entity": "David Crouch",
+                "label": "PER"
+            },
+            {
+                "entity": "Stephen",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 704,
+        "text": "Tây Ban Nha đã trục xuất dân số Sephardic của mình vào năm 1492; nhiều người Do Thái Tây Ban Nha này đã rời Tây Ban Nha sang Bồ Đào Nha nhưng cuối cùng cũng bị nhắm mục tiêu ở đó.",
+        "entities": [
+            {
+                "entity": "Tây Ban Nha",
+                "label": "ORG"
+            },
+            {
+                "entity": "Tây Ban Nha",
+                "label": "LOC"
+            },
+            {
+                "entity": "Bồ Đào Nha",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 580,
+        "text": "Nó đã được tuyên bố là khu bảo tồn động vật hoang dã vào năm 1975.",
+        "entities": []
+    },
+    {
+        "id": 646,
+        "text": "Tuy nhiên, điều này đã bị đảo ngược khi Julian bị giết trong trận chiến vào năm 363.",
+        "entities": [
+            {
+                "entity": "Julian",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 669,
+        "text": "Mặc dù vậy, cả hai dường như đã nắm giữ ít nhất một phần của Hạ Ai Cập.",
+        "entities": [
+            {
+                "entity": "Ai Cập",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 651,
+        "text": "Ông đã có thêm danh tiếng tại triều đình khi được cử làm sứ giả đến triều đại Khitan Liao vào mùa hè năm 1075.",
+        "entities": [
+            {
+                "entity": "triều đại Khitan Liao",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 227,
+        "text": "\"Chúng tôi đang tích cực suy nghĩ về những cách có thể để giới hạn phạm vi kiện tụng chỉ cho những người có quyền lợi thực sự trong một dự án,\" ông được trích dẫn nói.",
+        "entities": []
+    },
+    {
+        "id": 905,
+        "text": "Tôi tuyên bố kết thúc Thế vận hội Olympic quốc tế đầu tiên.",
+        "entities": []
+    },
+    {
+        "id": 700,
+        "text": "Nó đặc biệt thảo luận trong một số đoạn về những tác động suy thoái xã hội và văn hóa của chiến tranh đối với chính nhân loại.",
+        "entities": []
+    },
+    {
+        "id": 285,
+        "text": "Chiếc váy mang phong cách đương đại.",
+        "entities": []
+    },
+    {
+        "id": 738,
+        "text": "Trước thời Hoàng đế Minh Trị, tên của các thời kỳ được thay đổi thường xuyên hơn, và tên thụy của các Hoàng đế được chọn theo một cách khác.",
+        "entities": [
+            {
+                "entity": "Minh Trị",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "text": "Và, cô ấy thừa nhận, \"bạn phải nhìn vào nơi cô ấy đã thừa nhận rằng chúng ta cần làm điều gì đó khác biệt - chúng ta có thể làm tốt hơn - và nơi cô ấy đã bày tỏ sự hối tiếc.\"",
+        "entities": []
+    },
+    {
+        "id": 402,
+        "text": "Và bây giờ anh ấy cũng là nhà vô địch thế giới.",
+        "entities": []
+    },
+    {
+        "id": 233,
+        "text": "Họ không có chúng vào thời của chúng tôi, và những người không có con thể hiện sự không tán thành của họ qua tất cả sự căm ghét của họ đối với việc nuôi dạy con cái hiện đại.",
+        "entities": []
+    },
+    {
+        "id": 869,
+        "text": "Wright có một người anh em, Oscar, là một nghệ sĩ truyện tranh, đóng góp bảng phân cảnh, nghệ thuật ý tưởng và hình ảnh quảng cáo cho các bộ phim của Edgar.",
+        "entities": [
+            {
+                "entity": "Wright",
+                "label": "PER"
+            },
+            {
+                "entity": "Oscar",
+                "label": "PER"
+            },
+            {
+                "entity": "Edgar",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "text": "Sự bất đồng này giữa dữ liệu kinh tế và luận điệu chính trị là quen thuộc, hoặc nên như vậy.",
+        "entities": []
+    },
+    {
+        "id": 833,
+        "text": "Cũng trong năm đó, cô xuất hiện ngắn gọn trong bộ phim The Muppets của Disney, với vai trò là lễ tân của Miss Piggy.",
+        "entities": [
+            {
+                "entity": "Disney",
+                "label": "ORG"
+            },
+            {
+                "entity": "Piggy",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 243,
+        "text": "Một thị trấn nhỏ với hai tháp minaret lướt qua.",
+        "entities": []
+    },
+    {
+        "id": 720,
+        "text": "Theo hiệp ước hòa bình, Tây Ban Nha nhượng lại cho Hoa Kỳ các thuộc địa của mình là Puerto Rico, Guam và Philippines.",
+        "entities": [
+            {
+                "entity": "Tây Ban Nha",
+                "label": "ORG"
+            },
+            {
+                "entity": "Hoa Kỳ",
+                "label": "ORG"
+            },
+            {
+                "entity": "Puerto Rico",
+                "label": "LOC"
+            },
+            {
+                "entity": "Guam",
+                "label": "LOC"
+            },
+            {
+                "entity": "Philippines",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 874,
+        "text": "Sau khi trở nên rõ ràng rằng Đế chế Ottoman sẽ mất toàn bộ Macedonia và kết nối lãnh thổ của nó với Albania, các Cường quốc nhận ra rằng họ phải thay đổi quyết định của mình.",
+        "entities": [
+            {
+                "entity": "Đế chế Ottoman",
+                "label": "ORG"
+            },
+            {
+                "entity": "Macedonia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Albania",
+                "label": "LOC"
+            },
+            {
+                "entity": "các Cường quốc",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 548,
+        "text": "Sau đó, khi Augustus thành lập Đế chế La Mã, người La Mã gọi Địa Trung Hải là Mare Nostrum (\"Biển của chúng ta\").",
+        "entities": [
+            {
+                "entity": "Augustus",
+                "label": "PER"
+            },
+            {
+                "entity": "Đế chế La Mã",
+                "label": "ORG"
+            },
+            {
+                "entity": "Địa Trung Hải",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "text": "Seagal đã gây chú ý khi ông mô tả hành động của Nga ở Crimea, nơi mà Nga đã sáp nhập vào năm 2014, là \"rất hợp lý\".",
+        "entities": [
+            {
+                "entity": "Seagal",
+                "label": "PER"
+            },
+            {
+                "entity": "Nga",
+                "label": "ORG"
+            },
+            {
+                "entity": "Crimea",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 728,
+        "text": "Chuối và chuối sáp, lần đầu tiên được thuần hóa ở Đông Nam Á, rất có thể là Papua New Guinea, đã được thuần hóa lại ở Châu Phi có thể sớm nhất là 5.000 năm trước.",
+        "entities": [
+            {
+                "entity": "Đông Nam Á",
+                "label": "LOC"
+            },
+            {
+                "entity": "Papua New Guinea",
+                "label": "LOC"
+            },
+            {
+                "entity": "Châu Phi",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 266,
+        "text": "Sẽ có giới hạn đối với khả năng chi tiêu của ông ấy, tuy nhiên, vì Chính phủ vẫn đang thâm hụt ngân sách đáng kể.",
+        "entities": []
+    },
+    {
+        "id": 725,
+        "text": "Hầu hết thông tin về thời kỳ này đến từ các địa điểm chôn cất và các đồ tùy táng chứa bên trong chúng.",
+        "entities": []
+    },
+    {
+        "id": 827,
+        "text": "Đồng thời vào giữa những năm 1970, Starlin đã đóng góp một loạt các câu chuyện cho tuyển tập khoa học viễn tưởng được xuất bản độc lập Star Reach.",
+        "entities": [
+            {
+                "entity": "Starlin",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 901,
+        "text": "Mức độ nghiêm trọng và sự hiện diện của cuộc cách mạng ở nông thôn đã làm cho Tòa án và Quốc hội ở Versailles lo lắng.",
+        "entities": [
+            {
+                "entity": "Tòa án",
+                "label": "ORG"
+            },
+            {
+                "entity": "Quốc hội",
+                "label": "ORG"
+            },
+            {
+                "entity": "Versailles",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 168,
+        "text": "Trong khi đó, người vợ ly thân của một người điều hành chính phủ đã phát động chiến dịch của mình để giành lấy ghế.",
+        "entities": []
+    },
+    {
+        "id": 584,
+        "text": "Sự phá hủy môi trường sống làm tăng đáng kể sự dễ bị tổn thương của một khu vực đối với các thảm họa tự nhiên như lũ lụt và hạn hán, thất bại mùa màng, sự lây lan của dịch bệnh và ô nhiễm nguồn nước.",
+        "entities": []
+    },
+    {
+        "id": 817,
+        "text": "On a Wing and a Prayer (1992) tái hợp anh ấy với đối tác Stealers Wheel của mình, Egan, trong một số bài hát.",
+        "entities": [
+            {
+                "entity": "Stealers Wheel",
+                "label": "ORG"
+            },
+            {
+                "entity": "Egan",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 381,
+        "text": "Người phát ngôn không loại trừ khả năng rằng những người khác cũng sẽ bị điều tra.",
+        "entities": []
+    },
+    {
+        "id": 778,
+        "text": "Disney cũng phát hiện ra rằng Universal sở hữu quyền sở hữu trí tuệ đối với Oswald.",
+        "entities": [
+            {
+                "entity": "Disney",
+                "label": "PER"
+            },
+            {
+                "entity": "Universal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 853,
+        "text": "John xứ Gaunt qua đời vào năm 1399.",
+        "entities": [
+            {
+                "entity": "John",
+                "label": "PER"
+            },
+            {
+                "entity": "xứ Gaunt",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "text": "Mục đích của các phiên điều trần CRTC này là để thu thập phản hồi từ các bên liên quan trong ngành và công chúng.",
+        "entities": [
+            {
+                "entity": "CRTC",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 507,
+        "text": "Một ví dụ về đảo hoang sẽ là những hòn đảo nhỏ ngoài khơi bờ biển Baja California, Mexico.",
+        "entities": [
+            {
+                "entity": "Baja California",
+                "label": "LOC"
+            },
+            {
+                "entity": "Mexico",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 997,
+        "text": "César đã được Curio thông báo trực tiếp về hành động của Pompey, người mà vào thời điểm đó đã kết thúc nhiệm kỳ của mình.",
+        "entities": [
+            {
+                "entity": "César",
+                "label": "PER"
+            },
+            {
+                "entity": "Pompey",
+                "label": "PER"
+            },
+            {
+                "entity": "Curio",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 581,
+        "text": "Cuộc điều tra và các cuộc thám hiểm đến hòn đảo vẫn tiếp tục.",
+        "entities": []
+    },
+    {
+        "id": 20,
+        "text": "\"Chúng tôi đã yêu cầu các quốc gia khác giúp chúng tôi bổ sung vườn thú với các loài động vật khác nhau, bao gồm cả một con lợn,\" Saqib nói.",
+        "entities": [
+            {
+                "entity": "Saqib",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 181,
+        "text": "Anh ấy có sự cứng rắn trong trò chơi của mình nhưng cũng có đôi tay mềm mại.",
+        "entities": []
+    },
+    {
+        "id": 278,
+        "text": "Một báo cáo quan trọng vào tháng Một cho biết các đại dương sẽ chứa nhiều nhựa hơn cá vào năm 2050 trừ khi thế giới thực hiện hành động quyết liệt để ngăn chặn rác thải rò rỉ vào biển.",
+        "entities": []
+    },
+    {
+        "id": 998,
+        "text": "Trong khi đó, vị trí của anh ấy trên khán đài đã được Marco Antonio chiếm giữ, người đã giữ vị trí này cho đến tháng Mười Hai.",
+        "entities": [
+            {
+                "entity": "Marco Antonio",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 180,
+        "text": "Nam Phi gần như đã đến điểm không thể quay lại và chúng ta phải có khả năng đáp ứng được khát khao của họ.",
+        "entities": [
+            {
+                "entity": "Nam Phi",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 543,
+        "text": "Từ tháng Sáu đến tháng Tám năm 2010, nạn đói đã xảy ra ở Sahel.",
+        "entities": [
+            {
+                "entity": "Sahel",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 202,
+        "text": "Trong khi đó, khách hàng của Ngân hàng Scotland kiếm được 3% trên số dư từ £3,000-£5,000 khi họ thêm tùy chọn Vantage miễn phí vào tài khoản của mình.",
+        "entities": [
+            {
+                "entity": "Ngân hàng Scotland",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 948,
+        "text": "Vào mùa xuân năm 1948, với hy vọng chuyển thể Tintin cho điện ảnh, nghệ sĩ người Bỉ đã viết một bức thư cho Walt Disney, yêu cầu sự hỗ trợ của ông nhưng vô ích.",
+        "entities": [
+            {
+                "entity": "Walt Disney",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 642,
+        "text": "Nó đặt nền tảng cho sự hội nhập nơi mà các cơ chế kinh tế và tư pháp của nhà nước có thể được áp dụng trên khắp Địa Trung Hải như đã từng được thực hiện từ Latium vào toàn bộ nước Ý.",
+        "entities": [
+            {
+                "entity": "Địa Trung Hải",
+                "label": "LOC"
+            },
+            {
+                "entity": "Latium",
+                "label": "LOC"
+            },
+            {
+                "entity": "nước Ý",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 371,
+        "text": "Ở Bình Nhưỡng, tôi có thấy một số người sử dụng điện thoại thông minh, nhưng ít hơn nhiều.",
+        "entities": [
+            {
+                "entity": "Bình Nhưỡng",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 442,
+        "text": "Điều khoản này bao gồm thời gian đi đến nhà của khách hàng trong giờ làm việc.",
+        "entities": []
+    },
+    {
+        "id": 459,
+        "text": "Từ ngày 1 tháng 1 sẽ có sự tăng giá xăng và dầu diesel.",
+        "entities": []
+    },
+    {
+        "id": 287,
+        "text": "Cổ của cô ấy đẩy về phía trước trong cuộc đối đầu làm nổi bật tĩnh mạch, tay cô ấy run rẩy.",
+        "entities": []
+    },
+    {
+        "id": 536,
+        "text": "Một ví dụ gần đây về kiểm soát thời tiết là sự chuẩn bị của Trung Quốc cho Thế vận hội Mùa hè 2008.",
+        "entities": [
+            {
+                "entity": "Trung Quốc",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 319,
+        "text": "Thứ Ba là tất cả về việc đi bầu cử, nhưng nó không có ý nghĩa gì nếu một cử tri đã đăng ký không có trong danh sách.",
+        "entities": []
+    },
+    {
+        "id": 656,
+        "text": "Các vị thần thể hiện rõ ràng nhu cầu thực tiễn của cuộc sống hàng ngày, và họ được cẩn thận thực hiện các nghi lễ và lễ vật được coi là thích hợp.",
+        "entities": []
+    },
+    {
+        "id": 46,
+        "text": "\"Các sự kiện gần đây\" có khả năng là các cuộc tấn công vào ngày 21 tháng 10 đã tạm thời làm sập các trang web phổ biến như Reddit, Twitter và Spotify cũng như nhiều trang khác.",
+        "entities": [
+            {
+                "entity": "Reddit",
+                "label": "ORG"
+            },
+            {
+                "entity": "Twitter",
+                "label": "ORG"
+            },
+            {
+                "entity": "Spotify",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 640,
+        "text": "Có thể xác định được pha của mặt trăng vào một ngày cụ thể hai nghìn năm trước nhưng không thể biết liệu nó có bị che khuất bởi mây hoặc sương mù hay không.",
+        "entities": []
+    },
+    {
+        "id": 504,
+        "text": "Đại hội Thể thao Sinh viên Mùa đông 2019 sẽ được tổ chức tại Krasnoyarsk.",
+        "entities": [
+            {
+                "entity": "Krasnoyarsk",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 939,
+        "text": "Vào thời Trung Cổ, hầu hết các tín đồ Kitô giáo không có quyền tiếp cận Kinh Thánh bằng ngôn ngữ mẹ đẻ của họ.",
+        "entities": []
+    },
+    {
+        "id": 462,
+        "text": "Các số liệu mới nhất liên quan đến ngày 24 tháng 10 năm ngoái, và cho chúng ta biết rằng chi phí dầu diesel của chúng ta là 1.335 euro mỗi lít, so với mức trung bình của khu vực đồng euro là 1.165 euro.",
+        "entities": []
+    },
+    {
+        "id": 289,
+        "text": "Ông ấy đã làm việc trong lĩnh vực tin tức và thời sự của đài phát thanh và truyền hình trong nhiều thập kỷ.",
+        "entities": []
+    },
+    {
+        "id": 603,
+        "text": "Ở tốc độ gió lớn hơn, một số hạt được nâng lên vào dòng không khí.",
+        "entities": []
+    },
+    {
+        "id": 236,
+        "text": "Thế giới – và mở rộng ra là Vương quốc Anh – đang đối mặt với tình trạng thiếu hụt những người có kỹ năng cần thiết để xây dựng một hệ thống phòng thủ hiệu quả.",
+        "entities": [
+            {
+                "entity": "Vương quốc Anh",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 492,
+        "text": "Nhấn mạnh, châm biếm tinh tế, ám chỉ thô và các thiết bị ngôn từ khác được sử dụng tốt phù hợp với diễn thuyết nghị viện, nhưng việc châm chọc lẫn nhau và hài kịch slapstick thì không.",
+        "entities": []
+    },
+    {
+        "id": 519,
+        "text": "Các dự án cải tạo đất hiện tại bao gồm mở rộng quận Fontvieille.",
+        "entities": [
+            {
+                "entity": "Fontvieille",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 928,
+        "text": "Vào đầu những năm 2000, có năm bác sĩ trên 100.000 dân.",
+        "entities": []
+    },
+    {
+        "id": 136,
+        "text": "Các mảnh vỡ đã tạo thành một vòng quanh xích đạo của Trái Đất và cuối cùng được lực hấp dẫn kéo lại với nhau để hình thành mặt trăng.",
+        "entities": [
+            {
+                "entity": "Trái Đất",
+                "label": "LOC"
+            },
+            {
+                "entity": "mặt trăng",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 958,
+        "text": "Việc phát hành tiền xu chủ yếu mang tính chất sưu tầm, với ý định được bán chủ yếu cho các nhà sưu tập.",
+        "entities": []
+    },
+    {
+        "id": 382,
+        "text": "Bởi vì series 1 không còn là cái cũ nữa, nhiều người dùng có thể tiết kiệm 100 euro.",
+        "entities": []
+    },
+    {
+        "id": 610,
+        "text": "Tên \"Caribbean\" bắt nguồn từ người Caribs, một trong những nhóm người bản địa Mỹ thống trị trong khu vực vào thời điểm tiếp xúc với người châu Âu vào cuối thế kỷ 15.",
+        "entities": []
+    },
+    {
+        "id": 376,
+        "text": "Các sĩ quan đã có thể khống chế người đàn ông 53 tuổi trong hành động vào sáng Chủ Nhật.",
+        "entities": []
+    },
+    {
+        "id": 801,
+        "text": "Sau khi đạt đỉnh cao sự nghiệp tại quê nhà ở Úc, Geyer trở về sống ở Los Angeles vào năm 1984 để tập trung vào việc thâm nhập vào làng nhạc ở đó.",
+        "entities": [
+            {
+                "entity": "Úc",
+                "label": "LOC"
+            },
+            {
+                "entity": "Geyer",
+                "label": "PER"
+            },
+            {
+                "entity": "Los Angeles",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "text": "Tổng số tiền thưởng hiệu suất và tiền thưởng năm đó là 1,5 triệu đô la, khoảng cùng mức với năm 2015-2016.",
+        "entities": []
+    },
+    {
+        "id": 797,
+        "text": "Với diện mạo của cô ấy đã được hoàn thiện, Jasmine trở thành công chúa không phải người da trắng đầu tiên của Disney thay vì có nguồn gốc châu Âu.",
+        "entities": [
+            {
+                "entity": "Jasmine",
+                "label": "PER"
+            },
+            {
+                "entity": "Disney",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 206,
+        "text": "Chuyển nhanh đến năm 2016 và điều này ngày càng đáng chú ý.",
+        "entities": []
+    },
+    {
+        "id": 239,
+        "text": "Sau khi tôi phát hiện ra một mạch thảo luận phong phú trên internet về chủ đề này, danh sách của tôi đã trở nên dài quá mức và bao phủ gần như mọi tiểu bang trong liên bang.",
+        "entities": []
+    },
+    {
+        "id": 108,
+        "text": "Gomery, người đã dẫn đầu ủy ban điều tra vụ bê bối tài trợ liên bang từ năm 2004 đến 2006, cho biết các cơ quan như vậy là cần thiết để giúp khôi phục niềm tin của công chúng vào pháp quyền.",
+        "entities": [
+            {
+                "entity": "Gomery",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 210,
+        "text": "Điều đó thực sự kinh khủng.",
+        "entities": []
+    },
+    {
+        "id": 696,
+        "text": "Nói cách khác: nam thanh niên (những người chiếm phần lớn trong số các chiến binh trong các cuộc nội chiến) ít có khả năng tham gia vào một cuộc nổi dậy nếu họ đang được giáo dục hoặc có mức lương thoải mái, và có thể hợp lý giả định rằng họ sẽ thịnh vượng trong tương lai.",
+        "entities": []
+    },
+    {
+        "id": 62,
+        "text": "\"Tối nay chúng tôi đang thực hiện các hình phạt bằng cách sử dụng đèn pha cao,\" bài đăng viết.",
+        "entities": []
+    },
+    {
+        "id": 341,
+        "text": "Các tập mới được theo sau bởi chương trình hậu kỳ, \"The Talking Dead.\"",
+        "entities": []
+    },
+    {
+        "id": 197,
+        "text": "Chúng ta không thể để chức tổng thống rơi vào tay Donald Trump, một người phân biệt chủng tộc, phân biệt giới tính và hoàn toàn không đủ tiêu chuẩn để làm tổng tư lệnh.",
+        "entities": [
+            {
+                "entity": "Donald Trump",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "text": "Bà Pugh đã nhận điều trị tại các Bệnh viện Papworth và Addenbrooke ở Cambridgeshire.",
+        "entities": [
+            {
+                "entity": "Pugh",
+                "label": "PER"
+            },
+            {
+                "entity": "Papworth",
+                "label": "ORG"
+            },
+            {
+                "entity": "Addenbrooke",
+                "label": "ORG"
+            },
+            {
+                "entity": "Cambridgeshire",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 326,
+        "text": "Martin vẫn chưa hoàn thành hai trong số các cuốn sách còn lại trong loạt truyện nổi tiếng của mình, hiện được gọi là \"The Winds of Winter\" và \"A Dream of Spring.\"",
+        "entities": [
+            {
+                "entity": "Martin",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 903,
+        "text": "Nhà vua đã không thực hiện các biện pháp phòng ngừa đặc biệt trong quá trình trốn thoát và đã bị nhận ra nhiều lần trong thời gian lưu trú của mình.",
+        "entities": []
+    },
+    {
+        "id": 151,
+        "text": "Các nhà sản xuất Miami Bass rất chuyên nghiệp trong nghệ thuật làm cho mọi người nhảy múa - mối quan tâm chính của họ.",
+        "entities": [
+            {
+                "entity": "Miami Bass",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 379,
+        "text": "Với 71 bàn thắng trong 137 trận đấu quốc tế, anh đã ghi một số bàn thắng kỷ lục cho DFB.",
+        "entities": [
+            {
+                "entity": "DFB",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "text": "Vào đầu tháng Mười, nhóm chuyển tiếp đã sử dụng cùng một địa điểm để gặp gỡ các nhà vận động hành lang công nghệ, mời đại diện từ Uber, Hiệp hội Điện ảnh Hoa Kỳ, Hiệp hội Công nghệ Tiêu dùng và các nhóm khác.",
+        "entities": [
+            {
+                "entity": "Uber",
+                "label": "ORG"
+            },
+            {
+                "entity": "Hiệp hội Điện ảnh Hoa Kỳ",
+                "label": "ORG"
+            },
+            {
+                "entity": "Hiệp hội Công nghệ Tiêu dùng",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 828,
+        "text": "Thông qua bà của mình, Mishima là hậu duệ trực tiếp của Tokugawa Ieyasu.",
+        "entities": [
+            {
+                "entity": "Mishima",
+                "label": "PER"
+            },
+            {
+                "entity": "Tokugawa Ieyasu",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "text": "\"Nhưng có thể là BA và IAG đã giải quyết được vấn đề và có thể cung cấp một cái gì đó khá đáng tin cậy.\"",
+        "entities": [
+            {
+                "entity": "BA",
+                "label": "ORG"
+            },
+            {
+                "entity": "IAG",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "text": "Không phải ai cũng có thể vượt qua nó.",
+        "entities": []
+    },
+    {
+        "id": 297,
+        "text": "Kết quả, sau đó, khó có thể là điều tuyệt vời nhất.",
+        "entities": []
+    },
+    {
+        "id": 411,
+        "text": "Nhà điều tra người Canada về vụ tai nạn máy bay Larry Vance đã nói với SPIEGEL rằng ông tin chắc rằng một trong những phi công đã có ý định hạ cánh máy bay xuống mặt biển - để nó chìm.",
+        "entities": [
+            {
+                "entity": "Larry Vance",
+                "label": "PER"
+            },
+            {
+                "entity": "SPIEGEL",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 450,
+        "text": "Pháp không có danh tiếng tốt.",
+        "entities": [
+            {
+                "entity": "Pháp",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 224,
+        "text": "Hãy cứ nói rằng anh ấy sai.",
+        "entities": []
+    },
+    {
+        "id": 803,
+        "text": "Sau khi bị sa thải, Peniston đã đảm nhận vai Glinda the Good Witch trong một vở kịch nhạc kịch The Wiz.",
+        "entities": [
+            {
+                "entity": "Peniston",
+                "label": "PER"
+            },
+            {
+                "entity": "Glinda the Good Witch",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 883,
+        "text": "Trong số đó có tu viện cũ từ nhà thờ tu viện Thánh Phêrô và Phaolô.",
+        "entities": [
+            {
+                "entity": "nhà thờ tu viện Thánh Phêrô và Phaolô",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 906,
+        "text": "Chiến tranh Thế giới thứ nhất đã mang lại những thay đổi và phát triển mới trong chính trị thuộc địa.",
+        "entities": []
+    },
+    {
+        "id": 979,
+        "text": "Trước khi dãy Andes được hình thành, rìa phía tây của Nam Mỹ đã là nơi diễn ra một số quá trình tạo núi.",
+        "entities": [
+            {
+                "entity": "dãy Andes",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nam Mỹ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 607,
+        "text": "Đến năm 1340, Cairo có dân số gần nửa triệu người, khiến nó trở thành thành phố lớn nhất về phía tây của Trung Quốc.",
+        "entities": [
+            {
+                "entity": "Cairo",
+                "label": "LOC"
+            },
+            {
+                "entity": "Trung Quốc",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 994,
+        "text": "Ông cũng đã thảo luận về việc liên bang hóa Thành phố Buenos Aires, việc mở rộng bộ luật thương mại và việc bổ nhiệm các tướng mới vào quân đội.",
+        "entities": [
+            {
+                "entity": "Thành phố Buenos Aires",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 968,
+        "text": "Napoleon tự tin rằng thành công rõ ràng của Austerlitz có thể dẫn đến một hiệp ước hòa bình chung, nhưng hy vọng của ông nhanh chóng tan vỡ: Thủ tướng Anh mới Lord Grenville từ chối bất kỳ thỏa thuận nào, và Sa hoàng Alexander cũng vậy.",
+        "entities": [
+            {
+                "entity": "Napoleon",
+                "label": "PER"
+            },
+            {
+                "entity": "Austerlitz",
+                "label": "LOC"
+            },
+            {
+                "entity": "Grenville",
+                "label": "PER"
+            },
+            {
+                "entity": "Alexander",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 638,
+        "text": "Theo Tân Ước, Phao-lô đã ở lại Cô-rinh-tô mười tám tháng, khoảng mười bảy năm sau khi ông cải đạo.",
+        "entities": [
+            {
+                "entity": "Phao-lô",
+                "label": "PER"
+            },
+            {
+                "entity": "Cô-rinh-tô",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 622,
+        "text": "Kể từ những năm 1960, nền kinh tế Hàn Quốc đã phát triển mạnh mẽ và cơ cấu kinh tế đã được chuyển đổi một cách căn bản.",
+        "entities": []
+    },
+    {
+        "id": 664,
+        "text": "Con giáp của cô ấy là con Khỉ và năm kỷ niệm sáu mươi năm truyền thống của cô ấy là năm 1992.",
+        "entities": []
+    },
+    {
+        "id": 657,
+        "text": "Điều này được thực hiện bằng thuyền từ lục địa châu Âu.",
+        "entities": [
+            {
+                "entity": "châu Âu",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 522,
+        "text": "Trong khi việc nhận dạng khối không khí ban đầu được sử dụng trong dự báo thời tiết vào những năm 1950, các nhà khí hậu học bắt đầu thiết lập các khí hậu học tổng hợp dựa trên ý tưởng này vào năm 1973.",
+        "entities": []
+    },
+    {
+        "id": 157,
+        "text": "Caplan bác bỏ việc bỏ phiếu hồi tố, trích dẫn một cặp học giả gọi đó là “không hợp lý hơn việc giết pharaoh khi sông Nile không lũ lụt.”",
+        "entities": [
+            {
+                "entity": "Caplan",
+                "label": "PER"
+            },
+            {
+                "entity": "sông Nile",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 815,
+        "text": "Năm 2003, anh ấy thống trị bảng xếp hạng điểm số và dẫn đầu 33 trong số 36 cuộc đua cuối cùng và trở thành nhà vô địch NASCAR Winston Cup năm 2003, là tay đua cuối cùng từng giữ danh hiệu đó.",
+        "entities": [
+            {
+                "entity": "NASCAR",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 643,
+        "text": "Mỗi bài thơ chỉ kể một phần của cuộc chiến.",
+        "entities": []
+    },
+    {
+        "id": 123,
+        "text": "Điều bắt đầu như một cuộc siêu âm định kỳ đã trở nên phức tạp khi bà mẹ mang thai Margaret Boemer, ở Plano, Texas, được thông báo rằng đứa con chưa sinh của cô ấy mắc một tình trạng hiếm gặp và cần phẫu thuật để sống sót.",
+        "entities": [
+            {
+                "entity": "Margaret Boemer",
+                "label": "PER"
+            },
+            {
+                "entity": "Plano, Texas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 524,
+        "text": "Một loạt các bộ lạc Germanic và Slavic lớn đã đi qua Moravia trong thời kỳ Di cư trước khi người Slav định cư vào thế kỷ thứ 6 sau Công nguyên.",
+        "entities": [
+            {
+                "entity": "Moravia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 349,
+        "text": "Nhưng nỗ lực mới nhất của nó trong trò chơi trò chuyện nơi làm việc là một phần của xu hướng lớn hơn từ các công ty công nghệ.",
+        "entities": []
+    },
+    {
+        "id": 7,
+        "text": "$5,000 mỗi người, mức tối đa cho phép.",
+        "entities": []
+    },
+    {
+        "id": 113,
+        "text": "\"Thật tuyệt vời,\" khách hàng sử dụng dữ liệu không giới hạn của SaskTel, Lindsay Gay, đã báo cáo vào tháng trước.",
+        "entities": [
+            {
+                "entity": "SaskTel",
+                "label": "ORG"
+            },
+            {
+                "entity": "Lindsay Gay",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 796,
+        "text": "Để tránh gặp phải tình huống khó xử tương tự với Jasmine, các nhà làm phim cuối cùng đã quyết định để công chúa được hoạt hình hoàn toàn tại một studio.",
+        "entities": [
+            {
+                "entity": "Jasmine",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 839,
+        "text": "Trong khi phát biểu trước Nội các ngay sau khi lực lượng Đức vượt qua biên giới, Chamberlain đã đổ lỗi cho cả Đức và Áo.",
+        "entities": [
+            {
+                "entity": "Chamberlain",
+                "label": "PER"
+            },
+            {
+                "entity": "Đức",
+                "label": "ORG"
+            },
+            {
+                "entity": "Áo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "text": "Seagal, có bà ngoại đến từ Vladivostok ở vùng viễn đông của Nga, đã thường xuyên đến Nga trong những năm gần đây và đã thăm Kamchatka và Sakhalin vào tháng Chín.",
+        "entities": [
+            {
+                "entity": "Seagal",
+                "label": "PER"
+            },
+            {
+                "entity": "Vladivostok",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nga",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nga",
+                "label": "LOC"
+            },
+            {
+                "entity": "Kamchatka",
+                "label": "LOC"
+            },
+            {
+                "entity": "Sakhalin",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "text": "\"Vì vậy, tôi ghét phải gây một chút áp lực cho bạn, nhưng số phận của nước cộng hòa đang nằm trên vai bạn,\" anh ấy nói với đám đông tụ tập trên sân thể thao tại Đại học Bắc Carolina.",
+        "entities": [
+            {
+                "entity": "Đại học Bắc Carolina",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 861,
+        "text": "Reagan tin rằng Chúa đã cứu mạng ông để ông có thể tiếp tục thực hiện một mục đích lớn hơn.",
+        "entities": [
+            {
+                "entity": "Reagan",
+                "label": "PER"
+            },
+            {
+                "entity": "Chúa",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "text": "Các hướng dẫn mới về sắt có nghĩa là cần nhiều người hiến máu hơn.",
+        "entities": []
+    },
+    {
+        "id": 910,
+        "text": "Sau Cách mạng Nga năm 1917, một số quốc gia, chẳng hạn như Phần Lan, Ba Lan và các nước Baltic, đã giành được độc lập của họ.",
+        "entities": [
+            {
+                "entity": "Phần Lan",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ba Lan",
+                "label": "LOC"
+            },
+            {
+                "entity": "các nước Baltic",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 849,
+        "text": "Trong mùa giải 2013, cô xuất hiện trên CTV Montreal với tư cách là người dẫn chương trình thời tiết khách mời.",
+        "entities": []
+    },
+    {
+        "id": 497,
+        "text": "Việc bỏ phiếu sớm cho thấy rằng lần này người Mỹ Latinh sẽ đi bỏ phiếu với số lượng lớn hơn, nhưng không rõ liệu sự gia tăng này có ảnh hưởng hay không.",
+        "entities": []
+    },
+    {
+        "id": 417,
+        "text": "Người chồng của ứng cử viên hiện tại cho Nhà Trắng, Hillary Clinton, đã ân xá một số người, bao gồm cả Rich, vào ngày cuối cùng của nhiệm kỳ tổng thống của ông, ngày 20 tháng 1 năm 2001.",
+        "entities": [
+            {
+                "entity": "Nhà Trắng",
+                "label": "LOC"
+            },
+            {
+                "entity": "Hillary Clinton",
+                "label": "PER"
+            },
+            {
+                "entity": "Rich",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 367,
+        "text": "Nó cũng thúc đẩy sự xuất hiện của các tòa nhà cao tầng hiện đại -- như MahaNakhon đầy tầm nhìn, tòa nhà cao nhất Bangkok.",
+        "entities": [
+            {
+                "entity": "MahaNakhon",
+                "label": "LOC"
+            },
+            {
+                "entity": "Bangkok",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 194,
+        "text": "Những giải thưởng khác thường hơn của anh ấy bao gồm đại sứ toàn cầu cho Tập đoàn Y tế và Bệnh viện Thành phố New York, và một vị trí tại Trường Kinh doanh Harvard.",
+        "entities": [
+            {
+                "entity": "Tập đoàn Y tế và Bệnh viện Thành phố New York",
+                "label": "ORG"
+            },
+            {
+                "entity": "Trường Kinh doanh Harvard",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 214,
+        "text": "\"Tôi yêu thích những màu sắc nhiệt đới,\" anh ấy nói.",
+        "entities": []
+    },
+    {
+        "id": 695,
+        "text": "Nghiên cứu đã diễn giải ba yếu tố này như là đại diện cho thu nhập bị mất do nổi loạn, và do đó thu nhập bị mất thấp hơn khuyến khích nổi loạn.",
+        "entities": []
+    },
+    {
+        "id": 94,
+        "text": "\"Chúng tôi đang thấy nhiều, rất nhiều quốc gia và đặc biệt là các nước phát thải lớn mới như Brazil, Nam Phi, Ấn Độ và Trung Quốc đang tham gia vào việc đóng vai trò trong việc giảm phát thải,\" Guilbeault nói.",
+        "entities": [
+            {
+                "entity": "Brazil",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nam Phi",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ấn Độ",
+                "label": "LOC"
+            },
+            {
+                "entity": "Trung Quốc",
+                "label": "LOC"
+            },
+            {
+                "entity": "Guilbeault",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "text": "\"Chúng tôi đối mặt với rất nhiều cạnh tranh, và chúng tôi nghĩ rằng giao thông công cộng có thể giúp đỡ,\" Joe Sternlieb, chủ tịch của Georgetown BID, nói.",
+        "entities": [
+            {
+                "entity": "Joe Sternlieb",
+                "label": "PER"
+            },
+            {
+                "entity": "Georgetown BID",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 748,
+        "text": "Vào năm 1839, Trung Quốc thấy mình đang chiến đấu trong Chiến tranh Nha phiến lần thứ nhất với Vương quốc Anh sau khi Tổng đốc của Hồ Nam và Hồ Bắc, Lâm Tắc Từ, cấm buôn bán nha phiến nước ngoài.",
+        "entities": [
+            {
+                "entity": "Trung Quốc",
+                "label": "ORG"
+            },
+            {
+                "entity": "Vương quốc Anh",
+                "label": "ORG"
+            },
+            {
+                "entity": "Hồ Nam",
+                "label": "LOC"
+            },
+            {
+                "entity": "Hồ Bắc",
+                "label": "LOC"
+            },
+            {
+                "entity": "Lâm Tắc Từ",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 496,
+        "text": "Do đó, Trump không quá lo lắng về lá phiếu của người Mỹ Latinh ở cấp quốc gia.",
+        "entities": [
+            {
+                "entity": "Trump",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "text": "\"Khi tôi đóng vai ông ấy, tôi cảm thấy mạnh mẽ,\" người đóng giả Donald Trump, John Di Domenico, giải thích với Slate vào năm ngoái.",
+        "entities": [
+            {
+                "entity": "Donald Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "John Di Domenico",
+                "label": "PER"
+            },
+            {
+                "entity": "Slate",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 601,
+        "text": "Bão bụi thường bắt đầu ở rìa sa mạc hơn là trong chính sa mạc nơi mà các vật liệu mịn hơn đã bị thổi bay đi.",
+        "entities": []
+    },
+    {
+        "id": 838,
+        "text": "Ngài Halifax, Chủ tịch Hội đồng, đã đến thăm Đức một cách riêng tư vào tháng 11 và gặp Hitler cùng các quan chức Đức khác.",
+        "entities": [
+            {
+                "entity": "Halifax",
+                "label": "PER"
+            },
+            {
+                "entity": "Đức",
+                "label": "LOC"
+            },
+            {
+                "entity": "Hitler",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 494,
+        "text": "Có lẽ đó là lý do tại sao một dòng nước mắt dâng trào làm mờ mắt anh ấy trong khi âm tiết của thời gian khai quật mùa màng của anh ấy và giao nộp bí ẩn của anh ấy cho những dòng nước bị ràng buộc.",
+        "entities": []
+    },
+    {
+        "id": 161,
+        "text": "\"Hoàn toàn bỏ bê sức khỏe của chính mình,\" vợ anh, Alice, báo cáo.",
+        "entities": [
+            {
+                "entity": "Alice",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 273,
+        "text": "Điều này không ngăn cản các nhà đầu tư đổ xô bỏ tiền vào các quỹ.",
+        "entities": []
+    },
+    {
+        "id": 10,
+        "text": "Có lẽ quy định trang phục quá cứng nhắc.",
+        "entities": []
+    },
+    {
+        "id": 625,
+        "text": "Trước hết là việc cung cấp không gian mở cho lợi ích của người dân thị trấn và cư dân địa phương trong một khu vực đang được xây dựng nhanh chóng.",
+        "entities": []
+    },
+    {
+        "id": 182,
+        "text": "Chúng tôi có một đội hình tuyệt vời và đây là cơ hội để chúng tôi đưa con tàu tiến lên phía trước.",
+        "entities": []
+    },
+    {
+        "id": 251,
+        "text": "Ông nói với chương trình Andrew Marr của BBC: \"Một cuộc tổng tuyển cử thực sự là điều cuối cùng mà Chính phủ muốn.\"",
+        "entities": [
+            {
+                "entity": "BBC",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "text": "Bà ấy đã 84 tuổi.",
+        "entities": []
+    },
+    {
+        "id": 615,
+        "text": "Thật không may, sự gia tăng dân số nhanh chóng và sự mở rộng đô thị đã bao phủ phần lớn các hệ sinh thái này bằng sự phát triển.",
+        "entities": []
+    },
+    {
+        "id": 81,
+        "text": "Tuy nhiên, họ không thể tìm thấy cùng một mô hình này trong các mô như bàng quang, những mô không tiếp xúc trực tiếp.",
+        "entities": []
+    },
+    {
+        "id": 43,
+        "text": "Tất nhiên Trung Quốc sẽ trình bày nhiều thiết bị quân sự khác trong tuần này từ trực thăng tấn công đến thủy phi cơ.",
+        "entities": [
+            {
+                "entity": "Trung Quốc",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 987,
+        "text": "Người Ấn Độ đến từ Canada, do Joseph Brant dẫn đầu; họ ủng hộ người Anh vì những người thực dân đang chiếm đoạt ngày càng nhiều đất đai của họ.",
+        "entities": [
+            {
+                "entity": "Canada",
+                "label": "LOC"
+            },
+            {
+                "entity": "Joseph Brant",
+                "label": "PER"
+            },
+            {
+                "entity": "người Anh",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 782,
+        "text": "Tuy nhiên, đối thủ của ông là Prabowo Subianto cũng tuyên bố chiến thắng, khiến công dân Indonesia bối rối.",
+        "entities": [
+            {
+                "entity": "Prabowo Subianto",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 334,
+        "text": "Với sự giúp đỡ từ Liên đoàn Tự do Dân sự Hoa Kỳ, họ cuối cùng đã thách thức bang, trong một vụ án cuối cùng đã được đưa lên Tòa án Tối cao Hoa Kỳ.",
+        "entities": [
+            {
+                "entity": "Liên đoàn Tự do Dân sự Hoa Kỳ",
+                "label": "ORG"
+            },
+            {
+                "entity": "Tòa án Tối cao Hoa Kỳ",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 473,
+        "text": "Ngày càng có nhiều công ty công nghệ đang nắm quyền kiểm soát hơn bao giờ hết trên Phố Wall, thậm chí còn nhiều hơn ở Thung lũng Silicon.",
+        "entities": [
+            {
+                "entity": "Phố Wall",
+                "label": "LOC"
+            },
+            {
+                "entity": "Thung lũng Silicon",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 248,
+        "text": "Chính phủ Hồng Kông, do các nhà lập pháp ủng hộ Bắc Kinh lãnh đạo, đã lập luận rằng cặp đôi này không nên nhậm chức.",
+        "entities": [
+            {
+                "entity": "Hồng Kông",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 956,
+        "text": "Vào năm 1976, trường đua không còn được sử dụng; vào năm 1990, một vụ cháy đã phá hủy những gì còn lại của khán đài gỗ, sau đó chúng đã bị phá dỡ cùng với chuồng ngựa.",
+        "entities": []
+    },
+    {
+        "id": 826,
+        "text": "Starlin đảm nhận vai trò người viết cốt truyện trong số tiếp theo, và bắt đầu phát triển một cốt truyện phức tạp xoay quanh nhân vật phản diện Thanos, và trải dài qua một số đầu truyện của Marvel.",
+        "entities": [
+            {
+                "entity": "Starlin",
+                "label": "PER"
+            },
+            {
+                "entity": "Thanos",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 203,
+        "text": "Với điều này, về lý thuyết, bạn có thể truy cập tiền của mình bất cứ khi nào bạn muốn.",
+        "entities": []
+    },
+    {
+        "id": 896,
+        "text": "Trong phạm vi của nó, nó thuộc về những nền văn hóa có tầm ảnh hưởng sâu rộng nhất của thời đại, trong đó nhiều địa điểm được biết đến.",
+        "entities": []
+    },
+    {
+        "id": 385,
+        "text": "Một nghiên cứu của Thụy Điển đã chỉ ra rằng động vật hiếm khi, nếu có, hạ cánh sau thời kỳ sinh sản 2 tháng.",
+        "entities": []
+    },
+    {
+        "id": 785,
+        "text": "Với lời khuyên từ Alexander, anh ấy đã có thể tìm ra một thỏa hiệp: anh ấy sẽ theo học một trường đại học, nhưng sẽ học văn học.",
+        "entities": [
+            {
+                "entity": "Alexander",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 448,
+        "text": "Hội đồng Kỹ thuật số Pháp, cơ quan tư vấn về các dự luật liên quan đến công nghệ kỹ thuật số, cũng có thể xem xét nó.",
+        "entities": [
+            {
+                "entity": "Hội đồng Kỹ thuật số Pháp",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 677,
+        "text": "Không gian trung tâm được sử dụng để quan sát mặt trời mọc và trăng tròn.",
+        "entities": []
+    },
+    {
+        "id": 95,
+        "text": "Ông cũng có thể chờ đến khi kết thúc nhiệm kỳ đầu tiên của mình để sử dụng một điều khoản trong thỏa thuận Paris để rút khỏi hiệp ước.",
+        "entities": [
+            {
+                "entity": "Paris agreement",
+                "translation": "thỏa thuận Paris"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "text": "Lời hứa về các đơn đặt hàng mới của Hải quân Hoàng gia để bảo vệ ngành công nghiệp đóng tàu Clyde đã được đưa ra trước cuộc trưng cầu dân ý về độc lập của Scotland vào năm 2014.",
+        "entities": [
+            {
+                "entity": "Hải quân Hoàng gia",
+                "label": "ORG"
+            },
+            {
+                "entity": "Clyde",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 983,
+        "text": "Sự sụp đổ và can thiệp vào hàng chục ngân hàng dẫn đến sự tháo chạy của vốn, khiến các doanh nghiệp phá sản.",
+        "entities": []
+    },
+    {
+        "id": 340,
+        "text": "\"Norman là một trong những người bạn tốt của tôi, vì vậy thật tệ khi thấy anh ấy trong trạng thái cảm xúc đó.\"",
+        "entities": [
+            {
+                "entity": "Norman",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 749,
+        "text": "Trung Quốc đã bị đánh bại, và vào năm 1842 đã đồng ý với các điều khoản của Hiệp ước Nam Kinh.",
+        "entities": [
+            {
+                "entity": "Trung Quốc",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 343,
+        "text": "Nỗ lực Internet được cho là động lực chính của chi tiêu vốn cho đơn vị.",
+        "entities": []
+    },
+    {
+        "id": 512,
+        "text": "Quân đội đa sắc tộc Achaemenid có nhiều binh lính từ vùng Balkan.",
+        "entities": [
+            {
+                "entity": "Balkan",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 286,
+        "text": "Năng lượng của cô ấy đến từ đâu? Hoặc giọng nói đó, có thể phát ra với một lực đủ để gây ra sóng xung kích?",
+        "entities": []
+    },
+    {
+        "id": 645,
+        "text": "Người ta đã tiên đoán rằng anh ta sẽ hoặc chết vì tuổi già sau một cuộc sống bình lặng, hoặc chết trẻ trên chiến trường và đạt được sự bất tử qua thơ ca.",
+        "entities": []
+    },
+    {
+        "id": 591,
+        "text": "Bắc Mỹ và Nam Mỹ được coi là các lục địa riêng biệt trong mô hình bảy lục địa.",
+        "entities": [
+            {
+                "entity": "Bắc Mỹ",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nam Mỹ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 526,
+        "text": "Vào năm 833 sau Công nguyên, điều này trở thành nhà nước Đại Moravia với việc chinh phục Công quốc Nitra (nay là Slovakia).",
+        "entities": [
+            {
+                "entity": "Đại Moravia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Công quốc Nitra",
+                "label": "LOC"
+            },
+            {
+                "entity": "Slovakia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 760,
+        "text": "Hệ thống radar mà Alvarez được biết đến nhiều nhất và đã đóng vai trò quan trọng trong ngành hàng không, đặc biệt là trong cầu hàng không Berlin sau chiến tranh, là Hệ thống Tiếp cận Điều khiển Mặt đất (GCA).",
+        "entities": [
+            {
+                "entity": "Alvarez",
+                "label": "PER"
+            },
+            {
+                "entity": "Berlin",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 339,
+        "text": "Là một trong những người hàng đầu của Negan (Jeffrey Dean Morgan), anh ấy được hưởng một số quyền tự do nhất định.",
+        "entities": [
+            {
+                "entity": "Negan",
+                "label": "PER"
+            },
+            {
+                "entity": "Jeffrey Dean Morgan",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 724,
+        "text": "Tuy nhiên, đã có phân tích thống kê rộng rãi về dữ liệu nhân khẩu học và dân số bao gồm phụ nữ, đặc biệt là trong vai trò sinh đẻ của họ.",
+        "entities": []
+    },
+    {
+        "id": 432,
+        "text": "Những người bảo thủ Hồi giáo của AKP đã coi sự từ chối này là lý do chính đáng cho các cuộc thẩm vấn.",
+        "entities": [
+            {
+                "entity": "AKP",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 345,
+        "text": "Tại Hà Lan, các cơ quan chức năng đã áp dụng một phương pháp công nghệ thấp hơn để theo dõi máy bay không người lái.",
+        "entities": [
+            {
+                "entity": "Hà Lan",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 627,
+        "text": "Tuy nhiên, nước Cộng hòa Trung Hoa mới thành lập coi Mông Cổ là một phần lãnh thổ của mình.",
+        "entities": [
+            {
+                "entity": "Cộng hòa Trung Hoa",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mông Cổ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 240,
+        "text": "Tôi đã nhìn thấy một vài cái.",
+        "entities": []
+    },
+    {
+        "id": 139,
+        "text": "Sau khi Bắc Carolina thông qua dự luật quyền bầu cử hạn chế của mình vào năm 2013, Campbell đã đi đến các nhà thờ để dạy mọi người cách đối phó với những thách thức đối với việc đăng ký của họ.",
+        "entities": [
+            {
+                "entity": "Bắc Carolina",
+                "label": "ORG"
+            },
+            {
+                "entity": "Campbell",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 427,
+        "text": "Nếu đối thủ Đảng Dân chủ của ông được bầu, ông đảm bảo rằng bà ấy sẽ bị 'điều tra trong nhiều năm'.",
+        "entities": []
+    },
+    {
+        "id": 333,
+        "text": "Sự thèm ăn không thể thỏa mãn của Trung Quốc đối với gà rán từng là lý do lớn khiến các nhà đầu tư yêu thích công ty mẹ của KFC, Yum Brands.",
+        "entities": [
+            {
+                "entity": "Trung Quốc",
+                "label": "LOC"
+            },
+            {
+                "entity": "KFC",
+                "label": "ORG"
+            },
+            {
+                "entity": "Yum Brands",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 160,
+        "text": "Trao đổi qua email với Woods, tôi đã thử sức mình trong việc khám phá một từ nguyên.",
+        "entities": [
+            {
+                "entity": "Woods",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 471,
+        "text": "Một trong những ví dụ về nghiên cứu được áp dụng dưới các biện pháp an toàn cũng đã tạo ra một robot hình người để cạnh tranh với Valentino Rossi.",
+        "entities": [
+            {
+                "entity": "Valentino Rossi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 255,
+        "text": "Đó chắc chắn là trường hợp của Andy khi anh ấy đấu với Benoît Paire ở Monte Carlo vào tháng Tư.",
+        "entities": [
+            {
+                "entity": "Andy",
+                "label": "PER"
+            },
+            {
+                "entity": "Benoît Paire",
+                "label": "PER"
+            },
+            {
+                "entity": "Monte Carlo",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "text": "Điều này không chỉ áp dụng cho nội dung giải trí, mà còn cho giáo dục, nghiên cứu khoa học và, có lẽ quan trọng nhất, cho diễn ngôn chính trị.",
+        "entities": []
+    },
+    {
+        "id": 380,
+        "text": "Với sự trợ giúp của dữ liệu thẻ ghi nợ, cảnh sát Essen đang điều tra bốn người đã đứng nhìn trong khi một người nghỉ hưu chết trong ngân hàng.",
+        "entities": [
+            {
+                "entity": "Essen",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 734,
+        "text": "Sự thành công của các mẫu xe cỡ nhỏ Rambler của American Motors đã thúc đẩy GM và Ford giới thiệu các mẫu xe thu nhỏ của riêng họ vào năm 1960.",
+        "entities": [
+            {
+                "entity": "American Motors",
+                "label": "ORG"
+            },
+            {
+                "entity": "GM",
+                "label": "ORG"
+            },
+            {
+                "entity": "Ford",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 703,
+        "text": "Lễ rửa tội cưỡng bức trái với luật của Giáo hội Công giáo, và về lý thuyết, bất kỳ ai đã bị rửa tội cưỡng bức đều có thể hợp pháp trở lại Do Thái giáo.",
+        "entities": [
+            {
+                "entity": "Giáo hội Công giáo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 538,
+        "text": "Những người sau đó cũng truyền bá Hồi giáo đến dải ven biển, nhưng hầu hết người Bantu chưa bao giờ tiếp xúc với Hồi giáo và vẫn là tín đồ của Tôn giáo Truyền thống Châu Phi.",
+        "entities": []
+    },
+    {
+        "id": 295,
+        "text": "Ở một mức độ nào đó, nó hoạt động như một bộ phim ấm áp, dễ chịu và không phô trương dường như được làm riêng cho việc xem vào chiều Chủ Nhật.",
+        "entities": []
+    },
+    {
+        "id": 650,
+        "text": "Sử dụng một kỹ thuật độc đáo, Shen đã thành công trong việc nạo vét kênh và chứng minh giá trị đáng gờm của bùn thu thập được như một loại phân bón.",
+        "entities": [
+            {
+                "entity": "Shen",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 767,
+        "text": "Sức khỏe giảm sút đã làm giảm sản lượng của Hitchcock trong hai thập kỷ cuối đời của ông.",
+        "entities": [
+            {
+                "entity": "Hitchcock",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 683,
+        "text": "Nguồn gốc của từ Hispania gây nhiều tranh cãi và bằng chứng cho các suy đoán khác nhau chỉ dựa trên những gì tốt nhất chỉ là những điểm tương đồng, có khả năng là ngẫu nhiên, và bằng chứng hỗ trợ đáng ngờ.",
+        "entities": []
+    },
+    {
+        "id": 769,
+        "text": "Hitchcock thích làm việc với những tài năng xuất sắc nhất trong thời của ông—các nhà thiết kế áp phích phim như Bill Gold và Saul Bass—những người sẽ tạo ra các áp phích thể hiện chính xác các bộ phim của ông.",
+        "entities": [
+            {
+                "entity": "Hitchcock",
+                "label": "PER"
+            },
+            {
+                "entity": "Bill Gold",
+                "label": "PER"
+            },
+            {
+                "entity": "Saul Bass",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 532,
+        "text": "Sự biến đổi phụ âm là một đặc điểm trong cả hai phương ngữ Phần Lan và Sami miền bắc, nhưng nó không có trong Sami miền nam, được coi là có một lịch sử ngôn ngữ khác.",
+        "entities": []
+    },
+    {
+        "id": 13,
+        "text": "So sánh, chi phí xây dựng ga Metro NoMa là 103,7 triệu đô la, được khai trương vào năm 2004.",
+        "entities": [
+            {
+                "entity": "NoMa",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 312,
+        "text": "Tại Tòa án Tối cao Hong Kong, hai năm sau, Jutting xuất hiện khá bình tĩnh.",
+        "entities": [
+            {
+                "entity": "Hong Kong",
+                "label": "ORG"
+            },
+            {
+                "entity": "Jutting",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "text": "Công ty nói với BBC rằng đó sẽ là trách nhiệm của từng thương hiệu hàng không để quyết định có thu phí hành khách hay không.",
+        "entities": [
+            {
+                "entity": "BBC",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 362,
+        "text": "Vì vậy, thật tuyệt vời khi có thể cứu vãn điều đó và mang nó đến một định dạng mới và một truyền thống mới cho người Mexico.",
+        "entities": []
+    },
+    {
+        "id": 919,
+        "text": "Tại Thế vận hội Olympic năm 2004 ở Athens, Ulrich, với tư cách là người chiến thắng cuộc đua đường phố, đã theo đuổi mục tiêu giành huy chương vàng thứ hai của mình.",
+        "entities": [
+            {
+                "entity": "Athens",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ulrich",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 691,
+        "text": "Vào thời điểm này, anh ấy đã ngày càng suy nghĩ về tương lai.",
+        "entities": []
+    },
+    {
+        "id": 449,
+        "text": "Theo Le Figaro, kế hoạch của chính phủ này có thể giải phóng 42 triệu euro, trong đó 15,5 triệu sẽ được dành cho an ninh.",
+        "entities": [
+            {
+                "entity": "Le Figaro",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 561,
+        "text": "Khí hậu khô đến mức những đồng bằng này đôi khi được coi là một phần của Sahara.",
+        "entities": [
+            {
+                "entity": "Sahara",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 765,
+        "text": "Liên minh Lực lượng Dân chủ Giải phóng Congo nổi dậy đã chiếm được Lubumbashi vào tháng 4 năm 1997.",
+        "entities": [
+            {
+                "entity": "Liên minh Lực lượng Dân chủ Giải phóng Congo",
+                "label": "ORG"
+            },
+            {
+                "entity": "Lubumbashi",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 404,
+        "text": "Sau khi gây chấn động tại Giải Úc Mở rộng, tay vợt 28 tuổi đã thua lần đầu tiên trong trận chung kết trước Serena Williams.",
+        "entities": [
+            {
+                "entity": "Serena Williams",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 261,
+        "text": "Nó cũng đã mở ra cho VW các yêu cầu bồi thường lớn, hành động pháp lý và đã thấy nó phải trích lập hơn 16 tỷ euro dự phòng.",
+        "entities": [
+            {
+                "entity": "VW",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 542,
+        "text": "Khí hậu của Sahel tương tự như, nhưng ít khắc nghiệt hơn, khí hậu của sa mạc Sahara nằm ngay phía bắc.",
+        "entities": [
+            {
+                "entity": "Sahel",
+                "label": "LOC"
+            },
+            {
+                "entity": "Sahara",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 894,
+        "text": "Người Ottoman muốn ngăn chặn việc vận chuyển ngũ cốc thêm nữa vì họ rất cần nó.",
+        "entities": [
+            {
+                "entity": "Người Ottoman",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 480,
+        "text": "Các công đoàn đã rất hiếu chiến và trong nhiều dịp đã kêu gọi bãi bỏ luật pháp mà Fátima Báñez tự hào nhất.",
+        "entities": [
+            {
+                "entity": "Fátima Báñez",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 384,
+        "text": "Người ta không biết cả hai nhà viết kịch sẽ hợp tác với nhau theo cách nào.",
+        "entities": []
+    },
+    {
+        "id": 851,
+        "text": "Bouchard đã chịu một thất bại gây sốc trong ba set.",
+        "entities": [
+            {
+                "entity": "Bouchard",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 635,
+        "text": "Lần này anh ta tuyên bố đã chiến đấu mà không thèm mặc áo giáp cho đến hai giờ sau khi trận chiến bắt đầu.",
+        "entities": []
+    },
+    {
+        "id": 400,
+        "text": "Thế hệ điện thoại thông minh đã nhận được một ứng dụng mà nó xứng đáng, nơi mà, trong kịch bản tốt nhất, tình huống ngớ ngẩn nhất đã nhận được sự chú ý của hàng triệu người.",
+        "entities": []
+    },
+    {
+        "id": 716,
+        "text": "Quân đội đã thể hiện tốt trong chiến đấu ở Cuba.",
+        "entities": [
+            {
+                "entity": "Cuba",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 291,
+        "text": "Thả micro.",
+        "entities": []
+    },
+    {
+        "id": 508,
+        "text": "Thành bang Hy Lạp Athens vào thế kỷ 5 trước Công nguyên, phụ thuộc vào nhập khẩu ngũ cốc từ Scythia, đã duy trì các liên minh quan trọng với các thành phố kiểm soát eo biển, chẳng hạn như thuộc địa Megarian Byzantium.",
+        "entities": [
+            {
+                "entity": "Athens",
+                "label": "LOC"
+            },
+            {
+                "entity": "Scythia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Byzantium",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "text": "Hôm nay, Khanzir có thể là một con lợn cô đơn, nhưng nó không phải lúc nào cũng cô đơn.",
+        "entities": []
+    },
+    {
+        "id": 995,
+        "text": "Năm 1976, anh ấy gặp một người bạn làm việc với hãng thu âm của mình, The Rocket Record Company, Kiki Dee, để thu âm một thành công đáng chú ý khác cho anh ấy: \"Don't Go Breaking My Heart\".",
+        "entities": [
+            {
+                "entity": "The Rocket Record Company",
+                "label": "ORG"
+            },
+            {
+                "entity": "Kiki Dee",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 679,
+        "text": "Bốn cái nữa cho độ nghiêng tối thiểu và tối đa của trăng tròn: vào mùa hè, và vào mùa đông.",
+        "entities": []
+    },
+    {
+        "id": 565,
+        "text": "Tâm điểm của cuộc xung đột là câu hỏi liệu Kansas sẽ gia nhập Liên bang như một bang tự do hay bang nô lệ.",
+        "entities": [
+            {
+                "entity": "Kansas",
+                "label": "LOC"
+            },
+            {
+                "entity": "Liên bang",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 446,
+        "text": "\"ETA đang trên đường ra đi,\" phái đoàn Pháp tiết lộ.",
+        "entities": []
+    },
+    {
+        "id": 437,
+        "text": "Những giới hạn nào có thể cản trở việc thể hiện tín ngưỡng tôn giáo trong các công ty tư nhân?",
+        "entities": []
+    },
+    {
+        "id": 265,
+        "text": "Các doanh nghiệp bán lẻ và bán buôn đã mở rộng khi người mua sắm vẫn lạc quan, và các công ty dịch vụ tiêu dùng cũng phát triển.",
+        "entities": []
+    },
+    {
+        "id": 961,
+        "text": "Vùng Hoàng gia Apulia và Calabria thứ hai sau đó được thành lập, bao gồm cả Samnium, một phần của Molise và Basilicata phía đông.",
+        "entities": [
+            {
+                "entity": "Vùng Hoàng gia Apulia và Calabria",
+                "label": "LOC"
+            },
+            {
+                "entity": "Samnium",
+                "label": "LOC"
+            },
+            {
+                "entity": "Molise",
+                "label": "LOC"
+            },
+            {
+                "entity": "Basilicata",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 472,
+        "text": "Đổi lại, Uber sẽ nhận được khoản đầu tư một tỷ đô la và một ghế trong hội đồng quản trị của công ty Trung Quốc.",
+        "entities": [
+            {
+                "entity": "Uber",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 721,
+        "text": "Cuộc tấn công chống lại đội quân khổng lồ được Venice tuyển mộ đã được phát động từ Pháp.",
+        "entities": [
+            {
+                "entity": "Venice",
+                "label": "ORG"
+            },
+            {
+                "entity": "Pháp",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 174,
+        "text": "Sau đó, anh ấy đã dành bốn năm với đài phát thanh BBC World Service tại Bush House.",
+        "entities": [
+            {
+                "entity": "BBC World Service",
+                "label": "ORG"
+            },
+            {
+                "entity": "Bush House",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 678,
+        "text": "Ba dấu hiệu xác định bình minh vào các ngày hạ chí và đông chí và vào hai ngày xuân phân và thu phân.",
+        "entities": []
+    },
+    {
+        "id": 228,
+        "text": "\"Cá tuyết ở Biển Celtic có thể sụp đổ,\" nếu không có các giới hạn được đề xuất, một quan chức EU cho biết.",
+        "entities": [
+            {
+                "entity": "Biển Celtic",
+                "label": "LOC"
+            },
+            {
+                "entity": "EU",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "text": "Những sự hồi sinh của họ nhấn mạnh sức hấp dẫn của một thử thách tốt, nghệ thuật hoặc khác: sự khó chịu, sự phát triển và một kết nối có ý nghĩa.",
+        "entities": []
+    },
+    {
+        "id": 663,
+        "text": "Giấy khai sinh Thái Lan ghi lại ngày, tháng và giờ sinh, tiếp theo là ngày trong tuần, ngày âm lịch và tên con giáp tương ứng.",
+        "entities": []
+    },
+    {
+        "id": 759,
+        "text": "Nó đã được hoàn thành khá muộn trong chiến tranh; mặc dù một số chiếc B-29 đã được trang bị Eagle và nó hoạt động tốt, nhưng nó đến quá muộn để tạo ra nhiều khác biệt.",
+        "entities": []
+    },
+    {
+        "id": 589,
+        "text": "Papua New Guinea thường được coi là có khả năng là nơi tồi tệ nhất trên thế giới về bạo lực giới.",
+        "entities": [
+            {
+                "entity": "Papua New Guinea",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 366,
+        "text": "Đối với bất kỳ ai muốn thấy thủ đô trong tất cả vẻ huy hoàng của nó, tháng Mười Một là thời điểm tuyệt vời để đi.",
+        "entities": []
+    },
+    {
+        "id": 63,
+        "text": "Cảnh sát giao thông của Thâm Quyến đã chọn các hình phạt không theo truyền thống trước đây.",
+        "entities": [
+            {
+                "entity": "Thâm Quyến",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 348,
+        "text": "Động thái này nhấn mạnh mong muốn của công ty để người dùng bắt đầu nghĩ về các sản phẩm của mình như nhiều hơn chỉ là công cụ năng suất.",
+        "entities": []
+    },
+    {
+        "id": 51,
+        "text": "Các khoản đầu tư trong lĩnh vực này đã tăng 6% vào năm 2015 lên 221 tỷ đô la.",
+        "entities": []
+    },
+    {
+        "id": 276,
+        "text": "Adidas đang giúp làm sạch các đại dương của Trái Đất bằng cách sử dụng rác thải trôi nổi khắp thế giới để làm giày.",
+        "entities": [
+            {
+                "entity": "Adidas",
+                "label": "ORG"
+            },
+            {
+                "entity": "Trái Đất",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 733,
+        "text": "Ford T được tuyên bố là chiếc xe có ảnh hưởng nhất của thế kỷ 20 trong giải thưởng quốc tế Car of the Century.",
+        "entities": []
+    },
+    {
+        "id": 566,
+        "text": "Phản ứng quốc gia đối với các sự kiện ở Kansas đã cho thấy đất nước đã trở nên chia rẽ sâu sắc như thế nào.",
+        "entities": [
+            {
+                "entity": "Kansas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 689,
+        "text": "Stephen Wheeler, biên tập viên, đã làm việc Kipling chăm chỉ, nhưng nhu cầu viết của Kipling là không thể ngăn cản.",
+        "entities": [
+            {
+                "entity": "Stephen Wheeler",
+                "label": "PER"
+            },
+            {
+                "entity": "Kipling",
+                "label": "PER"
+            },
+            {
+                "entity": "Kipling",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 485,
+        "text": "Bất chấp họ, không phải ai trong bữa tiệc cũng hiểu được những thông điệp mà tổng thống đã cố gắng gửi đến họ vào ngày hôm qua.",
+        "entities": []
+    },
+    {
+        "id": 952,
+        "text": "Hơn nữa, sự xuất hiện của các cơn bão trên đảo có thể xảy ra trong mùa hè.",
+        "entities": []
+    },
+    {
+        "id": 739,
+        "text": "Bên ngoài Nhật Bản, bắt đầu với Thiên hoàng Shōwa, các Thiên hoàng thường được gọi bằng tên riêng của họ, cả khi còn sống và sau khi qua đời.",
+        "entities": [
+            {
+                "entity": "Nhật Bản",
+                "label": "LOC"
+            },
+            {
+                "entity": "Shōwa",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 973,
+        "text": "Nicolai hợp tác trong nhiều bản nhạc phim của Morricone như Metti, một đêm tại bữa tối; một số trong số đó được viết bởi cả hai cùng nhau.",
+        "entities": [
+            {
+                "entity": "Nicolai",
+                "label": "PER"
+            },
+            {
+                "entity": "Morricone",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 571,
+        "text": "Mặc dù khu vực này chỉ chiếm khoảng 11 phần trăm diện tích bề mặt của châu Âu, dãy Alps cung cấp tới 90 phần trăm nước cho vùng đồng bằng châu Âu, đặc biệt là cho các khu vực khô hạn và trong những tháng mùa hè.",
+        "entities": [
+            {
+                "entity": "châu Âu",
+                "label": "LOC"
+            },
+            {
+                "entity": "dãy Alps",
+                "label": "LOC"
+            },
+            {
+                "entity": "châu Âu",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 463,
+        "text": "Một chi phí cao hơn đáng kể, rõ ràng vượt quá mức trung bình của các quốc gia áp dụng đồng tiền chung, tương đương 1.365 euro mỗi lít.",
+        "entities": []
+    },
+    {
+        "id": 982,
+        "text": "Dưới chính quyền của ông, quyền bầu cử của phụ nữ đã được phê chuẩn, các đảng phái chính trị được hợp pháp hóa, tất cả những người bị lưu đày được phép trở về và các tù nhân chính trị còn lại đã được thả.",
+        "entities": []
+    },
+    {
+        "id": 65,
+        "text": "Phần lớn cuộc tranh luận, từ phía Đảng Dân chủ năm nay, đã xoay quanh bản sắc nam giới da trắng.",
+        "entities": []
+    },
+    {
+        "id": 383,
+        "text": "Bức ảnh cho thấy rõ thanh hiển thị cảm ứng hẹp phía trên bàn phím đã được mong đợi trong các tin đồn.",
+        "entities": []
+    },
+    {
+        "id": 665,
+        "text": "Màu sắc may mắn của ngày trong văn hóa Thái Lan được liệt kê trong bảng các ngày trong tuần, theo sau đó là một liên kết đến các hình ảnh Phật cho mỗi ngày trong tuần.",
+        "entities": [
+            {
+                "entity": "Phật",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "text": "Đó không phải là điều chúng ta cần ở đất nước của chúng ta, các bạn.",
+        "entities": []
+    },
+    {
+        "id": 818,
+        "text": "Nó bao gồm ba bản nhạc được đồng sáng tác với anh trai của Rafferty là Jim, cũng là một ca sĩ kiêm nhạc sĩ, người đã ký hợp đồng với Decca Records vào những năm 1970.",
+        "entities": [
+            {
+                "entity": "Rafferty",
+                "label": "PER"
+            },
+            {
+                "entity": "Jim",
+                "label": "PER"
+            },
+            {
+                "entity": "Decca Records",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 302,
+        "text": "Phần hai có hoạt động tốt cho đến nay không?",
+        "entities": []
+    },
+    {
+        "id": 930,
+        "text": "Von Bellingshausen đã nhìn thấy Nam Cực vào ngày 27 tháng 1 năm 1820, ba ngày trước khi Bransfield nhìn thấy đất liền, và mười tháng trước khi Palmer làm điều đó vào tháng 11 năm 1820.",
+        "entities": [
+            {
+                "entity": "Von Bellingshausen",
+                "label": "PER"
+            },
+            {
+                "entity": "Nam Cực",
+                "label": "LOC"
+            },
+            {
+                "entity": "Bransfield",
+                "label": "PER"
+            },
+            {
+                "entity": "Palmer",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 300,
+        "text": "Tất cả các nhân viên y tế đều được trang bị vũ khí, trừ tôi.",
+        "entities": []
+    },
+    {
+        "id": 293,
+        "text": "\"Điện ảnh đã thay đổi một cách đáng kể đến mức Hollywood đã làm xa lánh khán giả gia đình.\"",
+        "entities": [
+            {
+                "entity": "Hollywood",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 430,
+        "text": "Vào thứ Ba, Hoa Kỳ có thể bầu chọn nữ tổng thống đầu tiên trong lịch sử của mình.",
+        "entities": [
+            {
+                "entity": "Hoa Kỳ",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 513,
+        "text": "Hơn nữa, nhiều người trong giới thượng lưu Macedonia và Ba Tư đã kết hôn với nhau.",
+        "entities": []
+    },
+    {
+        "id": 588,
+        "text": "Con người cũng mất đi các cách sử dụng trực tiếp của môi trường sống tự nhiên khi môi trường sống bị phá hủy.",
+        "entities": []
+    },
+    {
+        "id": 873,
+        "text": "Thay vào đó, họ quyết định rằng Albania sẽ nằm dưới quyền bá chủ của Ottoman nhưng có một chính phủ tự trị.",
+        "entities": [
+            {
+                "entity": "Albania",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ottoman",
+                "label": "ORG"
+            }
+        ]
+    }
+]
