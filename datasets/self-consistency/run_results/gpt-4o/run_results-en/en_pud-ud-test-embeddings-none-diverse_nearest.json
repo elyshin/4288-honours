@@ -1,0 +1,5983 @@
+[
+    {
+        "TP": 197,
+        "FP": 72,
+        "FN": 111,
+        "precision": 0.7323420074349443,
+        "recall": 0.6396103896103896,
+        "TPR": 0.6396103896103896,
+        "f1": 0.6828422876949741
+    },
+    {
+        "id": 231,
+        "text": "Only 50 were marketplaces.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 270,
+        "text": "An investor with average luck and £10,000 in bonds could expect to receive £125 in prizes per year.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 938,
+        "text": "From about the 8th century BC city states began to appear: small, self-governing territories with their own political systems.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 708,
+        "text": "The Macedonian army advanced as far as the pass of Thermopylae which divides Greece in two parts, but it did not attempt to take it because it was strongly guarded by a joint force of Athenians, Spartans, and Achaeans.",
+        "entities": [
+            {
+                "entity": "Thermopylae",
+                "label": "LOC"
+            },
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 438,
+        "text": "Even if the majority of situations that arise in the workplace can be resolved without conflict.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 260,
+        "text": "News of the company’s deceit - which had run for years - wiped tens of billions of euros from VW's value and cost chief executive Martin Winterkorn his job.",
+        "entities": [
+            {
+                "entity": "VW",
+                "label": "ORG"
+            },
+            {
+                "entity": "Martin Winterkorn",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "VW",
+                "label": "ORG"
+            },
+            {
+                "entity": "Martin Winterkorn",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 188,
+        "text": "He’s spoken in favour of torture.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 186,
+        "text": "A Donald Trump victory would immediately make the world more worrying and unsettled than it already is.",
+        "entities": [
+            {
+                "entity": "Donald Trump",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Donald Trump",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 579,
+        "text": "It contains a tiny lagoon, which has all but dried up.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 5,
+        "text": "The new spending is fueled by Clinton’s large bank account.",
+        "entities": [
+            {
+                "entity": "Clinton",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Clinton",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 467,
+        "text": "It will go for assessment.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 391,
+        "text": "From this point of view, stale structures and a self-satisfied elite are the reason why the health system, education and foreign trade in the USA is in such bad shape.",
+        "entities": [
+            {
+                "entity": "USA",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "USA",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 284,
+        "text": "She started out at the RSC in the mid-Sixties playing an asylum-inmate in Marat/Sade.",
+        "entities": [
+            {
+                "entity": "RSC",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "RSC",
+                "label": "ORG"
+            },
+            {
+                "entity": "Marat/Sade",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "text": "But challenges, and the songs that score them, add a connective, traceable nervous system to the writhing mass of grainy video loops.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 668,
+        "text": "He reigned only fifteen years, which is evidenced by the incomplete nature of many of his constructions.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 639,
+        "text": "The latter date can only have fallen on a Friday if an exceptional leap month had been introduced that year, but this was favoured by Newton.",
+        "entities": [
+            {
+                "entity": "Newton",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 922,
+        "text": "Weiss was honored with the literature prizes from the cities of Cologne and Bremen.",
+        "entities": [
+            {
+                "entity": "Weiss",
+                "label": "PER"
+            },
+            {
+                "entity": "Cologne",
+                "label": "LOC"
+            },
+            {
+                "entity": "Bremen",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Weiss",
+                "label": "PER"
+            },
+            {
+                "entity": "Cologne",
+                "label": "LOC"
+            },
+            {
+                "entity": "Bremen",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 184,
+        "text": "It was as though he was flicking the ball back and forth underneath three upturned cups.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 149,
+        "text": "They’re usually artists who want to do a bunch of stuff.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 836,
+        "text": "Valentino tried to distance the character from a stereotypical portrayal of an Arab man.",
+        "entities": [
+            {
+                "entity": "Valentino",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 222,
+        "text": "Their head of nature policy, Jeff Knott, stated: “I’d be amazed if either a ban or licensing was introduced off the back of it”.",
+        "entities": [
+            {
+                "entity": "Jeff Knott",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Jeff Knott",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 373,
+        "text": "When people die of old age in India, it is supposed to be a celebration.",
+        "entities": [
+            {
+                "entity": "India",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 165,
+        "text": "His skill in getting answers for taxpayers will be sorely missed.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 616,
+        "text": "Cape Town's local government is the City of Cape Town, which is a metropolitan municipality.",
+        "entities": [
+            {
+                "entity": "Cape Town",
+                "label": "LOC"
+            },
+            {
+                "entity": "City of Cape Town",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Cape Town",
+                "label": "LOC"
+            },
+            {
+                "entity": "City of Cape Town",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 784,
+        "text": "His official biography also claims that Kim composed six operas and enjoys staging elaborate musicals.",
+        "entities": [
+            {
+                "entity": "Kim",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Kim",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 350,
+        "text": "Isner, who produced some of his best tennis as he leveled at one set all and forced a decider, also paid his tribute.",
+        "entities": [
+            {
+                "entity": "Isner",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Isner",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 978,
+        "text": "Tradition has it that the theme was selected intentionally because of the great number of converted Jews who lived in Palma.",
+        "entities": [
+            {
+                "entity": "Palma",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Palma",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 824,
+        "text": "The article by Thompson assumes that the Maya were ultimately “peaceful” people since they lacked apparent defenses.",
+        "entities": [
+            {
+                "entity": "Thompson",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Thompson",
+                "label": "PER"
+            },
+            {
+                "entity": "Maya",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 572,
+        "text": "Cities such as Milan depend on 80 percent of water from Alpine runoff.",
+        "entities": [
+            {
+                "entity": "Milan",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 675,
+        "text": "Its struggle against the Ottoman Empire in the Mediterranean Sea put serious limits on the military power it could deploy against the rebels in the Netherlands.",
+        "entities": [
+            {
+                "entity": "Ottoman Empire",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mediterranean Sea",
+                "label": "LOC"
+            },
+            {
+                "entity": "the Netherlands",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Ottoman Empire",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mediterranean Sea",
+                "label": "LOC"
+            },
+            {
+                "entity": "Netherlands",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 941,
+        "text": "Trade was developed by establishing commercial outposts throughout the Mediterranean, a technique that had not been used until then.",
+        "entities": [
+            {
+                "entity": "Mediterranean",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 912,
+        "text": "After the Compromise, Emperor and King Franz Joseph I. took great care to treat both of his monarchies equally.",
+        "entities": [
+            {
+                "entity": "Franz Joseph I.",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Franz Joseph I",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "text": "The analysis shows a direct link between the number of cigarettes smoked in a lifetime and the number of mutations in tumour DNA.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 1,
+        "text": "“While much of the digital transition is unprecedented in the United States, the peaceful transition of power is not,” Obama special assistant Kori Schulman wrote in a blog post Monday.",
+        "entities": [
+            {
+                "entity": "United States",
+                "label": "LOC"
+            },
+            {
+                "entity": "Obama",
+                "label": "ORG"
+            },
+            {
+                "entity": "Kori Schulman",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "United States",
+                "label": "LOC"
+            },
+            {
+                "entity": "Obama",
+                "label": "PER"
+            },
+            {
+                "entity": "Kori Schulman",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 731,
+        "text": "The Industrial Revolution created a demand for metal parts used in machinery.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 809,
+        "text": "Her 1981 album Wild West was one of her biggest sellers.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 602,
+        "text": "As a steady wind begins to blow, fine particles lying on the exposed ground begin to vibrate.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 64,
+        "text": "Who are they?",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 25,
+        "text": "First one of the Yazidi women started crying, then one of her friends.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 225,
+        "text": "And what about Australia’s position?",
+        "entities": [
+            {
+                "entity": "Australia",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Australia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "text": "Many people, including Indigenous groups, argue they trivialize First Nations culture.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 360,
+        "text": "Alejandra González Anaya, one of the parade's creative directors, explained to CNN why Mexico have decided now is the time to put on such a show.",
+        "entities": [
+            {
+                "entity": "Alejandra González Anaya",
+                "label": "PER"
+            },
+            {
+                "entity": "CNN",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mexico",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Alejandra González Anaya",
+                "label": "PER"
+            },
+            {
+                "entity": "CNN",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mexico",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 487,
+        "text": "Pedro Sánchez, like many other socialists, said in the programme Évole that Spain is a nation of nations.",
+        "entities": [
+            {
+                "entity": "Pedro Sánchez",
+                "label": "PER"
+            },
+            {
+                "entity": "Spain",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Pedro Sánchez",
+                "label": "PER"
+            },
+            {
+                "entity": "Spain",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 751,
+        "text": "In 1856, the Second Opium War broke out; the Chinese were again defeated and forced to the terms of the 1858 Treaty of Tientsin and the 1860 Convention of Peking.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 288,
+        "text": "But having allowed Glenda to score such a blinder, who can blame it?",
+        "entities": [
+            {
+                "entity": "Glenda",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 390,
+        "text": "If a Turkish employee quits, then the Turkish work councils come.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 511,
+        "text": "Eventually, in about 512-511 BC, the Macedonian king Amyntas I accepted the Achaemenid domination and surrendered his country as a vassal state to the Achaemenid Persia.",
+        "entities": [
+            {
+                "entity": "Amyntas I",
+                "label": "PER"
+            },
+            {
+                "entity": "Achaemenid Persia",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Amyntas I",
+                "label": "PER"
+            },
+            {
+                "entity": "Macedonian",
+                "label": "LOC"
+            },
+            {
+                "entity": "Achaemenid",
+                "label": "ORG"
+            },
+            {
+                "entity": "Persia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 256,
+        "text": "But right now everything is out of kilter and he seems to be seeking answers all the time.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 179,
+        "text": "They have one crack at redemption, beating England.",
+        "entities": [
+            {
+                "entity": "England",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 235,
+        "text": "Day three, I was back on the EMicro.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 32,
+        "text": "Several analysts have suggested Huawei is best placed to benefit from Samsung's setback.",
+        "entities": [
+            {
+                "entity": "Huawei",
+                "label": "ORG"
+            },
+            {
+                "entity": "Samsung",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Huawei",
+                "label": "ORG"
+            },
+            {
+                "entity": "Samsung",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 697,
+        "text": "Low per capita income has been proposed as a cause for grievance, prompting armed rebellion.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 38,
+        "text": "It's like a super power sometimes.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 290,
+        "text": "In theory, if done right, it’s un-detectable.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 219,
+        "text": "I looked at motocross and the more I looked, this one woman’s face kept coming up, in photographs that looked as if they were from the 1970s.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 789,
+        "text": "He then returned to Kirriemuir.",
+        "entities": [
+            {
+                "entity": "Kirriemuir",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Kirriemuir",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "text": "Trudeau will extend that invitation to the 45th president of the United States, whoever he or she may be.",
+        "entities": [
+            {
+                "entity": "Trudeau",
+                "label": "PER"
+            },
+            {
+                "entity": "United States",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Trudeau",
+                "label": "PER"
+            },
+            {
+                "entity": "the 45th president of the United States",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "text": "The RHS collected comments sent in by schoolchildren and teachers involved in the experiment.",
+        "entities": [
+            {
+                "entity": "RHS",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 744,
+        "text": "Some historians, such as Chandler and Weller, assert that the British heavy cavalry were destroyed as a viable force following their first, epic charge.",
+        "entities": [
+            {
+                "entity": "Chandler",
+                "label": "PER"
+            },
+            {
+                "entity": "Weller",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Chandler",
+                "label": "PER"
+            },
+            {
+                "entity": "Weller",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 888,
+        "text": "The Yerba Buena Garden was built at the beginning of the 1990s on the roof of the Moscone North Convention Center.",
+        "entities": [
+            {
+                "entity": "Yerba Buena Garden",
+                "label": "LOC"
+            },
+            {
+                "entity": "Moscone North Convention Center",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 934,
+        "text": "In the 8th century BC, Greece began to emerge from the Dark Ages which followed the fall of the Mycenaean civilization.",
+        "entities": [
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 790,
+        "text": "Only 3000 copies were published of the first edition.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 661,
+        "text": "The oldest known historical reference to the city is to be found on an inscription of conquered sites at Thutmose's temple at Karnak.",
+        "entities": [
+            {
+                "entity": "Thutmose",
+                "label": "PER"
+            },
+            {
+                "entity": "Karnak",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 773,
+        "text": "Lenny is a persistent bachelor who has poor luck with women.",
+        "entities": [
+            {
+                "entity": "Lenny",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 970,
+        "text": "The man told him that a war between the two universes is coming, as he and Walter had predicted; it is for this reason that Olivia, among others, was trained as a child.",
+        "entities": [
+            {
+                "entity": "Walter",
+                "label": "PER"
+            },
+            {
+                "entity": "Olivia",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Walter",
+                "label": "PER"
+            },
+            {
+                "entity": "Olivia",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 850,
+        "text": "She next faced defending champion and top seed Sara Errani, but was defeated.",
+        "entities": [
+            {
+                "entity": "Sara Errani",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Sara Errani",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 717,
+        "text": "However, it was too oriented to small posts in the West and not as well-prepared for an overseas conflict.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 76,
+        "text": "Researchers have been investigating potential for male hormonal contraceptives for around 20 years.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 993,
+        "text": "The attempts at making peace finally ended in spring of 1415 and Enrique decided to execute his plan: an invasion of the entire Kingdom of France.",
+        "entities": [
+            {
+                "entity": "Enrique",
+                "label": "PER"
+            },
+            {
+                "entity": "Kingdom of France",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Enrique",
+                "label": "PER"
+            },
+            {
+                "entity": "Kingdom of France",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 955,
+        "text": "In 1928, a 90-hectare golf course was built in the north-eastern part of the park, next to the racetrack.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 234,
+        "text": "I don’t call it a beast lightly.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 699,
+        "text": "The Arab Revolt which began in 1916 turned the tide against the Ottomans on the Middle Eastern front, where they initially seemed to have the upper hand during the first two years of the war.",
+        "entities": [
+            {
+                "entity": "Ottomans",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Arab Revolt",
+                "label": "ORG"
+            },
+            {
+                "entity": "Ottomans",
+                "label": "ORG"
+            },
+            {
+                "entity": "Middle Eastern",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "text": "In the town of Hillsborough, just outside Chapel Hill, someone firebombed the Republican Party headquarters last month.",
+        "entities": [
+            {
+                "entity": "Hillsborough",
+                "label": "LOC"
+            },
+            {
+                "entity": "Chapel Hill",
+                "label": "LOC"
+            },
+            {
+                "entity": "Republican Party",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Hillsborough",
+                "label": "LOC"
+            },
+            {
+                "entity": "Chapel Hill",
+                "label": "LOC"
+            },
+            {
+                "entity": "Republican Party",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 600,
+        "text": "Sand and dust storms are natural events that occur in arid regions where the land is not protected by a covering of vegetation.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 986,
+        "text": "This was the coup de grâce and encouragement the settlers needed to get their independence.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 323,
+        "text": "More than 5.7 million Floridians have already hit the polls after about two weeks of in-person early voting.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 658,
+        "text": "Cultic remains discovered at the site were a row of ten large standing stones, known as massebot, oriented north-south, the tallest of which was 3 meters high, with an altar-type structure in the middle, and a large, square, stone basin.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 110,
+        "text": "\"There should be no preferential access to government, or appearance of preferential access, accorded to individuals or organizations because they have made financial contributions to politicians and political parties,\" the guidelines read.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 481,
+        "text": "This department now faces new challenges.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 516,
+        "text": "In July 1918, the Franco-Monegasque Treaty was signed, providing for limited French protection over Monaco.",
+        "entities": [
+            {
+                "entity": "French",
+                "label": "ORG"
+            },
+            {
+                "entity": "Monaco",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Franco-Monegasque Treaty",
+                "label": "ORG"
+            },
+            {
+                "entity": "French",
+                "label": "ORG"
+            },
+            {
+                "entity": "Monaco",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 783,
+        "text": "Prior to taking office Jokowi sought for outgoing President Yudhoyono to take responsibility for the decision to further increase fuel prices by further removing subsidies.",
+        "entities": [
+            {
+                "entity": "Jokowi",
+                "label": "PER"
+            },
+            {
+                "entity": "Yudhoyono",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Jokowi",
+                "label": "PER"
+            },
+            {
+                "entity": "Yudhoyono",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 632,
+        "text": "Indeed, the first scholarly report on the battle, by James Henry Breasted in 1903, praised the sources that allowed the reconstruction the battle with certainty.",
+        "entities": [
+            {
+                "entity": "James Henry Breasted",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "James Henry Breasted",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "text": "Michael Fallon said the date for cutting the first steel would help secure new investment and safeguard hundreds of skilled jobs until 2035.",
+        "entities": [
+            {
+                "entity": "Michael Fallon",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Michael Fallon",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 483,
+        "text": "The Minister of Defense has allowed her to remain General Secretary of the party for now.",
+        "entities": [],
+        "response": [
+            {
+                "entity": "Minister of Defense",
+                "label": "ORG"
+            },
+            {
+                "entity": "General Secretary",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "text": "There was a time, Mr Panvalkar said, when he felt that they should leave the building.",
+        "entities": [
+            {
+                "entity": "Panvalkar",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Mr Panvalkar",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 957,
+        "text": "In August 1969, Pope Paul VI removed the death penalty from the Vatican law and revoked it from all offences.",
+        "entities": [
+            {
+                "entity": "Paul VI",
+                "label": "PER"
+            },
+            {
+                "entity": "Vatican",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Pope Paul VI",
+                "label": "PER"
+            },
+            {
+                "entity": "Vatican",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 852,
+        "text": "When their daughter Cecily married Richard Plantagenet, the 3rd Duke of York, and had several offspring, including Edward IV and Richard III, Joan became the grandmother of two York kings of England.",
+        "entities": [
+            {
+                "entity": "Cecily",
+                "label": "PER"
+            },
+            {
+                "entity": "Richard Plantagenet",
+                "label": "PER"
+            },
+            {
+                "entity": "York",
+                "label": "LOC"
+            },
+            {
+                "entity": "Edward IV",
+                "label": "PER"
+            },
+            {
+                "entity": "Richard III",
+                "label": "PER"
+            },
+            {
+                "entity": "Joan",
+                "label": "PER"
+            },
+            {
+                "entity": "York",
+                "label": "PER"
+            },
+            {
+                "entity": "England",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Cecily",
+                "label": "PER"
+            },
+            {
+                "entity": "Richard Plantagenet",
+                "label": "PER"
+            },
+            {
+                "entity": "Edward IV",
+                "label": "PER"
+            },
+            {
+                "entity": "Richard III",
+                "label": "PER"
+            },
+            {
+                "entity": "Joan",
+                "label": "PER"
+            },
+            {
+                "entity": "York",
+                "label": "LOC"
+            },
+            {
+                "entity": "England",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 964,
+        "text": "Only a handful of them (earldoms) had existed under Henry I and these had been largely symbolic.",
+        "entities": [
+            {
+                "entity": "Henry I",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 812,
+        "text": "Louis Post Dispatch called it one of LaBeouf's best performances.",
+        "entities": [
+            {
+                "entity": "Louis Post Dispatch",
+                "label": "ORG"
+            },
+            {
+                "entity": "LaBeouf",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Louis Post Dispatch",
+                "label": "ORG"
+            },
+            {
+                "entity": "LaBeouf",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 727,
+        "text": "As Greece sent out colonies west towards Sicily and Italy (Pithekoussae, Cumae), the influence of their new alphabet extended further.",
+        "entities": [
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            },
+            {
+                "entity": "Sicily",
+                "label": "LOC"
+            },
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Pithekoussae",
+                "label": "LOC"
+            },
+            {
+                "entity": "Cumae",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            },
+            {
+                "entity": "Sicily",
+                "label": "LOC"
+            },
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Pithekoussae",
+                "label": "LOC"
+            },
+            {
+                "entity": "Cumae",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 714,
+        "text": "This city-state emerged in the same period as Sukhothai.",
+        "entities": [
+            {
+                "entity": "Sukhothai",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Sukhothai",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 375,
+        "text": "\"Architecture won't help deceased people, but it helps to keep their memories alive among the living,\" he says.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 488,
+        "text": "And what about the parties in what, in historical rights?",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 440,
+        "text": "The Force Ouvrière union regrets that its remarks on the content of the guide were not included: \"There wasn't really any consultation,\" said Ms. Gillard.",
+        "entities": [
+            {
+                "entity": "Force Ouvrière",
+                "label": "ORG"
+            },
+            {
+                "entity": "Gillard",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Force Ouvrière",
+                "label": "ORG"
+            },
+            {
+                "entity": "Ms. Gillard",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 980,
+        "text": "The central Andes belong to the so-called 'Andes de tipo andino' which were formed by the subduction of the oceanic crust.",
+        "entities": [
+            {
+                "entity": "Andes",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 413,
+        "text": "The issue might not be over for Barroso.",
+        "entities": [
+            {
+                "entity": "Barroso",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Barroso",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 274,
+        "text": "It was followed by the Aviva Investors Multi Strategy Target Return and Income funds, into which investors put £2bn and £1.4bn respectively.",
+        "entities": [],
+        "response": [
+            {
+                "entity": "Aviva Investors",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 933,
+        "text": "However, Pyrrhus was forced to leave Sicily in order to attend to business in southern Italy.",
+        "entities": [
+            {
+                "entity": "Pyrrhus",
+                "label": "PER"
+            },
+            {
+                "entity": "Sicily",
+                "label": "LOC"
+            },
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Pyrrhus",
+                "label": "PER"
+            },
+            {
+                "entity": "Sicily",
+                "label": "LOC"
+            },
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "text": "He'd also like to see greater enforcement and investigative powers for the Real Estate Council of Ontario (RECO), which regulates agents in the province.",
+        "entities": [
+            {
+                "entity": "Real Estate Council of Ontario",
+                "label": "ORG"
+            },
+            {
+                "entity": "RECO",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Real Estate Council of Ontario",
+                "label": "ORG"
+            },
+            {
+                "entity": "Ontario",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 723,
+        "text": "Education during the Renaissance was mainly composed of ancient literature and history as it was thought that the classics provided moral instruction and an intensive understanding of human behavior.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 271,
+        "text": "If they did, Premium Bonds would be indistinguishable from ordinary savings accounts.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 75,
+        "text": "According to the city's police department, a fight broke out after \"a large group of people... who identified themselves as district authorities\" arrived on set on Tuesday.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 88,
+        "text": "\"We do not believe the suspect has ties to this school, or to the two girls, or specifically to the Abbotsford area,\" she said.",
+        "entities": [
+            {
+                "entity": "Abbotsford",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Abbotsford",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 176,
+        "text": "One of their many grieving Facebook posts has a line which would have delighted Chris: “More African than you, I have not known.”",
+        "entities": [
+            {
+                "entity": "Chris",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Chris",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 306,
+        "text": "Perhaps it won’t matter as I won’t be troubled long.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 314,
+        "text": "As a result, many people quickly open emails or mindlessly click on links and attachments with nary a thought of its consequences.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 868,
+        "text": "Wright was born in Poole, Dorset, but grew up predominantly in Wells, Somerset.",
+        "entities": [
+            {
+                "entity": "Wright",
+                "label": "PER"
+            },
+            {
+                "entity": "Poole , Dorset",
+                "label": "LOC"
+            },
+            {
+                "entity": "Wells , Somerset",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Wright",
+                "label": "PER"
+            },
+            {
+                "entity": "Poole",
+                "label": "LOC"
+            },
+            {
+                "entity": "Dorset",
+                "label": "LOC"
+            },
+            {
+                "entity": "Wells",
+                "label": "LOC"
+            },
+            {
+                "entity": "Somerset",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 556,
+        "text": "It resulted, however, in the abandonment of important pieces of heavy artillery, and it remains a matter of historical debate why the railway to Flensburg was never properly used for the evacuation.",
+        "entities": [
+            {
+                "entity": "Flensburg",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 975,
+        "text": "During their various collaborations, it is not clear who between the two conceived of some stylistic solutions in the arrangements that later on characterised both artists' style.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 365,
+        "text": "The Yas Marina Circuit website has exact timings.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 624,
+        "text": "Australia's Royal National Park, established in 1879, was the world's second officially established national park.",
+        "entities": [
+            {
+                "entity": "Australia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Royal National Park",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Australia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Royal National Park",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 746,
+        "text": "Explanations of the origin of music depend on how music is defined.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 718,
+        "text": "It relied on volunteers and state militia units, which faced logistical, training and food problems in the staging areas in Florida.",
+        "entities": [
+            {
+                "entity": "Florida",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Florida",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 434,
+        "text": "On Thursday, the 3rd of November, the mayor of Saint-Gaudens (in the Haute-Garonne region) decided to suspend the urban development agreement with the government formed in 2014.",
+        "entities": [
+            {
+                "entity": "Saint - Gaudens",
+                "label": "LOC"
+            },
+            {
+                "entity": "Haute - Garonne",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Saint-Gaudens",
+                "label": "LOC"
+            },
+            {
+                "entity": "Haute-Garonne",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "text": "What she’s saying and what she’s doing, it — actually, it’s unbelievable.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 386,
+        "text": "According to Parker, Russian Secret Service agents are active in large numbers in Great Britain.",
+        "entities": [
+            {
+                "entity": "Parker",
+                "label": "PER"
+            },
+            {
+                "entity": "Russian Secret Service",
+                "label": "ORG"
+            },
+            {
+                "entity": "Great Britain",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Parker",
+                "label": "PER"
+            },
+            {
+                "entity": "Russian Secret Service",
+                "label": "ORG"
+            },
+            {
+                "entity": "Great Britain",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 953,
+        "text": "The islands are located at the Indo-Australian Fault; the Fault arose due to the collision of the Indian and Australian plates.",
+        "entities": [
+            {
+                "entity": "Indo - Australian Fault",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 479,
+        "text": "Its management, however, hasn't been devoid of criticism.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 18,
+        "text": "That share has been rising steadily over the years — only 11 percent of the total vote was cast before Election Day in 1996, according to the Census Bureau -- and seems likely to jump again this year.",
+        "entities": [
+            {
+                "entity": "Census Bureau",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 264,
+        "text": "Businesses had expected to start contracting in July, immediately after the Brexit vote, but instead have managed to keep growing steadily.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 788,
+        "text": "Following a job advertisement found by his sister in The Scotsman, he worked for a year and a half as a staff journalist on the Nottingham Journal.",
+        "entities": [
+            {
+                "entity": "Nottingham Journal",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "The Scotsman",
+                "label": "ORG"
+            },
+            {
+                "entity": "Nottingham Journal",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 904,
+        "text": "The hymn was well received and the audience demanded an encore.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 12,
+        "text": "They are at the national average in grade 4 and better than national average in grade 8.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 637,
+        "text": "Given that Herod was in Jerusalem at that time, Pilate decided to send Jesus to Herod to be tried.",
+        "entities": [
+            {
+                "entity": "Herod",
+                "label": "PER"
+            },
+            {
+                "entity": "Jerusalem",
+                "label": "LOC"
+            },
+            {
+                "entity": "Pilate",
+                "label": "PER"
+            },
+            {
+                "entity": "Jesus",
+                "label": "PER"
+            },
+            {
+                "entity": "Herod",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Herod",
+                "label": "PER"
+            },
+            {
+                "entity": "Jerusalem",
+                "label": "LOC"
+            },
+            {
+                "entity": "Pilate",
+                "label": "PER"
+            },
+            {
+                "entity": "Jesus",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 313,
+        "text": "After all, our organizational performance is seldom measured in terms of how safe we are or how many rules we follow.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 399,
+        "text": "It was August 30, 2015, as an army of ducks conquered the internet.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 816,
+        "text": "Rafferty released two further albums in the 1990s in what musician Tom Robinson later described as \"a major return to form\".",
+        "entities": [
+            {
+                "entity": "Rafferty",
+                "label": "PER"
+            },
+            {
+                "entity": "Tom Robinson",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Tom Robinson",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 761,
+        "text": "Using Alvarez's dipole antenna to achieve a very high angular resolution, GCA allows ground-based radar operators watching special precision displays to guide a landing airplane to the runway by transmitting verbal commands to the pilot.",
+        "entities": [
+            {
+                "entity": "Alvarez",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 864,
+        "text": "Pebe moved the family to Nashville, Tennessee, in 1991 after securing a new publishing deal for her songwriting.",
+        "entities": [
+            {
+                "entity": "Pebe",
+                "label": "PER"
+            },
+            {
+                "entity": "Nashville , Tennessee",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Pebe",
+                "label": "PER"
+            },
+            {
+                "entity": "Nashville",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tennessee",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 606,
+        "text": "Thunderstorms are rare, as the city reports thunder on just seven days per year.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 329,
+        "text": "U.S. stock futures are surging by more than 1%, alongside European markets.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 457,
+        "text": "Those of age will be offered 500 euros by the state, to be spent by 31st December 2017.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 11,
+        "text": "Rather than teaching the scientific method as a separate unit, for example, students learn science content by applying it.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 946,
+        "text": "To get away from it all, the Remis resided in Switzerland for most of summer 1947.",
+        "entities": [
+            {
+                "entity": "Remis",
+                "label": "PER"
+            },
+            {
+                "entity": "Switzerland",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Remis",
+                "label": "ORG"
+            },
+            {
+                "entity": "Switzerland",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 623,
+        "text": "It usually involves a low level of development, such as rustic picnic areas, benches and trails.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 942,
+        "text": "This affair can be seen as the starting point for his career as a radical revolutionary.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 257,
+        "text": "I also wonder whether the Davis Cup played a part.",
+        "entities": [],
+        "response": [
+            {
+                "entity": "Davis Cup",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 167,
+        "text": "The Liberal Democrats, who represented the affluent suburb until 2010, are hoping to snatch it back with their candidate Sarah Olney.",
+        "entities": [
+            {
+                "entity": "Democrats",
+                "label": "ORG"
+            },
+            {
+                "entity": "Sarah Olney",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Liberal Democrats",
+                "label": "ORG"
+            },
+            {
+                "entity": "Sarah Olney",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 730,
+        "text": "A fundamental change in working principles was brought about by Scotsman James Watt.",
+        "entities": [
+            {
+                "entity": "James Watt",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "James Watt",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 799,
+        "text": "However, there was no further public recognition of her wartime resistance and humanitarian work until after the end of communist rule in Poland.",
+        "entities": [
+            {
+                "entity": "Poland",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Poland",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 406,
+        "text": "Do you argue with your alarm clock?",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 814,
+        "text": "Elliott was attending his father's funeral on the day of the race.",
+        "entities": [
+            {
+                "entity": "Elliott",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 498,
+        "text": "\"There will be protests and other things, it's all already planned,\" the opposition told El Mundo.",
+        "entities": [
+            {
+                "entity": "El Mundo",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "El Mundo",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 454,
+        "text": "It has been emphasised that we absolutely cannot continue with those who are completely against Italy.",
+        "entities": [
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 478,
+        "text": "For the first time in the last six years the rate of unemployment has dropped below 20%, and there are already 600,000 more people employed than there were a year ago.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 41,
+        "text": "But some security experts raised questions about the need for the course and the intent behind it.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 529,
+        "text": "In addition, statute determines the election of assembly of regions, and metropolitan districts.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 354,
+        "text": "Snowman would jump the high fencing that separated the two properties and always return to where he felt was home.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 582,
+        "text": "Such settlements probably began around 1000 BC, when eastern Melanesians travelled north.",
+        "entities": [],
+        "response": [
+            {
+                "entity": "Melanesians",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 972,
+        "text": "Between them bloomed a long professional and amicable relationship that lasted for years.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 155,
+        "text": "It would be much safer, Plato thought, to entrust power to carefully educated guardians.",
+        "entities": [
+            {
+                "entity": "Plato",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 533,
+        "text": "The northern portion of the Caucasus is known as the Ciscaucasus and the southern portion as the Transcaucasus.",
+        "entities": [
+            {
+                "entity": "Caucasus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ciscaucasus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Transcaucasus",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 682,
+        "text": "During the Post-Classic period in Yucatán a third system was in use.",
+        "entities": [
+            {
+                "entity": "Yucatán",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 229,
+        "text": "But big reductions have also been pencilled in for cod, sole, plaice, megrim and pollack in the Celtic and Irish Seas.",
+        "entities": [
+            {
+                "entity": "Celtic",
+                "label": "LOC"
+            },
+            {
+                "entity": "Irish Seas",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 654,
+        "text": "Tiberius reportedly regretted his departure and requested to return to Rome several times, but each time Augustus refused his requests.",
+        "entities": [
+            {
+                "entity": "Tiberius",
+                "label": "PER"
+            },
+            {
+                "entity": "Rome",
+                "label": "LOC"
+            },
+            {
+                "entity": "Augustus",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Tiberius",
+                "label": "PER"
+            },
+            {
+                "entity": "Rome",
+                "label": "LOC"
+            },
+            {
+                "entity": "Augustus",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 469,
+        "text": "This morning, Pope Francis met Mark Zuckerberg and his wife at Casa Santa Marta.",
+        "entities": [
+            {
+                "entity": "Francis",
+                "label": "PER"
+            },
+            {
+                "entity": "Mark Zuckerberg",
+                "label": "PER"
+            },
+            {
+                "entity": "Casa Santa Marta",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Pope Francis",
+                "label": "PER"
+            },
+            {
+                "entity": "Mark Zuckerberg",
+                "label": "PER"
+            },
+            {
+                "entity": "Casa Santa Marta",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "text": "\"If Donald Trump becomes president, the government here will still have to work with him to advance whatever shared agenda there is, to ensure that Canadian businesses and interests are represented in Washington.\"",
+        "entities": [
+            {
+                "entity": "Donald Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "Washington",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Donald Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "Canadian",
+                "label": "LOC"
+            },
+            {
+                "entity": "Washington",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 944,
+        "text": "Financed entirely with Bernard Tapie's own money, these schools were closed in 1994 when he was declared bankrupt.",
+        "entities": [
+            {
+                "entity": "Bernard Tapie",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Bernard Tapie",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 528,
+        "text": "Louis the German invaded Moravia and replaced Mojmír I with his nephew Rastiz who became St. Rastislav.",
+        "entities": [
+            {
+                "entity": "Louis the German",
+                "label": "PER"
+            },
+            {
+                "entity": "Moravia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Mojmír I",
+                "label": "PER"
+            },
+            {
+                "entity": "Rastiz",
+                "label": "PER"
+            },
+            {
+                "entity": "Rastislav",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Louis the German",
+                "label": "PER"
+            },
+            {
+                "entity": "Moravia",
+                "label": "LOC"
+            },
+            {
+                "entity": "Mojmír I",
+                "label": "PER"
+            },
+            {
+                "entity": "Rastiz",
+                "label": "PER"
+            },
+            {
+                "entity": "St. Rastislav",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 662,
+        "text": "The Tell Amarna letters, dating from the 14th century BCE, include ten letters from the kings of Gezer swearing loyalty to the Egyptian pharaoh.",
+        "entities": [
+            {
+                "entity": "Gezer",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 959,
+        "text": "The inner part of the region is flat and hilly, with no clear distinction between one area to the next.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 800,
+        "text": "Really Really Love You was released in August and reach the top 50; \"Shaky Ground\", the related single, appeared in September but Geyer was already in the US.",
+        "entities": [
+            {
+                "entity": "Geyer",
+                "label": "PER"
+            },
+            {
+                "entity": "US",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Geyer",
+                "label": "PER"
+            },
+            {
+                "entity": "US",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 943,
+        "text": "In Pluviose year III (January-February 1794), easing off the pressure of the Reign of Terror, he took various measures to liberate the suspects.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 223,
+        "text": "The RSPB’s stance has also brought it into conflict with many leading conservationists, from the author of the petition, Mark Avery, to the TV presenter Chris Packham.",
+        "entities": [
+            {
+                "entity": "RSPB",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mark Avery",
+                "label": "PER"
+            },
+            {
+                "entity": "Chris Packham",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Mark Avery",
+                "label": "PER"
+            },
+            {
+                "entity": "Chris Packham",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 361,
+        "text": "\"There are 1200 volunteers working for the parade alone,\" González Anaya says.",
+        "entities": [
+            {
+                "entity": "González Anaya",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "González Anaya",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 486,
+        "text": "Barón de Claret, the only one in Government with a noble title.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 813,
+        "text": "The car burst into flames, and Kenseth walked away.",
+        "entities": [
+            {
+                "entity": "Kenseth",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Kenseth",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 585,
+        "text": "On the other hand, a healthy ecosystem with good management practices will reduce the chance of these events happening, or will at least mitigate adverse impacts.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 775,
+        "text": "Deciding to pursue drama, Winstone enrolled at the Corona Stage Academy in Hammersmith.",
+        "entities": [
+            {
+                "entity": "Winstone",
+                "label": "PER"
+            },
+            {
+                "entity": "Corona Stage Academy",
+                "label": "ORG"
+            },
+            {
+                "entity": "Hammersmith",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Winstone",
+                "label": "PER"
+            },
+            {
+                "entity": "Corona Stage Academy",
+                "label": "ORG"
+            },
+            {
+                "entity": "Hammersmith",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 171,
+        "text": "Vega suggested that, because of their age, many would be unaware of its history.",
+        "entities": [
+            {
+                "entity": "Vega",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 747,
+        "text": "Among humans both males and females are ardent singers, and making music is mostly a communal activity.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 242,
+        "text": "Back on the train, we continue southwards.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 272,
+        "text": "The money invested in Premium Bonds, and in other National Savings & Investments accounts, is used to help fund Government spending.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 305,
+        "text": "Cotton was born on October 31, 1832, in a village near Sunderland.",
+        "entities": [
+            {
+                "entity": "Cotton",
+                "label": "PER"
+            },
+            {
+                "entity": "Sunderland",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 52,
+        "text": "It's fantastic that they got the Paris Agreement but their contributions at the moment are nowhere near the 1.5-degree target.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 378,
+        "text": "Oil, gold or food products, such as wheat, are natural resources, in which investors invest billions worldwide.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 191,
+        "text": "Of course, I do understand that modern-day Germany must be separated from the Nazi regime.",
+        "entities": [
+            {
+                "entity": "Germany",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nazi",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Germany",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 475,
+        "text": "Leaders of companies such as Spotify, Tesla, Uber and Snapchat will attend a private event in addition to the Mountain View Summit.",
+        "entities": [
+            {
+                "entity": "Spotify",
+                "label": "ORG"
+            },
+            {
+                "entity": "Tesla",
+                "label": "ORG"
+            },
+            {
+                "entity": "Uber",
+                "label": "ORG"
+            },
+            {
+                "entity": "Snapchat",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Spotify",
+                "label": "ORG"
+            },
+            {
+                "entity": "Tesla",
+                "label": "ORG"
+            },
+            {
+                "entity": "Uber",
+                "label": "ORG"
+            },
+            {
+                "entity": "Snapchat",
+                "label": "ORG"
+            },
+            {
+                "entity": "Mountain View",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 990,
+        "text": "Golden Age Spanish or Early Modern Spanish is the variant of the language that constitutes the transition from Medieval Spanish to Modern Spanish.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 521,
+        "text": "The Bergeron classification is the most widely accepted form of air mass classification.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 320,
+        "text": "Enough of those, in a highly contested area, will lead to chaos election day.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 103,
+        "text": "The review is also investigating inflammatory Facebook posts from September, alleged to come from police officers in the northern Ontario city.",
+        "entities": [
+            {
+                "entity": "Ontario",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Ontario",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 183,
+        "text": "You have to stand up to that and I would rather someone ran at me rather than round me.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 923,
+        "text": "Privately as well as publicly, Springer vigorously pursued reconciliation with the Jewish people and took many trips to Israel.",
+        "entities": [
+            {
+                "entity": "Springer",
+                "label": "PER"
+            },
+            {
+                "entity": "Israel",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Springer",
+                "label": "PER"
+            },
+            {
+                "entity": "Jewish",
+                "label": "ORG"
+            },
+            {
+                "entity": "Israel",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 431,
+        "text": "On the other hand, Ms. Clinton's relations with the continent over the past twenty years leave much to be desired.",
+        "entities": [
+            {
+                "entity": "Clinton",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Ms. Clinton",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 810,
+        "text": "By this time, extravagant spending and a string of bad investments by her investors had left her nearly broke.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 673,
+        "text": "Charles, despite his harsh actions, had been seen as a ruler empathetic to the needs of the Netherlands.",
+        "entities": [
+            {
+                "entity": "Charles",
+                "label": "PER"
+            },
+            {
+                "entity": "the Netherlands",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Charles",
+                "label": "PER"
+            },
+            {
+                "entity": "Netherlands",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 805,
+        "text": "Grafton's government disintegrated in 1770, allowing the Tories led by Lord North to return to power.",
+        "entities": [
+            {
+                "entity": "Grafton",
+                "label": "PER"
+            },
+            {
+                "entity": "Tories",
+                "label": "ORG"
+            },
+            {
+                "entity": "North",
+                "label": "PER"
+            }
+        ],
+        "embedding": [
+            -0.006165286,
+            -0.0039325897,
+            -0.013941665,
+            -0.017151166,
+            -0.02608195,
+            0.027959445,
+            0.010193019,
+            0.019536091,
+            -0.013954351,
+            -0.043080885,
+            0.037803605,
+            0.02083004,
+            0.008822955,
+            -0.015603501,
+            0.011455254,
+            0.030268256,
+            0.006774203,
+            -0.02458503,
+            -0.001589686,
+            -0.010878051,
+            0.019295061,
+            0.002056681,
+            0.010161305,
+            0.014195381,
+            0.025549147,
+            -0.011461596,
+            -0.00089434703,
+            -0.019713692,
+            -0.0031333861,
+            0.00823941,
+            -0.009305015,
+            -0.0078017507,
+            -0.030090654,
+            -0.027147556,
+            -0.021692673,
+            -0.018622715,
+            -0.016060188,
+            -0.009330386,
+            -0.0037423032,
+            0.018990602,
+            -0.0003191265,
+            -0.0097680455,
+            0.0056673693,
+            0.0025308118,
+            -0.0038469608,
+            0.0028701562,
+            0.022796335,
+            0.0011472696,
+            -0.0035171306,
+            0.0057910555,
+            0.0044653923,
+            0.018724201,
+            -0.022910507,
+            0.0020868098,
+            0.0021882958,
+            -0.00889907,
+            -0.012971204,
+            0.019079404,
+            -0.0060352567,
+            -0.0037740176,
+            0.010548221,
+            -0.0025831407,
+            -0.012172,
+            -0.0020154524,
+            -0.015172185,
+            0.0053882822,
+            -0.0055087972,
+            0.0027432984,
+            -0.03739766,
+            -0.0021549957,
+            0.05652781,
+            0.034987364,
+            0.018318256,
+            -0.011658226,
+            0.0007730393,
+            -0.012799946,
+            -0.0013827493,
+            -0.009913932,
+            -0.040290017,
+            0.007548035,
+            0.022491876,
+            -0.016440762,
+            -0.0070786616,
+            0.024813373,
+            0.0074846065,
+            -0.017848883,
+            0.024318628,
+            0.013675264,
+            0.002370654,
+            -0.0039103897,
+            0.0063841157,
+            0.03376953,
+            0.007992038,
+            0.00551514,
+            -0.017455624,
+            -0.008137924,
+            -0.038843837,
+            0.033718787,
+            0.015172185,
+            -0.019396547,
+            0.022491876,
+            -0.0020661952,
+            0.00033914624,
+            -0.010706793,
+            -0.025041716,
+            -0.0105355345,
+            -0.01674522,
+            -0.012489144,
+            0.005619798,
+            0.00020753132,
+            -0.004700079,
+            0.008302839,
+            0.006736146,
+            -0.025295433,
+            -0.006552202,
+            0.0011559911,
+            0.02115987,
+            -0.0072626052,
+            0.02313885,
+            -0.029633967,
+            0.013548406,
+            -0.012698459,
+            0.0055563687,
+            -0.017950369,
+            0.015476644,
+            0.012254457,
+            0.00059781707,
+            0.022238161,
+            -0.011740684,
+            -0.0050647953,
+            0.022047874,
+            0.0047159363,
+            0.019802492,
+            -0.0021724387,
+            0.0018108941,
+            0.0336173,
+            -0.024445485,
+            -0.013142461,
+            -0.026690867,
+            -0.015869902,
+            -0.0015651073,
+            0.00070961047,
+            0.022098618,
+            -0.009089356,
+            0.031232374,
+            0.010091533,
+            -0.0024198112,
+            0.009450901,
+            0.021844901,
+            -0.011670912,
+            0.012007085,
+            -0.0051599382,
+            0.021388214,
+            -0.019713692,
+            0.00044875924,
+            0.0015595573,
+            0.0020297237,
+            -0.008715127,
+            -0.035367936,
+            -0.0070406045,
+            -0.0014826498,
+            0.008918099,
+            0.012172,
+            0.0021867102,
+            0.017201908,
+            0.014905784,
+            -0.024166398,
+            0.027274413,
+            0.004100676,
+            -0.005721284,
+            0.020753926,
+            0.005943285,
+            -0.049398404,
+            0.014537896,
+            0.021679986,
+            0.020817354,
+            -0.0024911687,
+            0.014512525,
+            -0.014246124,
+            -0.009704617,
+            -0.025193946,
+            0.016884765,
+            0.025396919,
+            0.039782587,
+            -0.006507802,
+            -0.0034663875,
+            0.01614899,
+            0.016922822,
+            0.03151146,
+            -0.01803917,
+            -0.0049537946,
+            0.0031777862,
+            -0.007440206,
+            0.00676786,
+            -0.65275913,
+            -0.0093367295,
+            0.005074309,
+            9.5936164e-05,
+            -0.0050521092,
+            -0.0015341857,
+            0.008080837,
+            0.016174361,
+            -0.007827123,
+            -0.006295315,
+            -0.02656401,
+            0.011379139,
+            0.007065976,
+            -0.0032824439,
+            -0.017899627,
+            -0.013802121,
+            -0.015527387,
+            0.019193575,
+            0.0336173,
+            0.021185242,
+            -0.028314646,
+            0.018483171,
+            -0.005670541,
+            5.604535e-05,
+            0.02386194,
+            -0.01755711,
+            0.022098618,
+            -0.012717488,
+            -0.02968471,
+            0.0069074035,
+            -0.026335666,
+            -0.018495858,
+            -0.0038437895,
+            0.028289275,
+            0.033059124,
+            0.02500366,
+            -0.027477385,
+            0.011740684,
+            0.00050069165,
+            0.013713321,
+            -0.013218576,
+            0.028111674,
+            0.025840921,
+            -0.0012059413,
+            -0.0102247335,
+            -0.016516877,
+            -0.0071294047,
+            -0.020868097,
+            0.0060035423,
+            -0.020969583,
+            0.000800393,
+            0.002792456,
+            -0.004633479,
+            0.028060932,
+            -0.0036820457,
+            0.004528821,
+            0.019891294,
+            0.003482245,
+            0.0105609065,
+            -0.0018505373,
+            -0.008290153,
+            0.008353582,
+            -0.003412473,
+            -0.029050421,
+            0.006485602,
+            -0.026107322,
+            -0.0030239713,
+            0.034353074,
+            0.013675264,
+            -0.022035189,
+            0.02056364,
+            0.013383491,
+            -0.0073133484,
+            -0.028466877,
+            0.021515071,
+            -0.0024245684,
+            0.015070699,
+            -0.009660216,
+            0.038285665,
+            -0.011252281,
+            -0.03574851,
+            -0.017100424,
+            -0.013155147,
+            0.008264781,
+            0.04475541,
+            -0.029583223,
+            -0.029050421,
+            -0.0014334924,
+            0.012311543,
+            -0.006158943,
+            0.005315339,
+            0.032044265,
+            0.004211677,
+            -0.009558731,
+            0.0030953288,
+            0.023519425,
+            -0.0062255436,
+            -0.013573778,
+            0.016351962,
+            -0.010288162,
+            0.01287606,
+            -0.010262791,
+            0.005445368,
+            -0.0246104,
+            0.009533359,
+            0.03445456,
+            -0.014296867,
+            0.02173073,
+            0.04112728,
+            -0.047114965,
+            -0.0028796706,
+            -0.0063365437,
+            -0.0033173298,
+            0.0022009816,
+            -0.02083004,
+            -0.016022133,
+            0.009374786,
+            0.021451643,
+            -0.019891294,
+            -0.027654987,
+            0.011011251,
+            0.003697903,
+            0.025878977,
+            -0.02557452,
+            -0.0043765916,
+            0.03904681,
+            0.020969583,
+            -0.030268256,
+            -0.01188657,
+            0.020779297,
+            -0.0010473692,
+            0.013040975,
+            0.045719527,
+            -0.0040531047,
+            0.051301267,
+            0.013675264,
+            0.0043670777,
+            -0.014512525,
+            0.009875875,
+            -0.024737258,
+            -0.00889907,
+            -0.011594797,
+            -0.001384335,
+            -0.002489583,
+            -0.009951989,
+            0.004642993,
+            -0.001128241,
+            -0.024344,
+            -0.013700635,
+            0.012869718,
+            -0.00030168355,
+            0.01722728,
+            -0.0140938945,
+            0.0006993033,
+            -0.019092089,
+            0.0154385865,
+            -0.023633596,
+            0.011613825,
+            -0.002860642,
+            -0.026056578,
+            -0.00021783852,
+            0.013662578,
+            -0.017709339,
+            -0.007116719,
+            -0.0047159363,
+            -0.022682164,
+            -0.0024864117,
+            0.023544796,
+            0.011379139,
+            -0.027249042,
+            0.0061906576,
+            0.004858651,
+            0.01557813,
+            -0.010630678,
+            0.004722279,
+            -0.0025609406,
+            -0.00865804,
+            -0.026513267,
+            0.02551109,
+            -0.00043726276,
+            0.00032665866,
+            -0.00079444656,
+            -0.011829483,
+            -0.00813158,
+            0.0073767775,
+            0.0032570723,
+            0.005572226,
+            -0.023760453,
+            -0.009197186,
+            -0.016554935,
+            0.0057117697,
+            0.007459235,
+            0.010871707,
+            -0.009729988,
+            0.015502015,
+            -0.013573778,
+            0.0070850044,
+            -0.00013211044,
+            0.009108385,
+            0.031536832,
+            0.014829669,
+            0.01656762,
+            0.031612948,
+            -0.024229828,
+            0.00643803,
+            -0.00075123564,
+            -0.0066029453,
+            -0.014537896,
+            0.0015476644,
+            0.009717302,
+            -0.008321867,
+            -0.018191399,
+            -0.018508544,
+            -0.015463958,
+            -0.016047504,
+            0.020297237,
+            -0.005014052,
+            0.021806845,
+            -0.011740684,
+            -0.012140285,
+            0.00037204995,
+            0.0052582533,
+            -0.006780546,
+            0.00061327784,
+            -0.05891273,
+            -0.019548777,
+            -0.0054707397,
+            -0.01575573,
+            0.00639363,
+            -0.04135562,
+            -0.013827493,
+            0.007161119,
+            -0.002917728,
+            0.007941294,
+            0.008696098,
+            -0.0074719205,
+            -0.009381129,
+            -0.0028067273,
+            0.034682903,
+            -0.0058957133,
+            0.0029732282,
+            -0.0136372065,
+            -0.013840179,
+            -0.0044305064,
+            -0.007440206,
+            -0.027249042,
+            0.0341501,
+            -0.015362471,
+            -0.026284922,
+            0.008359925,
+            0.015299043,
+            0.016935507,
+            0.0065331734,
+            -0.011169824,
+            0.035215706,
+            -0.029329509,
+            0.019662948,
+            0.006292144,
+            0.027096812,
+            0.032602437,
+            -0.0014231852,
+            0.004068962,
+            0.0045541925,
+            -0.030572714,
+            0.009780731,
+            0.0047888793,
+            0.012983889,
+            0.020627068,
+            -0.0049950234,
+            -0.009869532,
+            0.018013798,
+            0.013383491,
+            0.026995325,
+            -0.019916665,
+            0.0136372065,
+            -0.0064126584,
+            -0.0003700678,
+            0.012666745,
+            0.0029319995,
+            -0.0018600515,
+            -0.02346868,
+            -0.019688321,
+            0.008664384,
+            0.031765178,
+            -0.003783532,
+            -0.024800688,
+            -0.011277652,
+            0.022441134,
+            -0.0211345,
+            0.024673829,
+            0.01755711,
+            0.009577759,
+            -0.0018426086,
+            -0.011347424,
+            -0.019612206,
+            -0.028999679,
+            0.02230159,
+            -0.02656401,
+            -0.003834275,
+            -0.0140685225,
+            -0.015134128,
+            -0.013662578,
+            0.000698114,
+            -0.015692301,
+            0.023164222,
+            0.028974306,
+            -0.026031207,
+            -0.0020471667,
+            0.015349786,
+            -0.0073577487,
+            -0.014893098,
+            0.0055944263,
+            0.018559286,
+            -0.035824623,
+            -0.025625262,
+            0.029659338,
+            0.013840179,
+            0.030623456,
+            0.03706783,
+            -0.026919212,
+            -0.0095270155,
+            -0.021172555,
+            0.007979351,
+            -0.019383863,
+            0.112751156,
+            0.037423033,
+            -0.017278023,
+            0.016643735,
+            0.0013137704,
+            -0.0029827424,
+            0.009089356,
+            -0.035215706,
+            0.022669477,
+            0.017493682,
+            0.026919212,
+            -0.01353572,
+            0.0035520166,
+            0.02689384,
+            0.017709339,
+            0.009457245,
+            -0.0038533036,
+            -0.04100042,
+            -0.023011994,
+            -0.0030461713,
+            -0.008918099,
+            0.004049933,
+            0.0017173366,
+            0.032653183,
+            -0.04526284,
+            0.003961133,
+            -0.009901246,
+            -0.007896894,
+            -0.0019012803,
+            0.006736146,
+            -0.0034251588,
+            0.019345805,
+            -0.024153713,
+            -0.0026354694,
+            -0.0009815617,
+            -0.014931155,
+            0.012749203,
+            -0.01704968,
+            0.011429882,
+            -0.018851059,
+            0.0033205012,
+            -0.0056483406,
+            0.0021914674,
+            -0.026487894,
+            0.03544405,
+            -0.014182695,
+            0.014246124,
+            0.004792051,
+            -0.024686515,
+            -0.03653503,
+            0.019193575,
+            0.0060415994,
+            0.0012051485,
+            0.018077226,
+            0.008740498,
+            0.016351962,
+            0.013979723,
+            0.006330201,
+            0.0013082204,
+            0.027147556,
+            -0.031232374,
+            -0.03278004,
+            -0.01753174,
+            -0.021616558,
+            0.0064063156,
+            -0.024559658,
+            -0.015070699,
+            -0.005943285,
+            -0.007516321,
+            -0.030395113,
+            0.0032792725,
+            -0.005730798,
+            0.008296496,
+            0.011861199,
+            0.020665126,
+            0.004211677,
+            0.030116025,
+            0.007655864,
+            -0.0057751983,
+            0.023278395,
+            -0.01410658,
+            -0.014728183,
+            -0.023620911,
+            -0.021286728,
+            -0.000138156,
+            -0.00076947146,
+            -0.007992038,
+            0.008803926,
+            0.0018235799,
+            -0.019891294,
+            -0.0033871015,
+            0.0060352567,
+            0.0065648877,
+            0.003942104,
+            -0.020043522,
+            0.0033522157,
+            0.007059633,
+            0.025295433,
+            -0.020157695,
+            0.008448726,
+            0.021426272,
+            -0.0064570587,
+            0.002039238,
+            0.0053882822,
+            -0.0045034494,
+            -0.0012281415,
+            0.008423354,
+            0.011924627,
+            -0.020487525,
+            -0.014855041,
+            0.033541184,
+            -0.02658938,
+            -0.012666745,
+            -0.011252281,
+            -0.018838374,
+            0.0028083131,
+            0.013827493,
+            0.013015604,
+            -0.0044431924,
+            0.00042854127,
+            -0.006314344,
+            0.0022437961,
+            0.0067424886,
+            0.029583223,
+            -0.02533349,
+            0.011854855,
+            0.00025312082,
+            -0.02089347,
+            -0.018432429,
+            -0.020525582,
+            -0.016884765,
+            -0.008746841,
+            -0.01626316,
+            -0.0012701631,
+            -0.013713321,
+            0.014005094,
+            -0.016795965,
+            0.024711886,
+            -0.01680865,
+            -0.01287606,
+            -0.02254262,
+            0.006352401,
+            -0.002227939,
+            -0.0153371,
+            -0.024864117,
+            -0.011721655,
+            0.013040975,
+            -0.029659338,
+            -0.010579935,
+            0.036027595,
+            -0.0101295905,
+            -0.039909445,
+            -0.020030836,
+            -0.008049123,
+            -0.006022571,
+            -0.03511422,
+            -0.007903237,
+            -0.040264644,
+            0.0046969075,
+            0.013573778,
+            0.04802834,
+            -0.021844901,
+            0.008486782,
+            -0.011334739,
+            0.0024642115,
+            -0.0074782637,
+            -0.0018013798,
+            0.0030731286,
+            -0.018965231,
+            0.009393815,
+            0.0090956995,
+            0.018445116,
+            0.015933331,
+            -0.0043797633,
+            -0.0043226774,
+            -0.00035797668,
+            0.009013242,
+            -0.00766855,
+            0.0010116905,
+            -0.027147556,
+            -0.00790958,
+            -0.01184217,
+            -0.027604243,
+            -0.0019377519,
+            -0.0062350575,
+            0.0049886806,
+            0.019891294,
+            0.03427696,
+            0.0074846065,
+            0.0038881896,
+            0.030801058,
+            0.005534169,
+            0.013624521,
+            -0.004611279,
+            0.0023214966,
+            -0.0050108805,
+            -0.0063492297,
+            -0.0140938945,
+            -0.017417567,
+            0.0020693669,
+            -0.019777121,
+            0.005673712,
+            -0.01614899,
+            -0.017899627,
+            -0.0022850248,
+            0.018495858,
+            -0.020221123,
+            -0.002729027,
+            -0.0016761079,
+            -0.015527387,
+            -0.008918099,
+            -0.020728555,
+            -0.019383863,
+            0.0013851279,
+            -0.006399973,
+            -0.01566693,
+            -0.012692116,
+            0.0048459657,
+            -0.012990232,
+            -0.028416133,
+            0.010053475,
+            -0.020817354,
+            0.0014683782,
+            0.00044479495,
+            -0.0011131766,
+            0.00039008755,
+            -0.005023566,
+            -0.010725821,
+            0.0049189087,
+            -0.010960508,
+            -0.022250846,
+            0.0154385865,
+            -0.013434234,
+            -0.016846707,
+            -0.012717488,
+            0.009000557,
+            0.007833465,
+            -0.033084497,
+            -0.00074727135,
+            0.03676337,
+            0.0017046508,
+            -0.0046525076,
+            -0.0029938426,
+            -0.021451643,
+            -0.016580306,
+            0.011911942,
+            0.0065775737,
+            -0.02935488,
+            -0.026690867,
+            -0.01575573,
+            -0.023481367,
+            -0.017125795,
+            -0.03442919,
+            0.00031099966,
+            -0.010015418,
+            -0.005236053,
+            0.012184685,
+            -0.005584912,
+            0.012007085,
+            0.022834392,
+            -0.011195195,
+            0.0403915,
+            -0.03163832,
+            0.021768788,
+            0.003992847,
+            0.008696098,
+            -0.02625955,
+            -0.00096253306,
+            -0.02329108,
+            0.027832586,
+            -0.004170448,
+            0.013523035,
+            0.010624335,
+            0.048104454,
+            0.03034437,
+            0.003970647,
+            0.0041799624,
+            -0.0025498404,
+            0.016060188,
+            0.011835827,
+            0.017201908,
+            0.016821336,
+            -0.0064760875,
+            0.009070328,
+            -0.0062350575,
+            -0.02170536,
+            -0.017480996,
+            -0.015882589,
+            0.016592992,
+            0.0032396293,
+            -0.018800316,
+            -0.0053851106,
+            -0.011994399,
+            -0.0038057321,
+            0.0018251657,
+            0.003368073,
+            -0.0044431924,
+            0.041406363,
+            -0.015882589,
+            0.008328211,
+            0.003242801,
+            0.04282717,
+            -0.02836539,
+            -0.0076939217,
+            0.011182509,
+            0.0019345805,
+            0.03838715,
+            -0.026640125,
+            -0.008797584,
+            -0.01599676,
+            0.029481737,
+            -0.0103452485,
+            -0.008677069,
+            -0.007059633,
+            0.011785083,
+            -0.0024800687,
+            -0.0004820594,
+            -0.009666559,
+            -0.02887282,
+            0.010522849,
+            0.02410297,
+            -0.003030314,
+            0.010694107,
+            -0.029608596,
+            0.0026941411,
+            0.011429882,
+            0.0024864117,
+            0.022935878,
+            -0.026361037,
+            -0.022745593,
+            -0.0064063156,
+            0.02590435,
+            0.012717488,
+            -0.013484977,
+            -0.0136372065,
+            -0.012780917,
+            -0.003897704,
+            -0.0024975117,
+            0.0011750198,
+            0.0013113918,
+            0.0010885979,
+            -0.0018362657,
+            0.021743415,
+            -0.018369,
+            -0.014614011,
+            -0.034860507,
+            -0.0061081997,
+            0.007655864,
+            -0.015121442,
+            -0.016516877,
+            6.6092384e-06,
+            0.033515815,
+            -0.0022739249,
+            -0.01722728,
+            -0.012108571,
+            -0.0001290381,
+            -0.038158808,
+            -0.0013827493,
+            0.008220381,
+            0.01803917,
+            0.03574851,
+            0.0051599382,
+            0.0006517316,
+            0.012425715,
+            -0.013890922,
+            -0.015552758,
+            -0.0098885605,
+            0.004633479,
+            0.016377334,
+            0.0002618423,
+            0.029177278,
+            0.010928794,
+            -0.007173805,
+            0.006945461,
+            0.00016104986,
+            -0.005974999,
+            0.022466505,
+            -0.02170536,
+            0.012857031,
+            -0.0034632161,
+            -0.042066026,
+            -0.0028384419,
+            -0.008340896,
+            -0.0056832265,
+            -0.0011298266,
+            0.004820594,
+            0.006932775,
+            -0.007408492,
+            -0.0065902593,
+            -0.027908701,
+            -0.01698625,
+            -0.006051114,
+            0.00522971,
+            0.016225105,
+            -0.004719108,
+            -0.017823512,
+            0.00091813284,
+            -0.0023151536,
+            0.022796335,
+            0.021756101,
+            -0.011575769,
+            0.014195381,
+            -0.009108385,
+            -0.006495116,
+            0.0027210985,
+            -0.0055405116,
+            -0.007973009,
+            -0.0038881896,
+            -0.0008650112,
+            -0.012768231,
+            0.016554935,
+            0.011417196,
+            0.014461782,
+            -0.02370971,
+            -0.011372796,
+            -0.0035742167,
+            0.004332192,
+            -0.023887312,
+            0.022035189,
+            0.04231974,
+            -0.015476644,
+            0.009990047,
+            -0.0072562625,
+            -0.0069771754,
+            0.018229457,
+            -0.026944583,
+            -0.00032646046,
+            -0.010383305,
+            -0.019307747,
+            0.016681792,
+            -0.0037867033,
+            -0.0062667723,
+            0.02674161,
+            -0.0013597563,
+            -0.0066346596,
+            0.020855412,
+            0.22529934,
+            -0.006409487,
+            -0.0073577487,
+            0.033896387,
+            0.015273672,
+            0.011594797,
+            0.020779297,
+            0.00036669814,
+            -0.018229457,
+            0.011277652,
+            -0.0068503176,
+            0.0050616236,
+            -0.014334924,
+            0.0030905716,
+            -0.017252652,
+            -0.02785796,
+            -0.034987364,
+            -0.01753174,
+            -0.03064883,
+            0.010047132,
+            -0.0007254677,
+            0.03196815,
+            0.016998937,
+            -0.0018426086,
+            0.020538267,
+            -0.020855412,
+            -0.03559628,
+            0.001749051,
+            0.010510163,
+            0.033211354,
+            -0.02206056,
+            0.025358861,
+            -0.004820594,
+            3.9791703e-05,
+            0.009907589,
+            0.009812445,
+            0.00090623996,
+            -0.0037423032,
+            -0.018445116,
+            0.007300663,
+            -0.003276101,
+            0.0033934445,
+            0.012394001,
+            0.019295061,
+            1.7876535e-05,
+            0.02476263,
+            0.0075734067,
+            -0.0026814553,
+            -0.032856155,
+            0.021591187,
+            -0.033059124,
+            -0.00889907,
+            0.0001212086,
+            0.04282717,
+            -0.011613825,
+            0.024546972,
+            0.015603501,
+            0.008207696,
+            0.018571973,
+            -0.017417567,
+            -0.031130888,
+            0.018838374,
+            -0.001042612,
+            0.011525026,
+            -0.019561462,
+            0.03820955,
+            -0.0103198765,
+            0.013992408,
+            0.008734155,
+            -0.025676006,
+            0.01680865,
+            0.00014172388,
+            -0.011854855,
+            0.026665496,
+            -0.001999595,
+            -0.023240337,
+            0.015628872,
+            0.015844531,
+            0.0071420907,
+            -0.012457429,
+            -0.01729071,
+            0.0105609065,
+            0.009070328,
+            -0.007509978,
+            -0.0046081073,
+            -0.037778232,
+            0.014258809,
+            -0.0021407243,
+            -0.011835827,
+            0.00018602498,
+            0.016592992,
+            -0.012324229,
+            -0.005686398,
+            0.0064697443,
+            0.014170009,
+            0.0040594474,
+            -0.007617807,
+            0.010605306,
+            0.004176791,
+            -0.00011050498,
+            -0.0056483406,
+            0.02050021,
+            0.02625955,
+            -0.005584912,
+            -0.0010394405,
+            0.006717117,
+            0.023265708,
+            0.019409234,
+            0.012761888,
+            -0.014829669,
+            -0.010859022,
+            -0.010719479,
+            0.003104843,
+            -0.0047983937,
+            0.020094264,
+            0.01722728,
+            0.0027876988,
+            0.009006899,
+            -0.010389648,
+            0.006082828,
+            -0.007059633,
+            -0.02821316,
+            -0.0022755107,
+            0.018140657,
+            -0.0061304,
+            0.009856846,
+            -0.01902866,
+            0.0007888965,
+            -0.012324229,
+            -0.038260292,
+            0.0057910555,
+            -0.027096812,
+            -0.006165286,
+            -0.019421918,
+            -0.024077598,
+            0.023392566,
+            0.008740498,
+            -0.0025609406,
+            -0.028796706,
+            0.0042307056,
+            0.0064412015,
+            0.014233438,
+            0.0017363653,
+            -0.0029557853,
+            -0.010694107,
+            0.009729988,
+            0.012952175,
+            -0.017100424,
+            -0.0145505825,
+            0.0071484335,
+            -0.018305572,
+            -0.008562897,
+            -0.005692741,
+            -0.0035995883,
+            0.014943841,
+            0.0064919447,
+            -0.011296681,
+            -0.005315339,
+            0.0065141446,
+            0.015654245,
+            -0.049423773,
+            -0.008220381,
+            0.016288534,
+            -0.030116025,
+            0.0060701426,
+            -0.004950623,
+            -0.158014,
+            0.0016190219,
+            0.016795965,
+            -0.028340017,
+            0.029786196,
+            -0.034987364,
+            0.038564753,
+            0.003418816,
+            -0.030699572,
+            -0.028060932,
+            0.03247558,
+            0.046023987,
+            -0.017189223,
+            -0.005622969,
+            -0.014461782,
+            -0.011708969,
+            -0.028137045,
+            0.020791983,
+            -0.0034251588,
+            0.013903608,
+            0.022529934,
+            -0.0140938945,
+            -0.0056641977,
+            -0.028238531,
+            0.001025169,
+            0.0005450918,
+            -0.0061462573,
+            0.018267514,
+            0.015743045,
+            0.006545859,
+            -0.018115284,
+            0.006485602,
+            0.004455878,
+            -0.022923192,
+            -0.0101295905,
+            -0.0057847127,
+            0.007827123,
+            -0.004576393,
+            0.021502387,
+            0.030445857,
+            0.044197235,
+            -0.0049252515,
+            0.035367936,
+            0.0048554796,
+            -0.010617993,
+            0.031587575,
+            0.017328767,
+            0.013459606,
+            0.032678552,
+            0.006780546,
+            -0.012336914,
+            -0.006729803,
+            -0.004332192,
+            0.0035773881,
+            0.023050051,
+            0.044577807,
+            0.026361037,
+            0.014867727,
+            -0.0053692535,
+            0.022567991,
+            0.0058449702,
+            -0.014753555,
+            -0.0024055399,
+            -3.790866e-05,
+            -0.014284181,
+            -0.011721655,
+            0.012216399,
+            -0.024661144,
+            -0.033312842,
+            -0.0055405116,
+            -0.011188853,
+            -0.017519053,
+            0.020753926,
+            -0.011620169,
+            0.034023244,
+            0.006472916,
+            -0.004027733,
+            0.010446735,
+            0.017544424,
+            0.005499283,
+            0.003726446,
+            0.03133386,
+            0.0058766846,
+            0.000247769,
+            -0.021882959,
+            0.024293257,
+            0.011753369,
+            0.021096442,
+            -0.015311728,
+            -0.0043099914,
+            -0.011036623,
+            -0.04049299,
+            -0.0023833397,
+            -0.028492248,
+            -0.0024023685,
+            0.02590435,
+            0.012159314,
+            0.0046081073,
+            0.018660773,
+            -0.0062540863,
+            0.014880412,
+            -0.007947637,
+            0.00043964133,
+            0.011848512,
+            0.042624198,
+            0.0012035627,
+            -0.018508544,
+            0.018508544,
+            0.012945832,
+            -0.0056959125,
+            0.00639363,
+            0.018419743,
+            0.004785708,
+            0.0041450765,
+            -0.0153371,
+            0.0242552,
+            0.0136372065,
+            -0.020956898,
+            -0.011626512,
+            -0.027274413,
+            0.06053651,
+            0.0021502385,
+            0.0024594544,
+            -0.01704968,
+            0.008619983,
+            -0.009222558,
+            -0.10737239,
+            -0.038006578,
+            0.022453818,
+            -0.0025847263,
+            -0.0047793654,
+            0.00733872,
+            -0.0023310108,
+            0.0067424886,
+            -0.0015865145,
+            0.014867727,
+            -0.008937128,
+            -0.030826429,
+            -0.0092289,
+            -0.028771333,
+            0.0462777,
+            -0.011341082,
+            0.0037327888,
+            -0.006501459,
+            0.013840179,
+            0.019092089,
+            -0.031460717,
+            -0.007915922,
+            -0.004522478,
+            -0.015844531,
+            -0.012279829,
+            0.00039167327,
+            -0.00861364,
+            0.026995325,
+            0.005813256,
+            0.021210613,
+            0.00216451,
+            0.0016087147,
+            0.023316452,
+            -0.01197537,
+            -0.009577759,
+            -0.0104657635,
+            -0.015311728,
+            -0.0024990975,
+            0.006288972,
+            -0.014956527,
+            -0.009209871,
+            -0.021756101,
+            0.016034817,
+            -0.02272022,
+            -0.0028447846,
+            -0.025676006,
+            0.0045097927,
+            0.0073133484,
+            0.012660402,
+            -0.002078881,
+            -0.034175474,
+            0.011290339,
+            0.003043,
+            -0.01626316,
+            -0.0051662815,
+            0.008651697,
+            0.0127238305,
+            -0.018825687,
+            -0.0136372065,
+            0.014842355,
+            0.006596602,
+            -0.0028860134,
+            -0.0024689687,
+            0.0033427014,
+            0.0073450627,
+            -0.0015825502,
+            -0.022618733,
+            -0.018749572,
+            -0.002353211,
+            -0.01737951,
+            -0.0022533105,
+            0.00525191,
+            -0.0072626052,
+            0.014119266,
+            -0.004081648,
+            0.0070088897,
+            -0.03394713,
+            -0.0057973983,
+            0.017607853,
+            -0.0073260344,
+            -0.027122185,
+            -0.009990047,
+            0.025942408,
+            -0.0017982083,
+            0.027502757,
+            0.00898787,
+            -0.0010592621,
+            -0.0022057388,
+            0.0038723324,
+            0.0042877914,
+            0.0037740176,
+            0.01951072,
+            0.0031191146,
+            -0.015463958,
+            0.025308117,
+            0.03366804,
+            -0.020512896,
+            0.020665126,
+            -0.0054548825,
+            -0.0026846267,
+            0.00093399006,
+            -0.007655864,
+            -0.053077277,
+            0.041888423,
+            -0.016136304,
+            -0.004858651,
+            0.0023056394,
+            0.04198991,
+            0.012838003,
+            -0.022732906,
+            -0.01070045,
+            0.0070469473,
+            -0.020068893,
+            0.033845644,
+            -0.016110932,
+            -0.016351962,
+            -0.007230891,
+            -0.028669847,
+            0.0073070056,
+            -0.0026830412,
+            0.0039738184,
+            0.016009446,
+            0.012000741,
+            -0.0011322052,
+            0.019079404,
+            0.009197186,
+            -0.00870244,
+            0.009127414,
+            0.018077226,
+            0.04559267,
+            0.0032332866,
+            -0.009355758,
+            0.0045161354,
+            -0.015933331,
+            -0.0064475443,
+            -0.019117462,
+            0.009774389,
+            0.0064126584,
+            0.012952175,
+            0.0025545976,
+            0.031917404,
+            0.047774624,
+            -0.01184217,
+            -0.014487153,
+            0.016884765,
+            -0.009159128,
+            0.018483171,
+            -0.014043151,
+            0.004563707,
+            0.0005926635,
+            0.006016228,
+            0.018559286,
+            0.011791427,
+            0.0049315942,
+            -0.0063841157,
+            -0.016072875,
+            -0.03544405,
+            -0.027020698,
+            0.04133025,
+            0.011214224,
+            0.011042966,
+            -0.04178694,
+            0.016466133,
+            -0.015730359,
+            0.017151166,
+            -0.0073577487,
+            0.023164222,
+            -0.016897451,
+            -0.0015302214,
+            0.008683412,
+            0.026792353,
+            -0.048459657,
+            -0.0075353496,
+            -0.011740684,
+            0.018089913,
+            0.020449467,
+            0.015768416,
+            -0.00073577487,
+            -0.0034061302,
+            0.008753183,
+            -0.021058384,
+            0.022009818,
+            -0.0114742825,
+            -0.010637021,
+            -0.015844531,
+            0.024965603,
+            0.023392566,
+            0.0073070056,
+            -0.0021090098,
+            0.0021407243,
+            -0.02542229,
+            0.022326961,
+            -0.007776379,
+            0.0015508358,
+            0.00430682,
+            -0.023164222,
+            -0.016618364,
+            -0.003526645,
+            -0.007300663,
+            0.027654987,
+            -0.0033300156,
+            0.029430995,
+            0.0008824541,
+            0.02379851,
+            -0.011214224,
+            0.00083329674,
+            -0.013370805,
+            0.018178713,
+            -0.008036437,
+            -0.01074485,
+            -0.018229457,
+            -0.03983333,
+            0.015882589,
+            0.009025928,
+            9.648126e-05,
+            0.014855041,
+            -0.009660216,
+            0.014246124,
+            -0.0038215893,
+            -0.020462153,
+            -0.034378447,
+            -0.031435348,
+            0.032932267,
+            -0.0138782365,
+            0.007065976,
+            -0.0026465694,
+            0.008683412,
+            -0.0006148636,
+            0.018153341,
+            -0.016669106,
+            -0.013218576,
+            0.021210613,
+            0.015654245,
+            0.0065775737,
+            -0.016859394,
+            -0.0041165333,
+            0.01639002,
+            -0.024914859,
+            -0.004687393,
+            0.007605121,
+            -0.01779814,
+            -0.00064182084,
+            -3.352315e-05,
+            -0.014855041,
+            0.0063206865,
+            0.009038613,
+            0.036864858,
+            -0.0074338634,
+            0.013091718,
+            -0.0214009,
+            -0.02788333,
+            0.0071294047,
+            0.0065712305,
+            0.0040879906,
+            -0.036661886,
+            -0.001913966,
+            -0.0016998936,
+            -0.007123062,
+            0.020208437,
+            0.0049030515,
+            0.003726446,
+            0.021071069,
+            -0.0008824541,
+            -0.0036439884,
+            -0.0007464785,
+            -0.0066854027,
+            -0.02083004,
+            0.028035559,
+            -0.016402705,
+            -0.013383491,
+            -0.00461445,
+            0.009501644,
+            0.008106209,
+            -0.047799993,
+            -0.015933331,
+            0.007230891,
+            0.0097680455,
+            -0.008144267,
+            -0.009704617,
+            0.012945832,
+            0.0022881965,
+            -0.025561834,
+            0.02902505,
+            -0.008353582,
+            -0.020335294,
+            0.015616187,
+            -0.0050267377,
+            0.0068059172,
+            -0.009444558,
+            -0.014702812
+        ]
+    },
+    {
+        "id": 453,
+        "text": "It is difficult to think that Italy has fewer km of underground line than Madrid.",
+        "entities": [
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Madrid",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Madrid",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 636,
+        "text": "The exact year of the marriage of Herod Antipas and Herodias is subject to debate among scholars.",
+        "entities": [
+            {
+                "entity": "Herod Antipas",
+                "label": "PER"
+            },
+            {
+                "entity": "Herodias",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Herod Antipas",
+                "label": "PER"
+            },
+            {
+                "entity": "Herodias",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 846,
+        "text": "Rona developed an enhanced method of preparing polonium sources and producing alpha-emissions.",
+        "entities": [
+            {
+                "entity": "Rona",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 387,
+        "text": "Russia announced a suspension of the contract at the beginning of October.",
+        "entities": [
+            {
+                "entity": "Russia",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Russia",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 232,
+        "text": "“Agora was invitation-only but many of these marketplaces are easily accessible if you know how to search,” Dr Lee adds.",
+        "entities": [
+            {
+                "entity": "Agora",
+                "label": "ORG"
+            },
+            {
+                "entity": "Lee",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Dr Lee",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 763,
+        "text": "It was so successful that the military continued to use it for many years after the war, and it was still in use in some countries in the 1980s.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 568,
+        "text": "Native Americans across the Americas relied on it as a staple of their medical treatments.",
+        "entities": [
+            {
+                "entity": "Americas",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 415,
+        "text": "The current arrests are \"a continuation of the shenanigans against us,\" said Dündar.",
+        "entities": [
+            {
+                "entity": "Dündar",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Dündar",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 531,
+        "text": "There are also languages derived from Finnish, having evolved separately, known as Meänkieli in Sweden and Kven in Norway.",
+        "entities": [
+            {
+                "entity": "Sweden",
+                "label": "LOC"
+            },
+            {
+                "entity": "Norway",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Finnish",
+                "label": "LOC"
+            },
+            {
+                "entity": "Meänkieli",
+                "label": "LOC"
+            },
+            {
+                "entity": "Sweden",
+                "label": "LOC"
+            },
+            {
+                "entity": "Kven",
+                "label": "LOC"
+            },
+            {
+                "entity": "Norway",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 405,
+        "text": "It is now only unclear, in which one.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 259,
+        "text": "Ms Hopley added: “The spike in political risk should not go unnoticed.”",
+        "entities": [
+            {
+                "entity": "Hopley",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 368,
+        "text": "Not all transformations in the region have been successful.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 30,
+        "text": "And by 2007, at the height of its popularity (and, perhaps, Knightley's) it was a top 50 name, with three times more babies named Keira than Kiera.",
+        "entities": [
+            {
+                "entity": "Knightley",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Knightley",
+                "label": "PER"
+            },
+            {
+                "entity": "Keira",
+                "label": "PER"
+            },
+            {
+                "entity": "Kiera",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 613,
+        "text": "From the 16th century, Europeans visiting the Caribbean region identified the \"South Sea\" (the Pacific Ocean, to the south of the isthmus of Panama) as opposed to the \"North Sea\" (the Caribbean Sea, to the north of the same isthmus).",
+        "entities": [
+            {
+                "entity": "Pacific Ocean",
+                "label": "LOC"
+            },
+            {
+                "entity": "Panama",
+                "label": "LOC"
+            },
+            {
+                "entity": "Caribbean Sea",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 207,
+        "text": "Surprising as it may seem, even acid rain clouds can have a silver lining.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 794,
+        "text": "Her latest non-fiction is about Margaret Douglas, Countess of Lennox.",
+        "entities": [
+            {
+                "entity": "Margaret Douglas",
+                "label": "PER"
+            },
+            {
+                "entity": "Lennox",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Margaret Douglas",
+                "label": "PER"
+            },
+            {
+                "entity": "Countess of Lennox",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 808,
+        "text": "In 1770, his brother Prince Henry, Duke of Cumberland and Strathearn, was exposed as an adulterer, and the following year Cumberland married a young widow, Anne Horton.",
+        "entities": [
+            {
+                "entity": "Henry",
+                "label": "PER"
+            },
+            {
+                "entity": "Cumberland",
+                "label": "LOC"
+            },
+            {
+                "entity": "Strathearn",
+                "label": "LOC"
+            },
+            {
+                "entity": "Cumberland",
+                "label": "PER"
+            },
+            {
+                "entity": "Anne Horton",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Prince Henry",
+                "label": "PER"
+            },
+            {
+                "entity": "Duke of Cumberland and Strathearn",
+                "label": "PER"
+            },
+            {
+                "entity": "Anne Horton",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 932,
+        "text": "This drawing up was the founding act of Roman law, the institutions of the Roman Republic and the mos maiorum.",
+        "entities": [
+            {
+                "entity": "Roman Republic",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 142,
+        "text": "Republican economists caution against taking this data as proof that their party is lousy at economic policy.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 547,
+        "text": "Two of the most notable Mediterranean civilisations in classical antiquity were the Greek city states and the Phoenicians, both of which extensively colonised the coastlines of the Mediterranean.",
+        "entities": [
+            {
+                "entity": "Mediterranean",
+                "label": "LOC"
+            },
+            {
+                "entity": "Mediterranean",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 195,
+        "text": "I can just do that with my life.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 674,
+        "text": "In 1566, a league of about 400 members of the nobility presented a petition to the governor Margaret of Parma, to suspend persecution until the rest had returned.",
+        "entities": [
+            {
+                "entity": "Margaret",
+                "label": "PER"
+            },
+            {
+                "entity": "Parma",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Margaret of Parma",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 653,
+        "text": "Medicine was also studied, especially in southern Italy, where Islamic medicine influenced the school at Salerno.",
+        "entities": [
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Salerno",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Italy",
+                "label": "LOC"
+            },
+            {
+                "entity": "Salerno",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 495,
+        "text": "And they must be greeted with an open spirit and clear mind because they form the new generation of beauty and hope.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 593,
+        "text": "These are not very popular due to the often remote and roadless locations.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 491,
+        "text": "In the war films or cowboy and Indian films the battles, fights and beatings were out of this world.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 921,
+        "text": "The traces of blood on the clothes were in the shape that they were reported to have by the news reports on the day of the murder.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 935,
+        "text": "Literacy had been lost and Mycenaean script forgotten, but the Greeks adopted the Phoenician alphabet, modifying it to create the Greek alphabet.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 424,
+        "text": "The contaminants not only attack the undeveloped lungs of the little ones; they can also lead to long-term impairment in the development of the adolescent brain.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 68,
+        "text": "\"Luckily, someone in Sony Australia was like, 'Hey, by the way, did you guys notice this?'\" says Pall.",
+        "entities": [
+            {
+                "entity": "Sony Australia",
+                "label": "ORG"
+            },
+            {
+                "entity": "Pall",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Sony Australia",
+                "label": "ORG"
+            },
+            {
+                "entity": "Pall",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "text": "It is the most common tumour found in babies, occurring in one of every 35,000 births.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 489,
+        "text": "Federico Fellini once said: \"The clown is to humanity as the shadow is to man\".",
+        "entities": [
+            {
+                "entity": "Federico Fellini",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Federico Fellini",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 336,
+        "text": "\"Loving\" opens with Richard and Mildred already a couple, eliding over a courtship that would have been interesting to see, if only in brief.",
+        "entities": [
+            {
+                "entity": "Richard",
+                "label": "PER"
+            },
+            {
+                "entity": "Mildred",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Richard",
+                "label": "PER"
+            },
+            {
+                "entity": "Mildred",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 444,
+        "text": "It aims to take the journey time into account after deducting this from the working hours actually completed, without being able to measure the real journey time.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 89,
+        "text": "He also said Klein was uncommunicative, uncooperative and unwilling to walk up from cells under the courthouse to attend his hearing.",
+        "entities": [
+            {
+                "entity": "Klein",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 991,
+        "text": "On the other hand, external history contains references to the history of Spanish speakers, their historical vicissitudes and the social use of the language.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 732,
+        "text": "In the Second Messenian War, Sparta established itself as a local power in Peloponnesus and the rest of Greece.",
+        "entities": [
+            {
+                "entity": "Sparta",
+                "label": "ORG"
+            },
+            {
+                "entity": "Peloponnesus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Sparta",
+                "label": "ORG"
+            },
+            {
+                "entity": "Peloponnesus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Greece",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 555,
+        "text": "This retreat came as a surprise to the Austro-Prussian army, and almost all of the Danish army succeeded in completing the evacuation.",
+        "entities": [],
+        "response": [
+            {
+                "entity": "Austro-Prussian",
+                "label": "ORG"
+            },
+            {
+                "entity": "Danish",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 455,
+        "text": "We will evaluate whether and how to continue onto the next section.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 321,
+        "text": "North Carolina is ground zero in this election.",
+        "entities": [
+            {
+                "entity": "North Carolina",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "North Carolina",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 221,
+        "text": "At best it is naive and at worst it would yet again let the shooting lobby off the hook.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 93,
+        "text": "But China's growing middle class has been unusually vocal in its complaints about toxic air in cities like Beijing, which can see day after day of lung-choking smog.",
+        "entities": [
+            {
+                "entity": "China",
+                "label": "LOC"
+            },
+            {
+                "entity": "Beijing",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "China",
+                "label": "LOC"
+            },
+            {
+                "entity": "Beijing",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "text": "In China the hair is typically put in a chemical bath to remove the cuticle completely, Tarlo explains.",
+        "entities": [
+            {
+                "entity": "China",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tarlo",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 619,
+        "text": "By mid-1962, Brooks and Carson had largely finished the editing, and were laying the groundwork for promoting the book by sending the manuscript out to select individuals for final suggestions.",
+        "entities": [
+            {
+                "entity": "Brooks",
+                "label": "PER"
+            },
+            {
+                "entity": "Carson",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Brooks",
+                "label": "PER"
+            },
+            {
+                "entity": "Carson",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 282,
+        "text": "They will play on Saturday, 10 June.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 45,
+        "text": "\"Unfortunately once again the few ruin it for the many,\" wrote Jesse LaBrocca, founder of Hack Forums, in a message explaining why the section was being closed.",
+        "entities": [
+            {
+                "entity": "Jesse LaBrocca",
+                "label": "PER"
+            },
+            {
+                "entity": "Hack Forums",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Jesse LaBrocca",
+                "label": "PER"
+            },
+            {
+                "entity": "Hack Forums",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 834,
+        "text": "She starred in the 2012 film The Five-Year Engagement, directed by Nicholas Stoller and co-starring Jason Segel.",
+        "entities": [
+            {
+                "entity": "Nicholas Stoller",
+                "label": "PER"
+            },
+            {
+                "entity": "Jason Segel",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Nicholas Stoller",
+                "label": "PER"
+            },
+            {
+                "entity": "Jason Segel",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 875,
+        "text": "The Treaty of London, signed on 30 May 1913, partitioned significant part of territory claimed by Albania, regardless its ethnic composition, between the Balkan allies reducing the territory of Albania to its central regions.",
+        "entities": [
+            {
+                "entity": "Albania",
+                "label": "ORG"
+            },
+            {
+                "entity": "Balkan",
+                "label": "LOC"
+            },
+            {
+                "entity": "Albania",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 308,
+        "text": "London’s landmark South Bank Tower commissioned interior designer Rachel Winham to design the show apartment.",
+        "entities": [
+            {
+                "entity": "London",
+                "label": "LOC"
+            },
+            {
+                "entity": "South Bank Tower",
+                "label": "LOC"
+            },
+            {
+                "entity": "Rachel Winham",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "London",
+                "label": "LOC"
+            },
+            {
+                "entity": "South Bank Tower",
+                "label": "ORG"
+            },
+            {
+                "entity": "Rachel Winham",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 554,
+        "text": "The Schlei and the wetlands between the Danevirke and Husum had frozen solid in a hard winter, and the territory immediately south of the Danevirke had been conquered by the advancing German army.",
+        "entities": [
+            {
+                "entity": "Schlei",
+                "label": "LOC"
+            },
+            {
+                "entity": "Danevirke",
+                "label": "LOC"
+            },
+            {
+                "entity": "Husum",
+                "label": "LOC"
+            },
+            {
+                "entity": "Danevirke",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Schlei",
+                "label": "LOC"
+            },
+            {
+                "entity": "Danevirke",
+                "label": "LOC"
+            },
+            {
+                "entity": "Husum",
+                "label": "LOC"
+            },
+            {
+                "entity": "Danevirke",
+                "label": "LOC"
+            },
+            {
+                "entity": "German",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 741,
+        "text": "In Europe, before the outbreak of the war, the Allies had significant advantages in both population and economics.",
+        "entities": [
+            {
+                "entity": "Europe",
+                "label": "LOC"
+            },
+            {
+                "entity": "Allies",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 269,
+        "text": "Or is it an expensive standard or prepayment tariff?",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 590,
+        "text": "These plant families are still present in Papua New Guinea.",
+        "entities": [
+            {
+                "entity": "Papua New Guinea",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Papua New Guinea",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 369,
+        "text": "Buried 100 meters (328 feet) underground, the Pyongyang Metro is one of the deepest commuter systems in the world.",
+        "entities": [
+            {
+                "entity": "Pyongyang",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Pyongyang",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 715,
+        "text": "This contact with the West during the 16th century lead to a period of profound economic growth as lucrative trade routes were established.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 86,
+        "text": "Despite the release of a photo this morning, police in B.C. say they have more questions than answers about an apparently homeless man charged in the fatal stabbing of a teen girl at her Abbotsford high school.",
+        "entities": [
+            {
+                "entity": "B.C.",
+                "label": "LOC"
+            },
+            {
+                "entity": "Abbotsford",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "B.C.",
+                "label": "LOC"
+            },
+            {
+                "entity": "Abbotsford",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 562,
+        "text": "It differs from the western portion of the country in that its prominent topographic features do not parallel the coast.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 573,
+        "text": "Water from the rivers is used in over 500 hydroelectricity power plants, generating as much as 2900 kilowatts of electricity.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 279,
+        "text": "After some genius surgery and a lot of very tough rehab, I have made a full recovery.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 898,
+        "text": "Likely the most well-known person from the Copper Age is Ötzi, the frozen mummy who lived during 3300 BC.",
+        "entities": [
+            {
+                "entity": "Ötzi",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Ötzi",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 617,
+        "text": "The essay, published as Undersea, was a vivid narrative of a journey along the ocean floor.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 209,
+        "text": "You end up listening more acutely for the next noise and getting more irritated when it comes.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 102,
+        "text": "The Ontario Independent Police Review Director, Gerry McNeilly, set the terms for his review this week after \"alarming questions\" were raised about how officers interact with Indigenous peoples.",
+        "entities": [
+            {
+                "entity": "Ontario Independent Police Review",
+                "label": "ORG"
+            },
+            {
+                "entity": "Gerry McNeilly",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Ontario Independent Police Review Director",
+                "label": "ORG"
+            },
+            {
+                "entity": "Gerry McNeilly",
+                "label": "PER"
+            },
+            {
+                "entity": "Indigenous",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 771,
+        "text": "On March 10, 1896, Herzl was visited by Reverend William Hechler, the Anglican minister to the British Embassy.",
+        "entities": [
+            {
+                "entity": "Herzl",
+                "label": "PER"
+            },
+            {
+                "entity": "William Hechler",
+                "label": "PER"
+            },
+            {
+                "entity": "British Embassy",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Herzl",
+                "label": "PER"
+            },
+            {
+                "entity": "William Hechler",
+                "label": "PER"
+            },
+            {
+                "entity": "British Embassy",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 644,
+        "text": "In later ages playwrights, historians, and other intellectuals would create works inspired by the Trojan War.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 352,
+        "text": "\"Pair prank their way into North Korean golf tournament,\" read Brisbane's Nine News.",
+        "entities": [
+            {
+                "entity": "Brisbane",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nine News",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "North Korean",
+                "label": "LOC"
+            },
+            {
+                "entity": "Brisbane",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nine News",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "text": "\"Physicians don't have these tools, they have only a prescription pad and an injection,\" Mailis said.",
+        "entities": [
+            {
+                "entity": "Mailis",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Mailis",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 164,
+        "text": "The constituency is in the council area of North Kesteven, where 62% of voters backed leaving the EU.",
+        "entities": [
+            {
+                "entity": "North Kesteven",
+                "label": "LOC"
+            },
+            {
+                "entity": "EU",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 456,
+        "text": "The hit song is \"Geronimo\" by Sheppard.",
+        "entities": [
+            {
+                "entity": "Sheppard",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Geronimo",
+                "label": "ORG"
+            },
+            {
+                "entity": "Sheppard",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 592,
+        "text": "Christopher Columbus sailed across the Atlantic Ocean to the West Indies in 1492, sparking a period of European exploration of the Americas.",
+        "entities": [
+            {
+                "entity": "Christopher Columbus",
+                "label": "PER"
+            },
+            {
+                "entity": "Atlantic Ocean",
+                "label": "LOC"
+            },
+            {
+                "entity": "West Indies",
+                "label": "LOC"
+            },
+            {
+                "entity": "Americas",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Christopher Columbus",
+                "label": "PER"
+            },
+            {
+                "entity": "Atlantic Ocean",
+                "label": "LOC"
+            },
+            {
+                "entity": "West Indies",
+                "label": "LOC"
+            },
+            {
+                "entity": "Americas",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 299,
+        "text": "Doss’s story also has an unlikely quality to it that makes it all the more appealing.",
+        "entities": [
+            {
+                "entity": "Doss",
+                "label": "PER"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 766,
+        "text": "The high altitude serves to cool the climate, which would otherwise be very hot.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 307,
+        "text": "No longer a throwback to the Seventies, flock – or coating a surface is material – is flying again.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 119,
+        "text": "Iron is an essential element the body requires to produce hemoglobin, the protein found in red blood cells that's responsible for transporting oxygen to tissues in the body.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 50,
+        "text": "\"We are moving in the right direction: the Paris Agreement will slow climate change, as will the recent Kigali Amendment to reduce HFCs,\" said Erik Solheim, head of UN Environment.",
+        "entities": [
+            {
+                "entity": "Erik Solheim",
+                "label": "PER"
+            },
+            {
+                "entity": "UN Environment",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Paris Agreement",
+                "label": "ORG"
+            },
+            {
+                "entity": "Kigali Amendment",
+                "label": "ORG"
+            },
+            {
+                "entity": "Erik Solheim",
+                "label": "PER"
+            },
+            {
+                "entity": "UN Environment",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 687,
+        "text": "They had been so moved by the beauty of the Rudyard Lake area that when their first child was born they referenced it when naming him.",
+        "entities": [
+            {
+                "entity": "Rudyard Lake",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Rudyard Lake",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 911,
+        "text": "One of his last means of placing pressure on Hungary was the threat of imposing general and free elections.",
+        "entities": [
+            {
+                "entity": "Hungary",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 460,
+        "text": "The CGI Mestre have stated in a note, that there will be no rise in VAT, for 2017 at least.",
+        "entities": [
+            {
+                "entity": "CGI",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "CGI Mestre",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 876,
+        "text": "Founded in 1925 as games for everyman, the open air theater on the great steps in front of St. Michael still attracts a diverse public.",
+        "entities": [
+            {
+                "entity": "St. Michael",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "St. Michael",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "text": "A UN review of national plans to cut carbon says they are well short of the levels needed to keep the rise in global temperatures under 2C.",
+        "entities": [
+            {
+                "entity": "UN",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 318,
+        "text": "This is a homeland security issue of the most existential kind.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 263,
+        "text": "He was promoted to chairman in October 2015, the month after the scandal was unearthed.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 960,
+        "text": "There are many prehistoric artifacts, including several different menhirs and dolmens.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 267,
+        "text": "The cost will change monthly and the price is expected to rise in winter as usage increases.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 128,
+        "text": "\"Some men get it and Bono is one of those guys,\" Leive said in a recent interview.",
+        "entities": [
+            {
+                "entity": "Bono",
+                "label": "PER"
+            },
+            {
+                "entity": "Leive",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Bono",
+                "label": "PER"
+            },
+            {
+                "entity": "Leive",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "text": "Trump's wife, Melania Trump, made her first appearance on the trail since the Republican convention in July.",
+        "entities": [
+            {
+                "entity": "Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "Melania Trump",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Melania Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "Trump",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "text": "Previously the jets had only been seen by bloggers.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 433,
+        "text": "A third-party majority is needed, specifically the votes of 367 MPs (out of 550), whereas 330 votes are required in order to trigger a referendum.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 187,
+        "text": "Mrs Clinton has a reputation for a hawkish outlook, but this will be tempered by war-weary public opinion in the US.",
+        "entities": [
+            {
+                "entity": "Clinton",
+                "label": "PER"
+            },
+            {
+                "entity": "US",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Mrs Clinton",
+                "label": "PER"
+            },
+            {
+                "entity": "US",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "text": "But a scan has shown the tumour in Ms Pugh's right lung is growing, and she has had to leave the trial.",
+        "entities": [
+            {
+                "entity": "Pugh",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Ms Pugh",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 238,
+        "text": "But they can at least lay booby-traps to confuse and deter – a concept known as “active defence”.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 24,
+        "text": "\"I'm going to jail either way, hope it was worth it.\"",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 505,
+        "text": "Examples are the Line Islands in the Pacific and the Maldives in the Indian Ocean.",
+        "entities": [
+            {
+                "entity": "Line Islands",
+                "label": "LOC"
+            },
+            {
+                "entity": "Pacific",
+                "label": "LOC"
+            },
+            {
+                "entity": "Maldives",
+                "label": "LOC"
+            },
+            {
+                "entity": "Indian Ocean",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Line Islands",
+                "label": "LOC"
+            },
+            {
+                "entity": "Pacific",
+                "label": "LOC"
+            },
+            {
+                "entity": "Maldives",
+                "label": "LOC"
+            },
+            {
+                "entity": "Indian Ocean",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 705,
+        "text": "The Macedonian eastern border with Thrace was now secured at the river Nestus (Mesta).",
+        "entities": [
+            {
+                "entity": "Thrace",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nestus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Mesta",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Macedonian",
+                "label": "LOC"
+            },
+            {
+                "entity": "Thrace",
+                "label": "LOC"
+            },
+            {
+                "entity": "Nestus",
+                "label": "LOC"
+            },
+            {
+                "entity": "Mesta",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 892,
+        "text": "Both the time and the sequence of events of this incident were vigorously discussed.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 926,
+        "text": "The Viguier and La Conte districts contain the majority of the city's social housing, where the population is mainly made up of immigrants or those of immigrant origin.",
+        "entities": [
+            {
+                "entity": "Viguier",
+                "label": "LOC"
+            },
+            {
+                "entity": "La Conte",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 247,
+        "text": "The oath involves lawmakers swearing allegiance to Hong Kong as part of the People’s Republic of China.",
+        "entities": [
+            {
+                "entity": "Hong Kong",
+                "label": "LOC"
+            },
+            {
+                "entity": "People ’s Republic of China",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Hong Kong",
+                "label": "LOC"
+            },
+            {
+                "entity": "People’s Republic of China",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 753,
+        "text": "Lamarr accompanied Mandl to business meetings where he conferred with scientists and other professionals involved in military technology.",
+        "entities": [
+            {
+                "entity": "Lamarr",
+                "label": "PER"
+            },
+            {
+                "entity": "Mandl",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Lamarr",
+                "label": "PER"
+            },
+            {
+                "entity": "Mandl",
+                "label": "PER"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "text": "Its annual budget is more than $1.4 billion, and it employs more than 6,000 people.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 178,
+        "text": "Was their divine right to the mantle as the world’s best no longer warranted?",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 707,
+        "text": "In Thessaly he defeated his enemies and by 352, he was firmly in control of this region.",
+        "entities": [
+            {
+                "entity": "Thessaly",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 981,
+        "text": "However, the breakdown between him and Linares and the discontinuation of the progressive line provoked the Revolution of Vindication which overthrew him in 1879.",
+        "entities": [
+            {
+                "entity": "Linares",
+                "label": "PER"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Linares",
+                "label": "PER"
+            },
+            {
+                "entity": "Revolution of Vindication",
+                "label": "ORG"
+            }
+        ]
+    },
+    {
+        "id": 693,
+        "text": "Higher male secondary school enrollment, per capita income and economic growth rate all had significant effects on reducing the chance of civil war.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 560,
+        "text": "The greater part of the Danube Delta lies in Romania (Tulcea county), while its northern part, on the left bank of the Chilia arm, is situated in Ukraine (Odessa Oblast).",
+        "entities": [
+            {
+                "entity": "Danube Delta",
+                "label": "LOC"
+            },
+            {
+                "entity": "Romania",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tulcea",
+                "label": "LOC"
+            },
+            {
+                "entity": "Chilia arm",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ukraine",
+                "label": "LOC"
+            },
+            {
+                "entity": "Odessa Oblast",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Romania",
+                "label": "LOC"
+            },
+            {
+                "entity": "Tulcea county",
+                "label": "LOC"
+            },
+            {
+                "entity": "Ukraine",
+                "label": "LOC"
+            },
+            {
+                "entity": "Odessa Oblast",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 220,
+        "text": "I love to play with that and I am always looking for muses that fit that bill because it is so interesting making a collection when I find one.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 268,
+        "text": "Eon’s fixed rate tariff costs £760 and Avro Energy customers would pay around £760 for its Simple and Select tariff.",
+        "entities": [
+            {
+                "entity": "Eon",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 407,
+        "text": "It's clear: Men could have more responsibility in matters of contraception.",
+        "entities": [],
+        "response": []
+    },
+    {
+        "id": 908,
+        "text": "The Suez Crisis showed the limits of the old colonial powers such as Great Britain and France in a changing world.",
+        "entities": [
+            {
+                "entity": "Suez",
+                "label": "LOC"
+            },
+            {
+                "entity": "Great Britain",
+                "label": "ORG"
+            },
+            {
+                "entity": "France",
+                "label": "ORG"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Great Britain",
+                "label": "LOC"
+            },
+            {
+                "entity": "France",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "text": "There are more differences between Sulla and Trump, Rome and the U.S., than there are similarities, but that doesn’t discredit the resemblances.",
+        "entities": [
+            {
+                "entity": "Sulla",
+                "label": "PER"
+            },
+            {
+                "entity": "Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "Rome",
+                "label": "LOC"
+            },
+            {
+                "entity": "U.S.",
+                "label": "LOC"
+            }
+        ],
+        "response": [
+            {
+                "entity": "Sulla",
+                "label": "PER"
+            },
+            {
+                "entity": "Trump",
+                "label": "PER"
+            },
+            {
+                "entity": "Rome",
+                "label": "LOC"
+            },
+            {
+                "entity": "U.S.",
+                "label": "LOC"
+            }
+        ]
+    },
+    {
+        "id": 999,
+        "text": "But when the Senate answered him definitively by prohibiting him from competing at the consolate and giving him the option of either withdrawing his troops or becoming a public enemy, he understood that, whatever alternative he chose, he would surrender unarmed into the hands of his political enemies.",
+        "entities": [
+            {
+                "entity": "Senate",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 175,
+        "text": "He worked for the BBC for a decade.",
+        "entities": [
+            {
+                "entity": "BBC",
+                "label": "ORG"
+            }
+        ],
+        "response": []
+    },
+    {
+        "id": 331,
+        "text": "He is credited with helping efforts to tackle the mountain of debt accumulated by local governments in China.",
+        "entities": [
+            {
+                "entity": "China",
+                "label": "LOC"
+            }
+        ],
+        "response": []
+    }
+]

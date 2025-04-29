@@ -9,7 +9,7 @@ def entity_filtering(sentences: List[Dict], threshold):
         entity_sc = sentence['entity_sc']
         for entity in entity_sc:
             if entity['count'] < threshold:
-                entity['count'].remove(sentence)
+                entity_sc.remove(entity)
     return sentences
 
 def sample_filtering(sentences: List[Dict], threshold):

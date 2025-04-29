@@ -1,0 +1,531 @@
+[
+  {
+    "text": "Ông đã có thêm danh tiếng tại triều đình khi được cử làm sứ giả đến triều đại Khitan Liao vào mùa hè năm 1075.",
+    "entities": [
+      {
+        "entity": "triều đại Khitan Liao",
+        "label": "ORG"
+      }
+    ],
+    "id": 651
+  },
+  {
+    "text": "Người Khiết Đan đã thực hiện một số cuộc đàm phán hung hăng để đẩy biên giới của họ về phía nam, trong khi thao túng một số đại sứ Trung Quốc bất tài đã nhượng bộ các yêu cầu của Vương quốc Liêu.",
+    "entities": [
+      {
+        "entity": "Vương quốc Liêu",
+        "label": "ORG"
+      }
+    ],
+    "id": 652
+  },
+  {
+    "text": "Y học cũng đã được nghiên cứu, đặc biệt là ở miền nam nước Ý, nơi y học Hồi giáo ảnh hưởng đến trường học tại Salerno.",
+    "entities": [
+      {
+        "entity": "nước Ý",
+        "label": "LOC"
+      },
+      {
+        "entity": "Salerno",
+        "label": "LOC"
+      }
+    ],
+    "id": 653
+  },
+  {
+    "text": "Tiberius được cho là đã hối tiếc về sự ra đi của mình và đã yêu cầu trở về Rome nhiều lần, nhưng mỗi lần Augustus đều từ chối yêu cầu của ông.",
+    "entities": [
+      {
+        "entity": "Tiberius",
+        "label": "PER"
+      },
+      {
+        "entity": "Rome",
+        "label": "LOC"
+      },
+      {
+        "entity": "Augustus",
+        "label": "PER"
+      }
+    ],
+    "id": 654
+  },
+  {
+    "text": "Anh ấy dường như đã mong muốn Thượng viện và nhà nước hành động mà không có anh ấy và các mệnh lệnh trực tiếp của anh ấy khá mơ hồ, khơi dậy cuộc tranh luận nhiều hơn về ý nghĩa thực sự của anh ấy hơn là thông qua luật pháp của anh ấy.",
+    "entities": [
+      {
+        "entity": "Thượng viện",
+        "label": "ORG"
+      }
+    ],
+    "id": 655
+  },
+  {
+    "text": "Các vị thần thể hiện rõ ràng nhu cầu thực tiễn của cuộc sống hàng ngày, và họ được cẩn thận thực hiện các nghi lễ và lễ vật được coi là thích hợp.",
+    "entities": [],
+    "id": 656
+  },
+  {
+    "text": "Điều này được thực hiện bằng thuyền từ lục địa châu Âu.",
+    "entities": [
+      {
+        "entity": "châu Âu",
+        "label": "LOC"
+      }
+    ],
+    "id": 657
+  },
+  {
+    "text": "Các di tích tôn giáo được phát hiện tại địa điểm này là một hàng gồm mười cột đá lớn đứng, được gọi là massebot, hướng theo trục bắc-nam, trong đó cột cao nhất cao 3 mét, với một cấu trúc kiểu bàn thờ ở giữa, và một bồn đá lớn, vuông.",
+    "entities": [],
+    "id": 658
+  },
+  {
+    "text": "Mục đích chính xác của những khối đá lớn này vẫn đang được tranh luận, nhưng chúng có thể đã tạo thành một \"nơi cao\" của người Canaan từ Thời kỳ Đồ Đồng Trung, khoảng năm 1600 TCN.",
+    "entities": [
+      {
+        "entity": "Canaanite",
+        "translation": "người Canaan"
+      },
+      {
+        "entity": "Middle Bronze Age",
+        "translation": "Thời kỳ Đồ Đồng Trung"
+      },
+      {
+        "entity": "ca. 1600 B.C.E.",
+        "translation": "khoảng năm 1600 TCN"
+      }
+    ],
+    "id": 659
+  },
+  {
+    "text": "Thành phố Canaanite đã bị phá hủy trong một trận hỏa hoạn, có lẽ là sau một chiến dịch của pharaoh Ai Cập Thutmose III.",
+    "entities": [
+      {
+        "entity": "Thutmose III",
+        "label": "PER"
+      }
+    ],
+    "id": 660
+  },
+  {
+    "text": "Tham chiếu lịch sử lâu đời nhất được biết đến về thành phố có thể được tìm thấy trên một dòng chữ của các địa điểm bị chinh phục tại đền thờ của Thutmose ở Karnak.",
+    "entities": [
+      {
+        "entity": "Thutmose",
+        "label": "PER"
+      },
+      {
+        "entity": "Karnak",
+        "label": "LOC"
+      }
+    ],
+    "id": 661
+  },
+  {
+    "text": "Các bức thư Tell Amarna, có niên đại từ thế kỷ 14 TCN, bao gồm mười bức thư từ các vị vua của Gezer thề trung thành với pharaoh Ai Cập.",
+    "entities": [
+      {
+        "entity": "Gezer",
+        "label": "LOC"
+      }
+    ],
+    "id": 662
+  },
+  {
+    "text": "Giấy khai sinh Thái Lan ghi lại ngày, tháng và giờ sinh, tiếp theo là ngày trong tuần, ngày âm lịch và tên con giáp tương ứng.",
+    "entities": [],
+    "id": 663
+  },
+  {
+    "text": "Con giáp của cô ấy là con Khỉ và năm kỷ niệm sáu mươi năm truyền thống của cô ấy là năm 1992.",
+    "entities": [
+      {
+        "entity": "Monkey",
+        "translation": "con Khỉ"
+      },
+      {
+        "entity": "1992",
+        "translation": "năm 1992"
+      }
+    ],
+    "id": 664
+  },
+  {
+    "text": "Màu sắc may mắn của ngày trong văn hóa Thái Lan được liệt kê trong bảng các ngày trong tuần, theo sau đó là một liên kết đến các hình ảnh Phật cho mỗi ngày trong tuần.",
+    "entities": [
+      {
+        "entity": "Phật",
+        "label": "PER"
+      }
+    ],
+    "id": 665
+  },
+  {
+    "text": "Tết Nguyên Đán và các lễ hội khác được người Hoa Thái Lan tổ chức khác nhau tùy theo cả hai, vì chúng được tính theo lịch Trung Quốc.",
+    "entities": [
+      {
+        "name": "Chinese New Year",
+        "translation": "Tết Nguyên Đán"
+      },
+      {
+        "name": "Thai Chinese",
+        "translation": "người Hoa Thái Lan"
+      },
+      {
+        "name": "Chinese calendar",
+        "translation": "lịch Trung Quốc"
+      }
+    ],
+    "id": 666
+  },
+  {
+    "text": "Ngoài ra, ông đã củng cố phòng thủ giữa Ai Cập và Châu Á, xây dựng Tường của Người Cai Trị ở khu vực Đông Đồng Bằng.",
+    "entities": [
+      {
+        "entity": "Ai Cập",
+        "label": "LOC"
+      },
+      {
+        "entity": "Châu Á",
+        "label": "LOC"
+      },
+      {
+        "entity": "Tường của Người Cai Trị",
+        "label": "LOC"
+      },
+      {
+        "entity": "Đông Đồng Bằng",
+        "label": "LOC"
+      }
+    ],
+    "id": 667
+  },
+  {
+    "text": "Ông chỉ trị vì mười lăm năm, điều này được chứng minh bởi tính chất chưa hoàn thành của nhiều công trình của ông.",
+    "entities": [],
+    "id": 668
+  },
+  {
+    "text": "Mặc dù vậy, cả hai dường như đã nắm giữ ít nhất một phần của Hạ Ai Cập.",
+    "entities": [
+      {
+        "entity": "Ai Cập",
+        "label": "LOC"
+      }
+    ],
+    "id": 669
+  },
+  {
+    "text": "Vào ngày 9 tháng 9 năm 2002, Aldrin đã bị dụ đến một khách sạn ở Beverly Hills với lý do là được phỏng vấn cho một chương trình truyền hình thiếu nhi của Nhật Bản về chủ đề không gian.",
+    "entities": [
+      {
+        "entity": "Aldrin",
+        "label": "PER"
+      },
+      {
+        "entity": "Beverly Hills",
+        "label": "LOC"
+      }
+    ],
+    "id": 670
+  },
+  {
+    "text": "Aldrin đã kết hôn ba lần.",
+    "entities": [
+      {
+        "entity": "Aldrin",
+        "label": "PER"
+      }
+    ],
+    "id": 671
+  },
+  {
+    "text": "Năm 1519, ông trở thành người cai trị đế chế Habsburg, và ông giành được danh hiệu Hoàng đế La Mã Thần thánh vào năm 1530.",
+    "entities": [
+      {
+        "entity": "Habsburg",
+        "label": "ORG"
+      },
+      {
+        "entity": "1519",
+        "label": "DATE"
+      },
+      {
+        "entity": "1530",
+        "label": "DATE"
+      },
+      {
+        "entity": "Hoàng đế La Mã Thần thánh",
+        "label": "TITLE"
+      }
+    ],
+    "id": 672
+  },
+  {
+    "text": "Charles, mặc dù hành động khắc nghiệt của ông, đã được coi là một nhà cai trị thấu hiểu nhu cầu của Hà Lan.",
+    "entities": [
+      {
+        "entity": "Charles",
+        "label": "PER"
+      },
+      {
+        "entity": "Hà Lan",
+        "label": "LOC"
+      }
+    ],
+    "id": 673
+  },
+  {
+    "text": "Vào năm 1566, một liên minh gồm khoảng 400 thành viên của giới quý tộc đã trình một bản kiến nghị lên thống đốc Margaret của Parma, yêu cầu đình chỉ cuộc đàn áp cho đến khi những người còn lại đã trở về.",
+    "entities": [
+      {
+        "entity": "Margaret",
+        "label": "PER"
+      },
+      {
+        "entity": "Parma",
+        "label": "LOC"
+      }
+    ],
+    "id": 674
+  },
+  {
+    "text": "Cuộc đấu tranh của nó chống lại Đế quốc Ottoman ở Biển Địa Trung Hải đã đặt ra những giới hạn nghiêm trọng đối với sức mạnh quân sự mà nó có thể triển khai chống lại quân nổi dậy ở Hà Lan.",
+    "entities": [
+      {
+        "entity": "Đế quốc Ottoman",
+        "label": "ORG"
+      },
+      {
+        "entity": "Biển Địa Trung Hải",
+        "label": "LOC"
+      },
+      {
+        "entity": "Hà Lan",
+        "label": "LOC"
+      }
+    ],
+    "id": 675
+  },
+  {
+    "text": "Một đài quan sát thiên văn thời kỳ Đồ Đồng đã được xây dựng ở đó vào khoảng năm 1900 TCN và liên tục phục vụ cộng đồng gần đó sống ở đó cho đến khoảng năm 700 TCN.",
+    "entities": [],
+    "id": 676
+  },
+  {
+    "text": "Không gian trung tâm được sử dụng để quan sát mặt trời mọc và trăng tròn.",
+    "entities": [],
+    "id": 677
+  },
+  {
+    "text": "Ba dấu hiệu xác định bình minh vào các ngày hạ chí và đông chí và vào hai ngày xuân phân và thu phân.",
+    "entities": [],
+    "id": 678
+  },
+  {
+    "text": "Bốn cái nữa cho độ nghiêng tối thiểu và tối đa của trăng tròn: vào mùa hè, và vào mùa đông.",
+    "entities": [],
+    "id": 679
+  },
+  {
+    "text": "Hai đo chiều dài của các tháng âm lịch.",
+    "entities": [],
+    "id": 680
+  },
+  {
+    "text": "Tầm quan trọng của nó nằm ở hai sự kiện.",
+    "entities": [],
+    "id": 681
+  },
+  {
+    "text": "Trong thời kỳ Hậu Cổ điển ở Yucatán, một hệ thống thứ ba đã được sử dụng.",
+    "entities": [
+      {
+        "entity": "Yucatán",
+        "label": "LOC"
+      }
+    ],
+    "id": 682
+  },
+  {
+    "text": "Nguồn gốc của từ Hispania gây nhiều tranh cãi và bằng chứng cho các suy đoán khác nhau chỉ dựa trên những gì tốt nhất chỉ là những điểm tương đồng, có khả năng là ngẫu nhiên, và bằng chứng hỗ trợ đáng ngờ.",
+    "entities": [],
+    "id": 683
+  },
+  {
+    "text": "Nhưng tác động của Hispania đối với những người mới đến cũng rất lớn.",
+    "entities": [
+      {
+        "entity": "Hispania",
+        "label": "LOC"
+      }
+    ],
+    "id": 684
+  },
+  {
+    "text": "Trong những giai đoạn đầu của quá trình La Mã hóa, bán đảo đã được người La Mã chia thành hai phần vì mục đích hành chính.",
+    "entities": [
+      {
+        "name": "Romanization",
+        "translation": "La Mã hóa"
+      },
+      {
+        "name": "Romans",
+        "translation": "người La Mã"
+      }
+    ],
+    "id": 685
+  },
+  {
+    "text": "Đến thế kỷ thứ 3, hoàng đế Caracalla đã thực hiện một sự phân chia mới nhưng chỉ tồn tại trong một thời gian ngắn.",
+    "entities": [
+      {
+        "entity": "Caracalla",
+        "label": "PER"
+      }
+    ],
+    "id": 686
+  },
+  {
+    "text": "Họ đã rất xúc động trước vẻ đẹp của khu vực Hồ Rudyard đến nỗi khi đứa con đầu lòng của họ chào đời, họ đã tham khảo nó khi đặt tên cho cậu bé.",
+    "entities": [
+      {
+        "entity": "Hồ Rudyard",
+        "label": "LOC"
+      }
+    ],
+    "id": 687
+  },
+  {
+    "text": "Trong thời gian ở đó, Kipling cũng đã gặp và yêu Florence Garrard, người đang ở trọ với Trix tại Southsea (nơi Trix đã trở về).",
+    "entities": [
+      {
+        "entity": "Kipling",
+        "label": "PER"
+      },
+      {
+        "entity": "Florence Garrard",
+        "label": "PER"
+      },
+      {
+        "entity": "Trix",
+        "label": "PER"
+      },
+      {
+        "entity": "Southsea",
+        "label": "LOC"
+      },
+      {
+        "entity": "Trix",
+        "label": "PER"
+      }
+    ],
+    "id": 688
+  },
+  {
+    "text": "Stephen Wheeler, biên tập viên, đã làm việc Kipling chăm chỉ, nhưng nhu cầu viết của Kipling là không thể ngăn cản.",
+    "entities": [
+      {
+        "entity": "Stephen Wheeler",
+        "label": "PER"
+      },
+      {
+        "entity": "Kipling",
+        "label": "PER"
+      },
+      {
+        "entity": "Kipling",
+        "label": "PER"
+      }
+    ],
+    "id": 689
+  },
+  {
+    "text": "Trở lại Lahore, khoảng ba mươi chín câu chuyện đã xuất hiện trên Gazette từ tháng 11 năm 1886 đến tháng 6 năm 1887.",
+    "entities": [
+      {
+        "entity": "Lahore",
+        "label": "LOC"
+      },
+      {
+        "entity": "Gazette",
+        "label": "ORG"
+      },
+      {
+        "entity": "November 1886",
+        "label": "DATE"
+      },
+      {
+        "entity": "June 1887",
+        "label": "DATE"
+      }
+    ],
+    "id": 690
+  },
+  {
+    "text": "Vào thời điểm này, anh ấy đã ngày càng suy nghĩ về tương lai.",
+    "entities": [],
+    "id": 691
+  },
+  {
+    "text": "Jin Ping Mei, xuất bản năm 1610, mặc dù kết hợp tài liệu trước đó, đánh dấu xu hướng hướng tới sáng tác độc lập và quan tâm đến tâm lý học.",
+    "entities": [
+      {
+        "name": "Jin Ping Mei",
+        "type": "Work"
+      },
+      {
+        "name": "1610",
+        "type": "Date"
+      }
+    ],
+    "id": 692
+  },
+  {
+    "text": "Tỷ lệ nhập học trung học phổ thông nam cao hơn, thu nhập bình quân đầu người và tốc độ tăng trưởng kinh tế đều có tác động đáng kể trong việc giảm khả năng xảy ra chiến tranh dân sự.",
+    "entities": [],
+    "id": 693
+  },
+  {
+    "text": "Cụ thể, tỷ lệ nhập học trung học của nam giới cao hơn 10% so với mức trung bình đã giảm khả năng xảy ra xung đột khoảng 3%, trong khi tốc độ tăng trưởng cao hơn 1% so với mức trung bình của nghiên cứu dẫn đến giảm khả năng xảy ra nội chiến khoảng 1%.",
+    "entities": [],
+    "id": 694
+  },
+  {
+    "text": "Nghiên cứu đã diễn giải ba yếu tố này như là đại diện cho thu nhập bị mất do nổi loạn, và do đó thu nhập bị mất thấp hơn khuyến khích nổi loạn.",
+    "entities": [],
+    "id": 695
+  },
+  {
+    "text": "Nói cách khác: nam thanh niên (những người chiếm phần lớn trong số các chiến binh trong các cuộc nội chiến) ít có khả năng tham gia vào một cuộc nổi dậy nếu họ đang được giáo dục hoặc có mức lương thoải mái, và có thể hợp lý giả định rằng họ sẽ thịnh vượng trong tương lai.",
+    "entities": [],
+    "id": 696
+  },
+  {
+    "text": "Thu nhập bình quân đầu người thấp đã được đề xuất như một nguyên nhân gây ra sự bất mãn, dẫn đến cuộc nổi dậy vũ trang.",
+    "entities": [],
+    "id": 697
+  },
+  {
+    "text": "Sự đảm bảo về tự do của nó hứa hẹn sẽ giải quyết căng thẳng giữa các cộng đồng và biến đế chế thành một nơi hài hòa hơn.",
+    "entities": [],
+    "id": 698
+  },
+  {
+    "text": "Cuộc nổi dậy Ả Rập bắt đầu vào năm 1916 đã xoay chuyển tình thế chống lại Đế quốc Ottoman trên mặt trận Trung Đông, nơi mà ban đầu họ dường như chiếm ưu thế trong hai năm đầu tiên của cuộc chiến.",
+    "entities": [
+      {
+        "entity": "Đế quốc Ottoman",
+        "label": "ORG"
+      }
+    ],
+    "id": 699
+  },
+  {
+    "text": "Nó đặc biệt thảo luận trong một số đoạn về những tác động suy thoái xã hội và văn hóa của chiến tranh đối với chính nhân loại.",
+    "entities": [],
+    "id": 700
+  }
+]

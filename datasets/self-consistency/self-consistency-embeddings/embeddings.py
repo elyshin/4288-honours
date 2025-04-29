@@ -33,8 +33,8 @@ def file_process(original_path, result_logs, output_path):
         json.dump(sentences, f, indent = 2, ensure_ascii=False)
     
 if __name__ == '__main__':
-    file_path = "vi_pud-ud-test.json"
-    sentences = read_file(file_path)
+    file_path = "vi_pud-ud-train-sc-R1R1.json"
+    '''sentences = read_file(file_path)
 
     file_request = "vi_test_requests.json"
     with open(file_request, 'w') as file:
@@ -78,12 +78,12 @@ if __name__ == '__main__':
             time.sleep(60)
     
     #retrieve results
-    result_id = client.batches.retrieve(batch_job.id).output_file_id
+    result_id = client.batches.retrieve(batch_job.id).output_file_id'''
 
     #results_logs for raw data check
     result_logs = "vi_embeddings_test_logs.json"
-    with open(result_logs, 'w') as f:
-        f.write(client.files.content(result_id).text)
+    '''with open(result_logs, 'w') as f:
+        f.write(client.files.content(result_id).text)'''
     
-    output_path = "vi_pud-ud-test-embeddings.json"
+    output_path = "vi_pud-ud-train-final-R1.json"
     file_process(file_path, result_logs, output_path)

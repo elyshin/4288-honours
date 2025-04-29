@@ -9,7 +9,7 @@ def read_json(filepath):
 
 def write_json(filepath, data):
     base, ext = os.path.splitext(filepath)
-    output_filepath = f"{base}2{ext}"
+    output_filepath = f"{base}R1{ext}"
     with open(output_filepath, 'w', encoding='utf-8') as file:
         json.dump(data, file, ensure_ascii=False, indent=4)
 
@@ -21,15 +21,16 @@ def self_consistency(entry: Dict):
     entity_list = entry["response_0"] + entry["response_1"] + entry["response_2"] + entry["response_3"] + entry["response_4"]
     if entity_list == []:
         return [], 0
-    # filter out bad predictions
     entity_list = filter(good_prediction, entity_list)
     entity_sc = Counter((entity["entity"], entity["label"]) for entity in entity_list)
+    if not entity_sc:
+        return [], 0
     sample_sc = sum(entity_sc.values()) / len(entity_sc)
     entity_sc = [{"entity": entity, "label": label, "count": count} for (entity, label), count in entity_sc.items()]
     return entity_sc, sample_sc
 
 if __name__ == "__main__":
-    file_path = "en_pud-ud-train-sc.json"
+    file_path = "en_pud-ud-train-final-4o-iter5.json"
     data = read_json(file_path)
     print(self_consistency(data[0]))
     for entry in data:

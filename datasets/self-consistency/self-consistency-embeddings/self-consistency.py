@@ -6,8 +6,8 @@ from typing import List, Dict
 from collections import Counter
 import os
 
-model_name = "Qwen/Qwen2.5-0.5B-Instruct"
-cache_dir = "D:/Hugging Face Cache/hub"
+model_name = "deepseek-ai/DeepSeek-R1-Distill-Llama-8B"
+cache_dir = "Hugging Face Cache/hub"
 print("Is CUDA available?", torch.cuda.is_available())
 
 model = AutoModelForCausalLM.from_pretrained(
@@ -19,7 +19,7 @@ model = AutoModelForCausalLM.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained(model_name, cache_dir=cache_dir)
 
 prompt_template = "Extract entities and return them in the JSON format: [{\"entity\": entity1, \"label\": label1}, {\"entity\": entity2, \"label\": label2}, etc.]. If there are no entities, return an empty list: []. Now, extract entities from the following text:\n"
-system_message = "You are an expert Named Entity Recognition (NER) system. Your task is to accept text as input and extract named entities.\nEntities must have one of the following labels: PER (Person), LOC (Location), ORG (Organization)."
+system_message = "You are an expert Named Entity Recognition (NER) system. Your task is to accept text as input and extract named entities.\nEntities must have one of the following labels: PER (Person), LOC (Location), ORG (Organization).\n"
 
 def read_json(filepath):
     with open(filepath, 'r', encoding='utf-8') as file:
@@ -60,8 +60,7 @@ if __name__ == "__main__":
         text = sentence["text"]
         current_prompt = prompt_template + text + "\n" 
         messages = [
-            {"role": "system", "content": system_message},
-            {"role": "user", "content": current_prompt}  
+            {"role": "user", "content": system_message + current_prompt}  
         ]
         prompt = tokenizer.apply_chat_template(
             messages,
